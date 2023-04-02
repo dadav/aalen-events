@@ -45,14 +45,6 @@ URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230402T180000Z;INTERVAL=1;WKST=MO
-DSTART:20230402T120000Z
-LOCATION:Stefansplatz
-ORGANIZER:Bezirksamt Wasseralfingen
-TITLE:Ostermarkt
-URL:https://wasseralfingen.aalen.de/ostermarkt.196656.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230402T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230402T180000Z
 LOCATION:Evangelische Stadtkirche
@@ -86,6 +78,14 @@ LOCATION:Limesmuseum Aalen
 ORGANIZER:None
 TITLE:Saisonauftakt
 URL:https://www.aalen-kultur.de/saisonauftakt.195675.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230402T180000Z;INTERVAL=1;WKST=MO
+DSTART:20230402T120000Z
+LOCATION:Stefansplatz
+ORGANIZER:Bezirksamt Wasseralfingen
+TITLE:Ostermarkt
+URL:https://wasseralfingen.aalen.de/ostermarkt.196656.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230404T180000Z;INTERVAL=1;WKST=MO
@@ -184,14 +184,6 @@ URL:https://wasseralfingen.aalen.de/tagesauflug-osterbrunnenfahrt-forchhei
  m-vdk-ov-wasseralfingen.195041.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230413T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230413T093000Z
-LOCATION:Parkplatz Schimmelberg / Affalterried
-ORGANIZER:Ski-Club Braunenberg 1971 e. V.
-TITLE:Nordic-Walking
-URL:https://hofen.aalen.de/nordic-walking.195015.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230413T163000Z;INTERVAL=1;WKST=MO
 DSTART:20230413T140000Z
 LOCATION:Limesmuseum Aalen
@@ -199,6 +191,14 @@ ORGANIZER:None
 TITLE:Familien-Feriennachmittag in den Osterferien
 URL:https://www.aalen-kultur.de/familien-feriennachmittag-in-den-osterferi
  en.195692.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230413T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230413T093000Z
+LOCATION:Parkplatz Schimmelberg / Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+TITLE:Nordic-Walking
+URL:https://hofen.aalen.de/nordic-walking.195015.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230414T235900Z;INTERVAL=1;WKST=MO
@@ -219,14 +219,6 @@ URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196350.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230415T140000Z
-LOCATION:Parkplatz Talschule
-ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
-TITLE:Osterbrunnentour
-URL:https://hofen.aalen.de/osterbrunnentour.195016.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230415T200000Z
 LOCATION:Stadthalle
 ORGANIZER:Konzertring Aalen
@@ -243,13 +235,12 @@ TITLE:Stadtführung Aalens Gassen
 URL:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196403.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230416T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230416T180000Z
-LOCATION:Stadthalle
-ORGANIZER:
-TITLE:Junge Philharmonie Ostwürttemberg - Konzert
-URL:https://www.aalen-kultur.de/junge-philharmonie-ostwuerttemberg-konzert
- .192942.htm
+RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230415T140000Z
+LOCATION:Parkplatz Talschule
+ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
+TITLE:Osterbrunnentour
+URL:https://hofen.aalen.de/osterbrunnentour.195016.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230416T235900Z;INTERVAL=1;WKST=MO
@@ -261,21 +252,21 @@ URL:https://wasseralfingen.aalen.de/platzkonzert-shw-bergkapelle-und-alten
  pflegeheim-marienhoehe.195043.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230416T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230416T180000Z
+LOCATION:Stadthalle
+ORGANIZER:
+TITLE:Junge Philharmonie Ostwürttemberg - Konzert
+URL:https://www.aalen-kultur.de/junge-philharmonie-ostwuerttemberg-konzert
+ .192942.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230418T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230418T193000Z
 LOCATION:Gasthaus „Frische Quelle“
 ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 TITLE:Stammtisch
 URL:https://hofen.aalen.de/stammtisch.195017.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230419T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DSTART:20230419T200000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Stadtgeschichten zur Guten Nacht
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196352.ht
- m
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=WEEKLY;UNTIL=20230913T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
@@ -296,12 +287,13 @@ URL:https://wasseralfingen.aalen.de/schwaebischer-stammtisch-in-wasseralfi
  ngen.195208.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=WEEKLY;UNTIL=20231221T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
-DSTART:20230420T093000Z
-LOCATION:Parkplatz Schimmelberg / Affalterried
-ORGANIZER:Ski-Club Braunenberg 1971 e. V.
-TITLE:Nordic-Walking
-URL:https://hofen.aalen.de/nordic-walking.195713.htm
+RRULE:FREQ=DAILY;UNTIL=20230419T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DSTART:20230419T200000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Stadtgeschichten zur Guten Nacht
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196352.ht
+ m
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230420T194500Z;INTERVAL=1;WKST=MO
@@ -321,13 +313,12 @@ URL:https://www.aalen-kultur.de/der-bombe-entkommen-wege-in-eine-welt-frei
  -von-atomwaffen.195150.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230421T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230421T200000Z
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-TITLE:Theater der Stadt: Automatenbüfett
-URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195159.
- htm
+RRULE:FREQ=WEEKLY;UNTIL=20231221T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
+DSTART:20230420T093000Z
+LOCATION:Parkplatz Schimmelberg / Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+TITLE:Nordic-Walking
+URL:https://hofen.aalen.de/nordic-walking.195713.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230421T235900Z;INTERVAL=1;WKST=MO
@@ -347,21 +338,13 @@ URL:https://wasseralfingen.aalen.de/monatsversammlung-djk-sg-wasseralfinge
  n.195044.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230422T190000Z;INTERVAL=1;WKST=MO
-DSTART:20230422T080000Z
-LOCATION:Blaubeuren/Kloster und Ulm/Kuhberg
-ORGANIZER:Geschichtsverein Aalen
-TITLE:Tagesfahrt nach Blaubeuren/Kloster und Ulm/Kuhberg
-URL:https://www.aalen.de/tagesfahrt-nach-blaubeuren-kloster-und-ulm-kuhber
- g.195207.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230422T000100Z
-LOCATION:Greut-Festplatz
-ORGANIZER:
-TITLE:Frühlingsfest
-URL:https://www.aalen-kultur.de/fruehlingsfest.192945.htm
+RRULE:FREQ=DAILY;UNTIL=20230421T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230421T200000Z
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Theater der Stadt Aalen
+TITLE:Theater der Stadt: Automatenbüfett
+URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195159.
+ htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -390,13 +373,21 @@ URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195160.
  htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230423T150000Z
-LOCATION:Theater der Stadt Aalen - Altes Rathaus
-ORGANIZER:Theater der Stadt Aalen
-TITLE:Theater der Stadt: Urmel aus dem Eis
-URL:https://www.aalen-kultur.de/theater-der-stadt-urmel-aus-dem-eis.195119
- .htm
+RRULE:FREQ=DAILY;UNTIL=20230422T190000Z;INTERVAL=1;WKST=MO
+DSTART:20230422T080000Z
+LOCATION:Blaubeuren/Kloster und Ulm/Kuhberg
+ORGANIZER:Geschichtsverein Aalen
+TITLE:Tagesfahrt nach Blaubeuren/Kloster und Ulm/Kuhberg
+URL:https://www.aalen.de/tagesfahrt-nach-blaubeuren-kloster-und-ulm-kuhber
+ g.195207.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230422T000100Z
+LOCATION:Greut-Festplatz
+ORGANIZER:
+TITLE:Frühlingsfest
+URL:https://www.aalen-kultur.de/fruehlingsfest.192945.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
@@ -443,13 +434,13 @@ TITLE:KubAA-Führung
 URL:https://www.aalen-kultur.de/kubaa-fuehrung.196355.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230424T151500Z
-LOCATION:Bücherei Unterkochen
-ORGANIZER:
-TITLE:Lies mit mir!  Metti Meerschwein
-URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
- 4965.htm
+RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230423T150000Z
+LOCATION:Theater der Stadt Aalen - Altes Rathaus
+ORGANIZER:Theater der Stadt Aalen
+TITLE:Theater der Stadt: Urmel aus dem Eis
+URL:https://www.aalen-kultur.de/theater-der-stadt-urmel-aus-dem-eis.195119
+ .htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
@@ -458,6 +449,15 @@ LOCATION:Torhaus - Paul-Ulmschneider-Saal
 ORGANIZER:Lokale Agenda 21 - Agenda Büro 
 TITLE:48. Agenda-Parlament 
 URL:https://www.aalen-kultur.de/48-agenda-parlament.195806.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230424T151500Z
+LOCATION:Bücherei Unterkochen
+ORGANIZER:
+TITLE:Lies mit mir!  Metti Meerschwein
+URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
+ 4965.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230425T235900Z;INTERVAL=1;WKST=MO
@@ -469,15 +469,6 @@ URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung-bezirksamt-wasse
  ralfingen.195046.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230426T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DSTART:20230426T200000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Stadtgeschichten zur Guten Nacht
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196404.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230426T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230426T193000Z
 LOCATION:Bürgersaal Wasseralfingen
@@ -487,6 +478,15 @@ URL:https://wasseralfingen.aalen.de/jahreshauptversammlung-stadtverband-sp
  ort-und-kultur.195047.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230426T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DSTART:20230426T200000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Stadtgeschichten zur Guten Nacht
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196404.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230427T200000Z;INTERVAL=1;WKST=MO
 DSTART:20230427T200000Z
 LOCATION:Stadthalle Aalen
@@ -494,14 +494,6 @@ ORGANIZER:Kulturamt der Stadt Aalen
 TITLE:Nessi Tausendschön: 30 Jahre Zenit
 URL:https://www.aalen-kultur.de/nessi-tausendschoen-30-jahre-zenit.185911.
  htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230428T000100Z
-LOCATION:Ortsmitte Fachsenfeld
-ORGANIZER:Maibaumfreunde Waiblingen
-TITLE:Maibaumstellen
-URL:https://fachsenfeld.aalen.de/maibaumstellen.195085.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
@@ -530,13 +522,12 @@ TITLE:Jahreshauptversammlung
 URL:https://fachsenfeld.aalen.de/jahreshauptversammlung.195084.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230429T200000Z
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-TITLE:Theater der Stadt: Automatenbüfett
-URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195162.
- htm
+RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230428T000100Z
+LOCATION:Ortsmitte Fachsenfeld
+ORGANIZER:Maibaumfreunde Waiblingen
+TITLE:Maibaumstellen
+URL:https://fachsenfeld.aalen.de/maibaumstellen.195085.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
@@ -571,13 +562,13 @@ TITLE:Maibaumfest
 URL:https://fachsenfeld.aalen.de/maibaumfest.195086.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230430T180000Z
-LOCATION:Stadthalle
-ORGANIZER:Städtisches Orchester Aalen
-TITLE:Konzert des Städtischen Orchesters Aalen
-URL:https://www.aalen-kultur.de/konzert-des-staedtischen-orchesters-aalen.
- 195169.htm
+RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230429T200000Z
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Theater der Stadt Aalen
+TITLE:Theater der Stadt: Automatenbüfett
+URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195162.
+ htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
@@ -586,6 +577,15 @@ LOCATION:Stadthalle Aalen
 ORGANIZER:None
 TITLE:Konzert: Stars
 URL:https://www.aalen-kultur.de/konzert-stars.196322.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230430T180000Z
+LOCATION:Stadthalle
+ORGANIZER:Städtisches Orchester Aalen
+TITLE:Konzert des Städtischen Orchesters Aalen
+URL:https://www.aalen-kultur.de/konzert-des-staedtischen-orchesters-aalen.
+ 195169.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
@@ -649,15 +649,6 @@ URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
  6409.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230505T200000Z
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-TITLE:Theater der Stadt: Außer Kontrolle
-URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195152.
- htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230505T200000Z
 LOCATION:
@@ -684,13 +675,13 @@ URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung-fv-viktoria-wa
  sseralfingen-e-v-.195050.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230506T000100Z
-LOCATION:
-ORGANIZER:
-TITLE:Tag der offenen Tür an der Hochschule
-URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-an-der-hochschule.195
- 144.htm
+RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230505T200000Z
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Theater der Stadt Aalen
+TITLE:Theater der Stadt: Außer Kontrolle
+URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195152.
+ htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;WKST=MO
@@ -727,6 +718,15 @@ TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196413.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230506T000100Z
+LOCATION:
+ORGANIZER:
+TITLE:Tag der offenen Tür an der Hochschule
+URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-an-der-hochschule.195
+ 144.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230507T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230507T200000Z
 LOCATION:Stadthalle Aalen
@@ -750,15 +750,6 @@ ORGANIZER:Lokale Agenda 21 - Agenda Büro
 TITLE:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
 URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
  taik.195794.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230510T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230510T143000Z
-LOCATION:Saal der Vereine im Bürgerhaus Wasseralfingen
-ORGANIZER:
-TITLE:Allg. Mittwochstreff VdK OV Wasseralfingen
-URL:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-wasseralfin
- gen.195052.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230510T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
@@ -796,20 +787,21 @@ TITLE:Bücherzwerge
 URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196478.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230510T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230510T143000Z
+LOCATION:Saal der Vereine im Bürgerhaus Wasseralfingen
+ORGANIZER:
+TITLE:Allg. Mittwochstreff VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-wasseralfin
+ gen.195052.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230511T194500Z;INTERVAL=1;WKST=MO
 DSTART:20230511T194500Z
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
 TITLE:Poetry slam im KUBAA
 URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188895.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230512T000100Z
-LOCATION:Spritzenhausplatz
-ORGANIZER:
-TITLE:Maimärktle
-URL:https://www.aalen-kultur.de/maimaerktle.192946.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230512T235900Z;INTERVAL=1;WKST=MO
@@ -829,12 +821,12 @@ TITLE:Themenwoche Inklusion
 URL:https://www.stadtbibliothek-aalen.de/themenwoche-inklusion.196495.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DSTART:20230513T170000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Aalens Gassen
-URL:https://www.aalen-kultur.de/aalens-gassen.196417.htm
+RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230512T000100Z
+LOCATION:Spritzenhausplatz
+ORGANIZER:
+TITLE:Maimärktle
+URL:https://www.aalen-kultur.de/maimaerktle.192946.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;WKST=MO
@@ -881,13 +873,12 @@ URL:https://www.aalen-kultur.de/schnuppertag-in-der-musikschule-der-stadt-
  aalen.196279.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230514T000100Z
-LOCATION:Musikschule Aalen
-ORGANIZER:Musikschule Aalen
-TITLE:Aalener inklusives Soundfestival
-URL:https://www.aalen-kultur.de/aalener-inklusives-soundfestival.195174.ht
- m
+RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DSTART:20230513T170000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Aalens Gassen
+URL:https://www.aalen-kultur.de/aalens-gassen.196417.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230514T200000Z;INTERVAL=1;WKST=MO
@@ -914,6 +905,15 @@ ORGANIZER:
 TITLE:Dorffest mit Landesliga Tauziehen
 URL:https://wasseralfingen.aalen.de/dorffest-mit-landesliga-tauziehen.1950
  56.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230514T000100Z
+LOCATION:Musikschule Aalen
+ORGANIZER:Musikschule Aalen
+TITLE:Aalener inklusives Soundfestival
+URL:https://www.aalen-kultur.de/aalener-inklusives-soundfestival.195174.ht
+ m
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230515T235900Z;INTERVAL=1;WKST=MO
@@ -976,14 +976,6 @@ URL:https://www.aalen-kultur.de/baden-wuerttembergische-theatertage-2023.1
  92936.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230520T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230520T150000Z
-LOCATION:Viktoria Vereinsgelände
-ORGANIZER:
-TITLE:Mallorca-Festival
-URL:https://wasseralfingen.aalen.de/mallorca-festival.195058.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230520T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
 DSTART:20230520T170000Z
 LOCATION:
@@ -1000,12 +992,12 @@ TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196434.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230521T000100Z
-LOCATION:Schillerhöhe 
-ORGANIZER:Musikschule Aalen
-TITLE:BrAAs im Gras
-URL:https://www.aalen-kultur.de/braas-im-gras.195175.htm
+RRULE:FREQ=DAILY;UNTIL=20230520T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230520T150000Z
+LOCATION:Viktoria Vereinsgelände
+ORGANIZER:
+TITLE:Mallorca-Festival
+URL:https://wasseralfingen.aalen.de/mallorca-festival.195058.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
@@ -1024,6 +1016,14 @@ TITLE:Trompeten-Gala
 URL:https://www.aalen-kultur.de/trompeten-gala.191708.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230521T000100Z
+LOCATION:Schillerhöhe 
+ORGANIZER:Musikschule Aalen
+TITLE:BrAAs im Gras
+URL:https://www.aalen-kultur.de/braas-im-gras.195175.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230524T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
 DSTART:20230524T200000Z
 LOCATION:
@@ -1031,17 +1031,6 @@ ORGANIZER:None
 TITLE:Stadtgeschichten zur Guten Nacht
 URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196437.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230525T190000Z
-LOCATION:Treffpunkt 19 Uhr\, Wagnerplatz\, Prof.-Wagner-Straße\, Aalen 
-ORGANIZER:Geschichtsverein Aalen e. V.
-TITLE:4. Stadtspaziergang "Galgenberg" mit Dr. Georg Wendt: Von der mittel
- alterlichen Richtstätte zum lebendigen Wohnquartier
-URL:https://www.aalen-kultur.de/4-stadtspaziergang-galgenberg-mit-dr-georg
- -wendt-von-der-mittelalterlichen-richtstaette-zum-lebendigen-wohnquartier.
- 195123.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230525T200000Z;INTERVAL=1;WKST=MO
@@ -1061,13 +1050,15 @@ TITLE:Accelerando - Trio Klangspektrum
 URL:https://www.aalen-kultur.de/accelerando-trio-klangspektrum.192077.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230526T170000Z;INTERVAL=1;WKST=MO
-DSTART:20230526T150000Z
-LOCATION:Torhaus\, Paul-Ulmschneider-Saal
-ORGANIZER:
-TITLE:Kinderkino: Phantastische Tierwesen und wo sie zu finden sind
-URL:https://www.stadtbibliothek-aalen.de/kinderkino-phantastische-tierwese
- n-und-wo-sie-zu-finden-sind.196511.htm
+RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230525T190000Z
+LOCATION:Treffpunkt 19 Uhr\, Wagnerplatz\, Prof.-Wagner-Straße\, Aalen 
+ORGANIZER:Geschichtsverein Aalen e. V.
+TITLE:4. Stadtspaziergang "Galgenberg" mit Dr. Georg Wendt: Von der mittel
+ alterlichen Richtstätte zum lebendigen Wohnquartier
+URL:https://www.aalen-kultur.de/4-stadtspaziergang-galgenberg-mit-dr-georg
+ -wendt-von-der-mittelalterlichen-richtstaette-zum-lebendigen-wohnquartier.
+ 195123.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230526T193000Z;INTERVAL=1;WKST=MO
@@ -1085,6 +1076,15 @@ ORGANIZER:None
 TITLE:G`schichtle vom Aalener Hitzkopf
 URL:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.196440.ht
  m
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230526T170000Z;INTERVAL=1;WKST=MO
+DSTART:20230526T150000Z
+LOCATION:Torhaus\, Paul-Ulmschneider-Saal
+ORGANIZER:
+TITLE:Kinderkino: Phantastische Tierwesen und wo sie zu finden sind
+URL:https://www.stadtbibliothek-aalen.de/kinderkino-phantastische-tierwese
+ n-und-wo-sie-zu-finden-sind.196511.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230527T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -1128,15 +1128,6 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196444.ht
  m
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230601T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
-DSTART:20230601T170000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Aalen mit Genuss - Kulinarischer Rundgang
-URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
- 6445.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230601T163000Z;INTERVAL=1;WKST=MO
 DSTART:20230601T140000Z
 LOCATION:Limesmuseum Aalen
@@ -1144,6 +1135,15 @@ ORGANIZER:None
 TITLE:Familien-Feriennachmittag in den Pfingstferien
 URL:https://www.aalen-kultur.de/familien-feriennachmittag-in-den-pfingstfe
  rien.195693.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230601T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
+DSTART:20230601T170000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Aalen mit Genuss - Kulinarischer Rundgang
+URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
+ 6445.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230602T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
@@ -1164,19 +1164,19 @@ URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung-kath-kirchenge
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DSTART:20230603T170000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Aalens Gassen
-URL:https://www.aalen-kultur.de/aalens-gassen.196447.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
 DSTART:20230603T213000Z
 LOCATION:
 ORGANIZER:None
 TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196448.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DSTART:20230603T170000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Aalens Gassen
+URL:https://www.aalen-kultur.de/aalens-gassen.196447.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230604T170000Z;INTERVAL=1;WKST=MO
@@ -1185,15 +1185,6 @@ LOCATION:Limesmuseum Aalen
 ORGANIZER:None
 TITLE:UNESCO-Welterbetag
 URL:https://www.aalen-kultur.de/unesco-welterbetag.195676.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230606T180000Z;INTERVAL=1;WKST=MO
-DSTART:20230606T170000Z
-LOCATION:Stadtbibliothek Aalen
-ORGANIZER:
-TITLE:Literatur-Treff: Peter Wohlleben - Das geheime Leben der Bäume
-URL:https://www.stadtbibliothek-aalen.de/literatur-treff-peter-wohlleben-d
- as-geheime-leben-der-baeume.196545.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230607T000000Z;INTERVAL=1;WKST=MO
@@ -1205,6 +1196,15 @@ URL:https://www.aalen-kultur.de/chor-konzert-rock-on-the-water-limestherme
  n-aalen.192962.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230606T180000Z;INTERVAL=1;WKST=MO
+DSTART:20230606T170000Z
+LOCATION:Stadtbibliothek Aalen
+ORGANIZER:
+TITLE:Literatur-Treff: Peter Wohlleben - Das geheime Leben der Bäume
+URL:https://www.stadtbibliothek-aalen.de/literatur-treff-peter-wohlleben-d
+ as-geheime-leben-der-baeume.196545.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230607T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
 DSTART:20230607T200000Z
 LOCATION:
@@ -1212,22 +1212,6 @@ ORGANIZER:None
 TITLE:Stadtgeschichten zur Guten Nacht
 URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196450.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230609T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230609T213000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Rundgang mit dem Nachtwächter
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196456.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230609T000100Z
-LOCATION:Schloss Wasseralfingen
-ORGANIZER:
-TITLE:Schlossfest
-URL:https://wasseralfingen.aalen.de/schlossfest.195061.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230609T235900Z;INTERVAL=1;WKST=MO
@@ -1253,6 +1237,22 @@ LOCATION:Schloss Wasseralfingen
 ORGANIZER:
 TITLE:Wasseralfinger Schlossfest
 URL:https://www.aalen-kultur.de/wasseralfinger-schlossfest.191729.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230609T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230609T213000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Rundgang mit dem Nachtwächter
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196456.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230609T000100Z
+LOCATION:Schloss Wasseralfingen
+ORGANIZER:
+TITLE:Schlossfest
+URL:https://wasseralfingen.aalen.de/schlossfest.195061.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230610T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -1289,23 +1289,6 @@ URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230614T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230614T143000Z
-LOCATION:Saal der Vereine im Bürgerhaus Wasseralfingen
-ORGANIZER:
-TITLE:Allg. Mittwochstreff VdK OV Wasseralfingen
-URL:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-wasseralfin
- gen.195062.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230614T103000Z;INTERVAL=1;WKST=MO
-DSTART:20230614T100000Z
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-TITLE:Bücherzwerge
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196544.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230614T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230614T000100Z
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Wirtschaftsförderung und Smart City
@@ -1331,6 +1314,23 @@ TITLE:Bücherzwerge
 URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196543.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230614T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230614T143000Z
+LOCATION:Saal der Vereine im Bürgerhaus Wasseralfingen
+ORGANIZER:
+TITLE:Allg. Mittwochstreff VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-wasseralfin
+ gen.195062.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230614T103000Z;INTERVAL=1;WKST=MO
+DSTART:20230614T100000Z
+LOCATION:Stadtbibliothek Aalen\, 2. OG
+ORGANIZER:
+TITLE:Bücherzwerge
+URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196544.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230616T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230616T180000Z
 LOCATION:
@@ -1345,15 +1345,6 @@ LOCATION:
 ORGANIZER:None
 TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196468.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230617T170000Z;INTERVAL=1;WKST=MO
-DSTART:20230617T140000Z
-LOCATION:Bopfingen
-ORGANIZER:Stadtarchiv Aalen
-TITLE:Der Ipf – Frühkeltischer Fürstensitz Wer waren die Kelten?
-URL:https://www.aalen.de/der-ipf--fruehkeltischer-fuerstensitz-wer-waren-d
- ie-kelten-.195195.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -1397,20 +1388,13 @@ TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196470.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230618T180000Z;INTERVAL=1;WKST=MO
-DSTART:20230618T120000Z
-LOCATION:Greut-Festplatz
-ORGANIZER:Stadtjugendring Aalen e. V.
-TITLE:Aalener Kinderfest 2023
-URL:https://www.aalen-kultur.de/aalener-kinderfest-2023.191016.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230618T180000Z;INTERVAL=1;WKST=MO
-DSTART:20230618T120000Z
-LOCATION:Greutplatz\, Ulrich-Pfeifle-Halle
-ORGANIZER:
-TITLE:Aalener Kindertag
-URL:https://www.stadtbibliothek-aalen.de/aalener-kindertag.196550.htm
+RRULE:FREQ=DAILY;UNTIL=20230617T170000Z;INTERVAL=1;WKST=MO
+DSTART:20230617T140000Z
+LOCATION:Bopfingen
+ORGANIZER:Stadtarchiv Aalen
+TITLE:Der Ipf – Frühkeltischer Fürstensitz Wer waren die Kelten?
+URL:https://www.aalen.de/der-ipf--fruehkeltischer-fuerstensitz-wer-waren-d
+ ie-kelten-.195195.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230618T235900Z;INTERVAL=1;WKST=MO
@@ -1427,6 +1411,22 @@ LOCATION:
 ORGANIZER:None
 TITLE:Frauen in Aalen
 URL:https://www.aalen-kultur.de/frauen-in-aalen.196471.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230618T180000Z;INTERVAL=1;WKST=MO
+DSTART:20230618T120000Z
+LOCATION:Greut-Festplatz
+ORGANIZER:Stadtjugendring Aalen e. V.
+TITLE:Aalener Kinderfest 2023
+URL:https://www.aalen-kultur.de/aalener-kinderfest-2023.191016.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230618T180000Z;INTERVAL=1;WKST=MO
+DSTART:20230618T120000Z
+LOCATION:Greutplatz\, Ulrich-Pfeifle-Halle
+ORGANIZER:
+TITLE:Aalener Kindertag
+URL:https://www.stadtbibliothek-aalen.de/aalener-kindertag.196550.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230619T235900Z;INTERVAL=1;WKST=MO
@@ -1455,14 +1455,6 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196472.ht
  m
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230622T194500Z;INTERVAL=1;WKST=MO
-DSTART:20230622T194500Z
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-TITLE:Open Stage im KUBAA
-URL:https://www.aalen-kultur.de/open-stage-im-kubaa.188884.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230622T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230622T193000Z
 LOCATION:Schloss Kapfenburg
@@ -1480,12 +1472,12 @@ URL:https://wasseralfingen.aalen.de/ausstellungseroeffnung-zu-den-wasseral
  finger-festtagen.195064.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230623T000100Z
-LOCATION:Wasseralfingen Zentrum
-ORGANIZER:
-TITLE:Wasseralfinger Festtage 2023
-URL:https://www.aalen-kultur.de/wasseralfinger-festtage-2023.190479.htm
+RRULE:FREQ=DAILY;UNTIL=20230622T194500Z;INTERVAL=1;WKST=MO
+DSTART:20230622T194500Z
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+TITLE:Open Stage im KUBAA
+URL:https://www.aalen-kultur.de/open-stage-im-kubaa.188884.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
@@ -1506,12 +1498,12 @@ TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196574.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230624T210000Z
-LOCATION:Rathausplatz Unterkochen
-ORGANIZER:Musikverein Unterkochen e. V.
-TITLE:Unterkochener Panorama
-URL:https://unterkochen.aalen.de/unterkochener-panorama.194959.htm
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230623T000100Z
+LOCATION:Wasseralfingen Zentrum
+ORGANIZER:
+TITLE:Wasseralfinger Festtage 2023
+URL:https://www.aalen-kultur.de/wasseralfinger-festtage-2023.190479.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -1539,12 +1531,12 @@ URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
  ilaeum.196839.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DSTART:20230625T160000Z
-LOCATION:
-ORGANIZER:None
-TITLE:KubAA-Führung
-URL:https://www.aalen-kultur.de/kubaa-fuehrung.196578.htm
+RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230624T210000Z
+LOCATION:Rathausplatz Unterkochen
+ORGANIZER:Musikverein Unterkochen e. V.
+TITLE:Unterkochener Panorama
+URL:https://unterkochen.aalen.de/unterkochener-panorama.194959.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
@@ -1574,6 +1566,14 @@ URL:https://wasseralfingen.aalen.de/abendserenade-bei-den-wasseralfinger-f
  esttagen.195067.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DSTART:20230625T160000Z
+LOCATION:
+ORGANIZER:None
+TITLE:KubAA-Führung
+URL:https://www.aalen-kultur.de/kubaa-fuehrung.196578.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230628T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
 DSTART:20230628T200000Z
 LOCATION:
@@ -1581,24 +1581,6 @@ ORGANIZER:None
 TITLE:Stadtgeschichten zur Guten Nacht
 URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196579.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230630T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230630T180000Z
-LOCATION:
-ORGANIZER:None
-TITLE:G`schichtle vom Aalener Hitzkopf
-URL:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.196581.ht
- m
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230630T000100Z
-LOCATION:Galerie im Alten Rathaus
-ORGANIZER:Kunstverein Aalen e. V.
-TITLE:Ausstellung: Jan Hendrik Pelz und Delschad Numan Khorschid
-URL:https://www.aalen-kultur.de/ausstellung-jan-hendrik-pelz-und-delschad-
- numan-khorschid.195130.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230630T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
@@ -1636,12 +1618,22 @@ URL:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und-findus-
  kleiner-quaelgeist-grosse-freundschaft.196552.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DSTART:20230701T213000Z
+RRULE:FREQ=DAILY;UNTIL=20230630T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230630T180000Z
 LOCATION:
 ORGANIZER:None
-TITLE:Rundgang mit dem Nachtwächter
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196584.htm
+TITLE:G`schichtle vom Aalener Hitzkopf
+URL:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.196581.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230630T000100Z
+LOCATION:Galerie im Alten Rathaus
+ORGANIZER:Kunstverein Aalen e. V.
+TITLE:Ausstellung: Jan Hendrik Pelz und Delschad Numan Khorschid
+URL:https://www.aalen-kultur.de/ausstellung-jan-hendrik-pelz-und-delschad-
+ numan-khorschid.195130.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
@@ -1658,6 +1650,14 @@ LOCATION:
 ORGANIZER:None
 TITLE:Aalens Gassen
 URL:https://www.aalen-kultur.de/aalens-gassen.196583.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DSTART:20230701T213000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Rundgang mit dem Nachtwächter
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196584.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
@@ -1714,16 +1714,6 @@ TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196588.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230708T070000Z
-LOCATION:Wache Wasseralfingen
-ORGANIZER:
-TITLE:Leistungsabzeichen der Feuerwehren des Ostalbkreises\, FFW Wasseralf
- ingen/Hofen
-URL:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwehren-des
- -ostalbkreises-ffw-wasseralfingen-hofen.195071.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
 DSTART:20230708T213000Z
 LOCATION:
@@ -1749,13 +1739,14 @@ TITLE:Waldfest
 URL:https://wasseralfingen.aalen.de/waldfest.195072.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230709T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230709T200000Z
-LOCATION:Kleintierzuchtverein Wasseralfingen e. V.
+RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230708T070000Z
+LOCATION:Wache Wasseralfingen
 ORGANIZER:
-TITLE:Monatsversammlung Kleintierzuchtverein Wasseralfingen
-URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
- -wasseralfingen.195073.htm
+TITLE:Leistungsabzeichen der Feuerwehren des Ostalbkreises\, FFW Wasseralf
+ ingen/Hofen
+URL:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwehren-des
+ -ostalbkreises-ffw-wasseralfingen-hofen.195071.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230709T235900Z;INTERVAL=1;WKST=MO
@@ -1764,6 +1755,15 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:Musikschule Aalen
 TITLE:StringAArt: Konzert
 URL:https://www.aalen-kultur.de/stringaart-konzert.195176.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230709T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230709T200000Z
+LOCATION:Kleintierzuchtverein Wasseralfingen e. V.
+ORGANIZER:
+TITLE:Monatsversammlung Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
+ -wasseralfingen.195073.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230710T235900Z;INTERVAL=1;WKST=MO
@@ -1781,15 +1781,6 @@ ORGANIZER:Lokale Agenda 21 - Agenda Büro
 TITLE:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
 URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
  taik.195796.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230712T200000Z
-LOCATION:Schloss Fachsenfeld
-ORGANIZER:Amt für Kultur und Tourismus
-TITLE:Herrn  Stumpfes Zieh & Zupf Kapelle
-URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle.192941.ht
- m
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230712T200000Z;INTERVAL=1;WKST=MO
@@ -1810,6 +1801,15 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196591.ht
  m
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230712T200000Z
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:Amt für Kultur und Tourismus
+TITLE:Herrn  Stumpfes Zieh & Zupf Kapelle
+URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle.192941.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230713T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230713T180000Z
 LOCATION:Ostalbkreishaus - Landratsamt Ostalbkreis
@@ -1820,14 +1820,6 @@ URL:https://www.aalen-kultur.de/50-jahre-ostalbkreis-kultur-und-gesellscha
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230714T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230714T190000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Der Stadtpfeifer von Aalen
-URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196592.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230714T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230714T213000Z
 LOCATION:
 ORGANIZER:None
@@ -1835,12 +1827,12 @@ TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196594.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230715T190000Z;INTERVAL=1;WKST=MO
-DSTART:20230715T080000Z
-LOCATION:Burg Hohenzollern
-ORGANIZER:Stadtarchiv Aalen
-TITLE:Tagesfahrt Burg Hohenzollern
-URL:https://www.aalen.de/tagesfahrt-burg-hohenzollern.195194.htm
+RRULE:FREQ=DAILY;UNTIL=20230714T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230714T190000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Der Stadtpfeifer von Aalen
+URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196592.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230715T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -1876,12 +1868,12 @@ TITLE:50 Jahre Ostalbkreis:  Festabend
 URL:https://www.aalen-kultur.de/50-jahre-ostalbkreis-festabend.195146.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DSTART:20230716T170000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Frauen in Aalen
-URL:https://www.aalen-kultur.de/frauen-in-aalen.196596.htm
+RRULE:FREQ=DAILY;UNTIL=20230715T190000Z;INTERVAL=1;WKST=MO
+DSTART:20230715T080000Z
+LOCATION:Burg Hohenzollern
+ORGANIZER:Stadtarchiv Aalen
+TITLE:Tagesfahrt Burg Hohenzollern
+URL:https://www.aalen.de/tagesfahrt-burg-hohenzollern.195194.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;WKST=MO
@@ -1891,6 +1883,14 @@ ORGANIZER:Landratsamt Ostalbkreis
 TITLE:50 Jahre Ostalbkreis: Bürgerfest
 URL:https://www.aalen-kultur.de/50-jahre-ostalbkreis-buergerfest.195148.ht
  m
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DSTART:20230716T170000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Frauen in Aalen
+URL:https://www.aalen-kultur.de/frauen-in-aalen.196596.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230718T235900Z;INTERVAL=1;WKST=MO
@@ -1911,19 +1911,19 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196651.ht
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230721T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230721T213000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Rundgang mit dem Nachtwächter
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196653.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230721T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230721T180000Z
 LOCATION:
 ORGANIZER:None
 TITLE:Von Rom zur Reichsstadt
 URL:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.196652.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230721T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230721T213000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Rundgang mit dem Nachtwächter
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196653.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230722T235900Z;INTERVAL=1;WKST=MO
@@ -1951,6 +1951,30 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196655.ht
  m
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230728T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DSTART:20230728T213000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Rundgang mit dem Nachtwächter
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196658.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230728T000100Z
+LOCATION:Spritzenhausplatz
+ORGANIZER:Deutsches Rotes Kreuz - Kreisverband Aalen e.V.
+TITLE:Südtiroler Weinfest
+URL:https://www.aalen-kultur.de/suedtiroler-weinfest.192081.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230728T000100Z
+LOCATION:Festplatz am Kocherursprung
+ORGANIZER:Musikverein Unterkochen e. V.
+TITLE:Gartenfest
+URL:https://unterkochen.aalen.de/gartenfest.194960.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230728T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230728T180000Z
 LOCATION:
@@ -1975,30 +1999,6 @@ ORGANIZER:None
 TITLE:Sonderausstellung im Limesmuseum
 URL:https://www.aalen-kultur.de/sonderausstellung-im-limesmuseum.195679.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230728T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DSTART:20230728T213000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Rundgang mit dem Nachtwächter
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196658.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230728T000100Z
-LOCATION:Spritzenhausplatz
-ORGANIZER:Deutsches Rotes Kreuz - Kreisverband Aalen e.V.
-TITLE:Südtiroler Weinfest
-URL:https://www.aalen-kultur.de/suedtiroler-weinfest.192081.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230728T000100Z
-LOCATION:Festplatz am Kocherursprung
-ORGANIZER:Musikverein Unterkochen e. V.
-TITLE:Gartenfest
-URL:https://unterkochen.aalen.de/gartenfest.194960.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -2059,20 +2059,20 @@ URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
  6664.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230804T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230804T213000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Rundgang mit dem Nachtwächter
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196665.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230805T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230804T000100Z
 LOCATION:
 ORGANIZER:
 TITLE:Galgenberg-Festival
 URL:https://www.aalen-kultur.de/galgenberg-festival.195140.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230804T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230804T213000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Rundgang mit dem Nachtwächter
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196665.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230805T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -2110,19 +2110,19 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196668.ht
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230811T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230811T213000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Rundgang mit dem Nachtwächter
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196670.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230811T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230811T190000Z
 LOCATION:
 ORGANIZER:None
 TITLE:Der Stadtpfeifer von Aalen
 URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196669.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230811T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230811T213000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Rundgang mit dem Nachtwächter
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196670.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230812T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -2151,19 +2151,19 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196673.ht
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230818T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DSTART:20230818T180000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Von Rom zur Reichsstadt
-URL:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.196674.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230818T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
 DSTART:20230818T213000Z
 LOCATION:
 ORGANIZER:None
 TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196675.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230818T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DSTART:20230818T180000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Von Rom zur Reichsstadt
+URL:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.196674.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230819T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -2217,19 +2217,19 @@ URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196691.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230826T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DSTART:20230826T170000Z
-LOCATION:
-ORGANIZER:None
-TITLE:Aalens Gassen
-URL:https://www.aalen-kultur.de/aalens-gassen.196692.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230826T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
 DSTART:20230826T213000Z
 LOCATION:
 ORGANIZER:None
 TITLE:Rundgang mit dem Nachtwächter
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196701.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230826T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DSTART:20230826T170000Z
+LOCATION:
+ORGANIZER:None
+TITLE:Aalens Gassen
+URL:https://www.aalen-kultur.de/aalens-gassen.196692.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230907T163000Z;INTERVAL=1;WKST=MO
@@ -2274,14 +2274,6 @@ TITLE:Vespa Treffen
 URL:https://www.aalen-kultur.de/vespa-treffen.192949.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230917T163000Z;INTERVAL=1;WKST=MO
-DSTART:20230917T150000Z
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Amt für Kultur und Tourismus
-TITLE:Tanzland 2023: Tanzmatinee
-URL:https://www.aalen-kultur.de/tanzland-2023-tanzmatinee.195166.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230917T235900Z;INTERVAL=1;WKST=MO
 DSTART:20230917T000100Z
 LOCATION:Polizeidirektion Aalen 
@@ -2289,6 +2281,14 @@ ORGANIZER:Polizeidirektion Aalen
 TITLE:Tag der offenen Tür bei der Polizeidirektion Aalen 
 URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-bei-der-polizeidirekt
  ion-aalen.195855.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230917T163000Z;INTERVAL=1;WKST=MO
+DSTART:20230917T150000Z
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Amt für Kultur und Tourismus
+TITLE:Tanzland 2023: Tanzmatinee
+URL:https://www.aalen-kultur.de/tanzland-2023-tanzmatinee.195166.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230920T190000Z;INTERVAL=1;WKST=MO
@@ -2332,20 +2332,20 @@ TITLE:Bach-Reger-Zyklus
 URL:https://www.aalen-kultur.de/bach-reger-zyklus.191709.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20230928T235900Z;INTERVAL=1;WKST=MO
-DSTART:20230928T193000Z
-LOCATION:Schloss Kapfenburg
-ORGANIZER:Schloss Kapfenburg
-TITLE:Accelerando - Wildes Holz
-URL:https://www.aalen-kultur.de/accelerando-wildes-holz.192079.htm
-END:VEVENT
-BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20230928T194500Z;INTERVAL=1;WKST=MO
 DSTART:20230928T194500Z
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
 TITLE:Poetry slam im KUBAA
 URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188897.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20230928T235900Z;INTERVAL=1;WKST=MO
+DSTART:20230928T193000Z
+LOCATION:Schloss Kapfenburg
+ORGANIZER:Schloss Kapfenburg
+TITLE:Accelerando - Wildes Holz
+URL:https://www.aalen-kultur.de/accelerando-wildes-holz.192079.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231003T235900Z;INTERVAL=1;WKST=MO
@@ -2375,6 +2375,14 @@ TITLE:Vortrag
 URL:https://www.aalen-kultur.de/vortrag.195680.htm
 END:VEVENT
 BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;WKST=MO
+DSTART:20231006T000100Z
+LOCATION:Spritzenhausplatz
+ORGANIZER:
+TITLE:Herbstmärktle
+URL:https://www.aalen-kultur.de/herbstmaerktle.192950.htm
+END:VEVENT
+BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231006T235900Z;INTERVAL=1;WKST=MO
 DSTART:20231006T200000Z
 LOCATION:Stadthalle
@@ -2382,14 +2390,6 @@ ORGANIZER:Amt für Kultur und Tourismus
 TITLE:Kulturwochen 2023: Delattre Dance Company
 URL:https://www.aalen-kultur.de/kulturwochen-2023-delattre-dance-company.1
  90435.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;WKST=MO
-DSTART:20231006T000100Z
-LOCATION:Spritzenhausplatz
-ORGANIZER:
-TITLE:Herbstmärktle
-URL:https://www.aalen-kultur.de/herbstmaerktle.192950.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;WKST=MO
@@ -2436,20 +2436,20 @@ URL:https://unterkochen.aalen.de/blasmusikparade.194961.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231015T235900Z;INTERVAL=1;WKST=MO
+DSTART:20231015T180000Z
+LOCATION:Evangelische Stadtkirche
+ORGANIZER:Evangelische Kirchengemeinde Stadtkirche I
+TITLE:Bach-Reger-Zyklus
+URL:https://www.aalen-kultur.de/bach-reger-zyklus.191710.htm
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20231015T235900Z;INTERVAL=1;WKST=MO
 DSTART:20231015T170000Z
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Lions Club Aalen Kocher-Jagst 
 TITLE:Maddin mit dem neuen Programm "Schöne Sonndach" 
 URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20231015T235900Z;INTERVAL=1;WKST=MO
-DSTART:20231015T180000Z
-LOCATION:Evangelische Stadtkirche
-ORGANIZER:Evangelische Kirchengemeinde Stadtkirche I
-TITLE:Bach-Reger-Zyklus
-URL:https://www.aalen-kultur.de/bach-reger-zyklus.191710.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231018T235900Z;INTERVAL=1;WKST=MO
@@ -2479,14 +2479,6 @@ URL:https://www.aalen-kultur.de/vortrag.195681.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;WKST=MO
-DSTART:20231021T200000Z
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Amt für Kultur und Tourismus
-TITLE:Konzert "Ensemble πk"
-URL:https://www.aalen-kultur.de/konzert-ensemble-πk.177938.htm
-END:VEVENT
-BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;WKST=MO
 DSTART:20231021T000100Z
 LOCATION:Limes-Thermen
 ORGANIZER:Stadtwerke Aalen GmbH
@@ -2495,12 +2487,12 @@ URL:https://www.aalen-kultur.de/roemische-nacht-antik-limesthermen-aalen.1
  92963.htm
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=DAILY;UNTIL=20231026T235900Z;INTERVAL=1;WKST=MO
-DSTART:20231026T190000Z
-LOCATION:Limesmuseum Aalen
-ORGANIZER:None
-TITLE:Vortrag
-URL:https://www.aalen-kultur.de/vortrag.195682.htm
+RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;WKST=MO
+DSTART:20231021T200000Z
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Amt für Kultur und Tourismus
+TITLE:Konzert "Ensemble πk"
+URL:https://www.aalen-kultur.de/konzert-ensemble-πk.177938.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231026T235900Z;INTERVAL=1;WKST=MO
@@ -2510,6 +2502,14 @@ ORGANIZER:Schloss Kapfenburg
 TITLE:Accelerando - Nacht der Poet:innen
 URL:https://www.aalen-kultur.de/accelerando-nacht-der-poet-innen.192080.ht
  m
+END:VEVENT
+BEGIN:VEVENT
+RRULE:FREQ=DAILY;UNTIL=20231026T235900Z;INTERVAL=1;WKST=MO
+DSTART:20231026T190000Z
+LOCATION:Limesmuseum Aalen
+ORGANIZER:None
+TITLE:Vortrag
+URL:https://www.aalen-kultur.de/vortrag.195682.htm
 END:VEVENT
 BEGIN:VEVENT
 RRULE:FREQ=DAILY;UNTIL=20231102T163000Z;INTERVAL=1;WKST=MO
