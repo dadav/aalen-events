@@ -2,7 +2,7 @@
 
 import sys
 import requests
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, vRecur, vCalAddress
 
 
 CALENDAR_URL = 'https://www.aalen.de/api/EventApiRules.php'
@@ -29,11 +29,25 @@ def json_to_ical(json_data: dict) -> Calendar:
     for jevent in json_data:
         event = Event()
         rule_data = jevent['rule'].split('\n')
-        assert len(rule_data) == 2
-        start, rule = rule_data
-        event.add('title', jevent['title'])
-        event.add('dstart', start.split(':')[1])
+        if len(rule_data) != 2:
+            continue
+        start, rule = [x.split(':', maxsplit=1)[1] for x in rule_data]
+        rule = vRecur.from_ical(rule)
+
+        if 'title' in jevent:
+            event.add('title', jevent['title'])
+
+        event.add('dstart', start)
         event.add('rrule', rule)
+        if 'url' in jevent:
+            event.add('url', jevent['url'])
+
+        if 'location' in jevent:
+            event.add('location', jevent['location'])
+
+        if 'organiser' in jevent:
+            event.add('organizer', vCalAddress.from_ical(jevent['organiser']))
+
         cal.add_component(event)
 
     return cal
