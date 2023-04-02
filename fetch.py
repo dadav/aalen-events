@@ -3,6 +3,7 @@
 import sys
 import requests
 from icalendar import Calendar, Event, vRecur, vCalAddress, vDatetime
+from datetime import timedelta
 
 
 CALENDAR_URL = 'https://www.aalen.de/api/EventApiRules.php'
@@ -50,6 +51,13 @@ def json_to_ical(json_data: dict) -> Calendar:
 
         if 'organiser' in jevent:
             event.add('organizer', vCalAddress.from_ical(jevent['organiser']))
+
+        if 'timeStart' in jevent and 'timeEnd' in jevent:
+            try:
+                duration = timedelta(hours=int(jevent['timeEnd'].split(':')[0]), minutes=int(jevent['timeEnd'].split(':')[1])) - timedelta(hours=int(jevent['timeStart'].split(':')[0]), minutes=int(jevent['timeStart'].split(':')[1]))
+                event.add('duration', duration)
+            except Exception:
+                pass
 
         cal.add_component(event)
 
