@@ -28,7 +28,7 @@ def json_to_ical(json_data: dict) -> Calendar:
     cal.add('prodid', '-//Aalen2ics//https://github.com/dadav/aalen2ics//')
     cal.add('version', '2.0')
 
-    for jevent in json_data:
+    for jevent in sorted(json_data, key=lambda i: i['id']):
         event = Event()
         rule_data = jevent['rule'].split('\n')
         if len(rule_data) != 2:
