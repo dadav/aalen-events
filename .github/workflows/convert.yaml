@@ -21,7 +21,7 @@ jobs:
           pip install pip-tools
           pip-sync requirements.txt
       - name: 🚀 Run script
-        run: python3 fetch.py > aalen.ics
+        run: python3 fetch.py aalen.ics
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.1
         with:

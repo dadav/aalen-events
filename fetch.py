@@ -61,12 +61,14 @@ def main() -> int:
 
     returns 0 if everything went well and >0 if something failed.
     """
+    out = sys.argv[1]
     try:
         events_json = fetch_events_json()
         events_ics = json_to_ical(events_json)
     except Exception:
         return 1
-    print(events_ics.to_ical().decode('utf-8'))
+    with open(out, 'wb') as icsfile:
+        icsfile.write(events_ics.to_ical())
     return 0
 
 
