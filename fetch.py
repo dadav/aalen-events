@@ -25,6 +25,8 @@ def json_to_ical(json_data: dict) -> Calendar:
     Returns a calendar.
     """
     cal = Calendar()
+    cal.add('prodid', '-//Aalen2ics//https://github.com/dadav/aalen2ics//')
+    cal.add('version', '2.0')
 
     for jevent in json_data:
         event = Event()
@@ -59,8 +61,11 @@ def main() -> int:
 
     returns 0 if everything went well and >0 if something failed.
     """
-    events_json = fetch_events_json()
-    events_ics = json_to_ical(events_json)
+    try:
+        events_json = fetch_events_json()
+        events_ics = json_to_ical(events_json)
+    except Exception:
+        return 1
     print(events_ics.to_ical().decode('utf-8'))
     return 0
 
