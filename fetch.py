@@ -39,7 +39,7 @@ def json_to_ical(json_data: dict) -> Calendar:
         if 'title' in jevent:
             event.add('summary', jevent['title'])
 
-        event.add('dtstart', vDatetime.from_ical(start))
+        event.add('dtstart', vDatetime.from_ical(start, timezone='Europe/Berlin'))
         event.add('rrule', rule)
         if 'url' in jevent:
             event.add('url', jevent['url'])
