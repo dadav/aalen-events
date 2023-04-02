@@ -37,7 +37,7 @@ def json_to_ical(json_data: dict) -> Calendar:
         rule = vRecur.from_ical(rule)
 
         if 'title' in jevent:
-            event.add('title', jevent['title'])
+            event.add('description', jevent['title'])
 
         event.add('dtstart', vDatetime.from_ical(start))
         event.add('rrule', rule)
