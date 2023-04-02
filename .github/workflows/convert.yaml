@@ -2,6 +2,7 @@
 name: Aalen Veranstaltungen Converter
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: 0 12 * * *
 
