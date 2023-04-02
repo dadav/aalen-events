@@ -43,6 +43,7 @@ def json_to_ical(json_data: dict) -> Calendar:
         event.add('rrule', rule)
         if 'url' in jevent:
             event.add('url', jevent['url'])
+            event.add('description', jevent['url'])
 
         if 'location' in jevent:
             event.add('location', jevent['location'])
