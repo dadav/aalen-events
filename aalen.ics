@@ -354,18 +354,6 @@ ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/schubarts-volkslieder.191202.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Die Passion von Leonard Hölldampf
-DTSTART;TZID=Europe/Berlin:20230402T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230402T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/die-passion-von-leonard-hoelldampf
- .191707.htm
-LOCATION:Evangelische Stadtkirche
-ORGANIZER:Evangelische Kirchengemeinde Stadtkirche I
-URL:https://www.aalen-kultur.de/die-passion-von-leonard-hoelldampf.191707.
- htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trompeten-Gala
 DTSTART;TZID=Europe/Berlin:20230521T180000
 DURATION:PT5H59M
@@ -792,18 +780,6 @@ LOCATION:Stadtbibliothek Aalen\, Torhaus\, Paul-Ulmschneider-Saal
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/kinderkino-kleiner-dodo.194932.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konzert des Kreisjugendblasorchesters
-DTSTART;TZID=Europe/Berlin:20230402T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230402T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://unterkochen.aalen.de/konzert-des-kreisjugendblasorches
- ters.194957.htm
-LOCATION:Festhalle Unterkochen
-ORGANIZER:Musikverein Unterkochen e. V.
-URL:https://unterkochen.aalen.de/konzert-des-kreisjugendblasorchesters.194
- 957.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jubiläumskonzert
@@ -1960,16 +1936,6 @@ LOCATION:
 ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle-open-air.
  195508.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saisonauftakt
-DTSTART;TZID=Europe/Berlin:20230402T110000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230402T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/saisonauftakt.195675.htm
-LOCATION:Limesmuseum Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/saisonauftakt.195675.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNESCO-Welterbetag
@@ -3255,16 +3221,6 @@ URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196655.ht
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ostermarkt
-DTSTART;TZID=Europe/Berlin:20230402T120000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230402T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/ostermarkt.196656.htm
-LOCATION:Stefansplatz
-ORGANIZER:Bezirksamt Wasseralfingen
-URL:https://wasseralfingen.aalen.de/ostermarkt.196656.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:G`schichtle vom Aalener Hitzkopf
 DTSTART;TZID=Europe/Berlin:20230728T180000
 DURATION:PT5H59M
@@ -3550,18 +3506,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196701.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Konzert der Landespreisträger "Jugend musiziert" 
-DTSTART;TZID=Europe/Berlin:20230402T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230402T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/konzert-der-landespreistraeger-jug
- end-musiziert.196705.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:
-URL:https://www.aalen-kultur.de/konzert-der-landespreistraeger-jugend-musi
- ziert.196705.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Klassenvorspiel der Cello-Klasse von Slava Kieselev
 DTSTART;TZID=Europe/Berlin:20230405T190000
 DURATION:PT1H30M
@@ -3609,5 +3553,60 @@ LOCATION:Stadthalle Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/aalen-festival-orchester-helden-strauss-me
  tamorphosen-beethoven-eroica.196910.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chorkonzert - Töne von der Rolle - Hits aus Film und Fernsehen 
+DTSTART;TZID=Europe/Berlin:20230429T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/chorkonzert-toene-von-der-rolle-hi
+ ts-aus-film-und-fernsehen.196980.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Liederkranz Unterrombach e.V. 
+URL:https://www.aalen-kultur.de/chorkonzert-toene-von-der-rolle-hits-aus-f
+ ilm-und-fernsehen.196980.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläums-Open Air - Münchner Freiheit 
+DTSTART;TZID=Europe/Berlin:19700101T010000
+RRULE:FREQ=DAILY;UNTIL=20230907T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/jubilaeums-open-air-muenchner-frei
+ heit.196982.htm
+LOCATION:Sparkassenplatz 
+ORGANIZER:MusikA
+URL:https://www.aalen-kultur.de/jubilaeums-open-air-muenchner-freiheit.196
+ 982.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gedenkfeier KZ Ecke Kolping/Rosenstraße Wasseralfingen 
+DTSTART;TZID=Europe/Berlin:20230826T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230826T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/gedenkfeier-kz-ecke-kolping-rosens
+ trasse-wasseralfingen.196983.htm
+LOCATION:Ecke Kolping/Rosenstraße Wasseralfingen 
+ORGANIZER:
+URL:https://www.aalen-kultur.de/gedenkfeier-kz-ecke-kolping-rosenstrasse-w
+ asseralfingen.196983.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erinnerungsstunde KZ 
+DTSTART;TZID=Europe/Berlin:20231020T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231020T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/erinnerungsstunde-kz.196984.htm
+LOCATION:
+ORGANIZER:
+URL:https://www.aalen-kultur.de/erinnerungsstunde-kz.196984.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hocketse am Vatertag 
+DTSTART;TZID=Europe/Berlin:20230518T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/hocketse-am-vatertag.196985.htm
+LOCATION:Gartenanlage der Gartenfreunde Fachsenfeld 
+ORGANIZER:Gartenfreunde Fachsenfeld e.V. 
+URL:https://www.aalen-kultur.de/hocketse-am-vatertag.196985.htm
 END:VEVENT
 END:VCALENDAR
