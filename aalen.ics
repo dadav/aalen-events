@@ -3568,7 +3568,8 @@ URL:https://www.aalen-kultur.de/chorkonzert-toene-von-der-rolle-hits-aus-f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jubiläums-Open Air - Münchner Freiheit 
-DTSTART;TZID=Europe/Berlin:19700101T010000
+DTSTART;TZID=Europe/Berlin:20230907T000100
+DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230907T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/jubilaeums-open-air-muenchner-frei
  heit.196982.htm
@@ -3608,5 +3609,104 @@ DESCRIPTION:https://www.aalen-kultur.de/hocketse-am-vatertag.196985.htm
 LOCATION:Gartenanlage der Gartenfreunde Fachsenfeld 
 ORGANIZER:Gartenfreunde Fachsenfeld e.V. 
 URL:https://www.aalen-kultur.de/hocketse-am-vatertag.196985.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubAA-Führung
+DTSTART;TZID=Europe/Berlin:20230827T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230827T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/kubaa-fuehrung.197067.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/kubaa-fuehrung.197067.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20230830T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230830T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97069.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197069.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
+DTSTART;TZID=Europe/Berlin:20230831T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230831T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-run
+ dgang.197071.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
+ 7071.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230901T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230901T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 072.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197072.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20230902T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230902T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197073.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197073.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230902T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230902T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 074.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197074.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20230906T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230906T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97075.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197075.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230908T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230908T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 076.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197076.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20230909T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230909T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197077.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197077.htm
 END:VEVENT
 END:VCALENDAR
