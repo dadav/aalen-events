@@ -1889,21 +1889,6 @@ URL:https://www.aalen-kultur.de/adventskonzert-des-staedtischen-orchester.
  195392.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Literatur-Treff: Titus Simon - brachiale Lust beim Töten rotbraun
- er Nacktschnecken - Lesung mit dem Autor
-DTSTART;TZID=Europe/Berlin:20230404T170000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230404T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/literatur-treff-titus-sim
- on-brachiale-lust-beim-toeten-rotbrauner-nacktschnecken-lesung-mit-dem-aut
- or.195433.htm
-LOCATION:Stadtbibliothek Aalen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/literatur-treff-titus-simon-brach
- iale-lust-beim-toeten-rotbrauner-nacktschnecken-lesung-mit-dem-autor.19543
- 3.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:- Milestones of Rock
 DTSTART;TZID=Europe/Berlin:20230514T200000
 DURATION:P0D
@@ -3708,5 +3693,537 @@ DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197077.htm
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197077.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Tänze aus aller Welt und Discofox
+DTSTART;TZID=Europe/Berlin:20230511T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230511T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-taenze-aus-aller
+ -welt-und-discofox.197082.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-taenze-aus-aller-welt-un
+ d-discofox.197082.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Welttag des Tanzes 
+DTSTART;TZID=Europe/Berlin:20230429T110000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230429T123000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/welttag-des-tanzes.197105.htm
+LOCATION:siehe oben 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/welttag-des-tanzes.197105.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanzraum Aalen - Gemeinsam geht alles! 
+DTSTART;TZID=Europe/Berlin:20230504T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230504T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanzraum-aalen-gemeinsam-geht-alle
+ s-.197106.htm
+LOCATION:Sparkassenplatz 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanzraum-aalen-gemeinsam-geht-alles-.19710
+ 6.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Modern Dance 
+DTSTART;TZID=Europe/Berlin:20230525T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230525T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-modern-dance.197
+ 108.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-modern-dance.197108.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Open Air-Disco 
+DTSTART;TZID=Europe/Berlin:20230601T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230601T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-open-air-disco.1
+ 97109.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-open-air-disco.197109.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230909T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230909T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 110.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197110.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20230913T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230913T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97111.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197111.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von Rom zur Reichsstadt
+DTSTART;TZID=Europe/Berlin:20230915T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230915T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.197112.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.197112.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Stadtpfeifer von Aalen
+DTSTART;TZID=Europe/Berlin:20230915T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230915T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.197113.
+ htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.197113.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230915T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230915T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 114.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197114.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230916T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230916T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 115.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197115.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frauen in Aalen
+DTSTART;TZID=Europe/Berlin:20230917T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230917T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/frauen-in-aalen.197116.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/frauen-in-aalen.197116.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20230920T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230920T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97117.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197117.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230922T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230922T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 118.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197118.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20230923T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230923T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197119.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197119.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230923T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230923T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 120.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197120.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubAA-Führung
+DTSTART;TZID=Europe/Berlin:20230924T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230924T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/kubaa-fuehrung.197121.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/kubaa-fuehrung.197121.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20230927T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230927T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97122.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197122.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G`schichtle vom Aalener Hitzkopf
+DTSTART;TZID=Europe/Berlin:20230929T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230929T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.1
+ 97123.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.197123.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230929T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230929T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 124.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197124.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20230930T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230930T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197125.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197125.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20230930T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230930T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 126.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197126.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231004T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231004T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97127.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197127.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
+DTSTART;TZID=Europe/Berlin:20231005T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231005T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-run
+ dgang.197128.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
+ 7128.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20231007T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197129.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197129.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231007T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 130.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197130.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231011T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231011T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97131.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197131.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Stadtpfeifer von Aalen
+DTSTART;TZID=Europe/Berlin:20231013T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20231013T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.197132.
+ htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.197132.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtführung Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20231014T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231014T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.197133
+ .htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.197133.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231014T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20231014T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 135.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197135.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frauen in Aalen
+DTSTART;TZID=Europe/Berlin:20231015T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231015T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/frauen-in-aalen.197136.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/frauen-in-aalen.197136.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231018T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231018T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97150.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197150.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Von Rom zur Reichsstadt
+DTSTART;TZID=Europe/Berlin:20231020T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231020T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.197152.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.197152.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20231021T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197156.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197156.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231021T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 157.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197157.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231025T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231025T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97158.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197158.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G`schichtle vom Aalener Hitzkopf
+DTSTART;TZID=Europe/Berlin:20231027T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231027T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.1
+ 97160.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.197160.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20231028T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231028T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197162.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197162.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saisonabschluss der Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231028T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20231028T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/saisonabschluss-der-nachtwaechter.
+ 197164.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/saisonabschluss-der-nachtwaechter.197164.h
+ tm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KubAA-Führung
+DTSTART;TZID=Europe/Berlin:20231029T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20231029T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/kubaa-fuehrung.197165.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/kubaa-fuehrung.197165.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231202T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231202T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 175.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197175.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231209T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231209T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 176.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197176.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231213T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231213T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97177.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197177.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231216T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231216T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 178.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197178.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231220T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231220T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97179.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197179.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rundgang mit dem Nachtwächter
+DTSTART;TZID=Europe/Berlin:20231223T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231223T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197
+ 180.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.197180.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtgeschichten zur Guten Nacht
+DTSTART;TZID=Europe/Berlin:20231227T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231227T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
+ 97181.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.197181.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalens Gassen
+DTSTART;TZID=Europe/Berlin:20231231T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231231T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197183.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalens-gassen.197183.htm
 END:VEVENT
 END:VCALENDAR
