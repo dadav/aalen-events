@@ -3491,18 +3491,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196701.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klassenvorspiel der Cello-Klasse von Slava Kieselev
-DTSTART;TZID=Europe/Berlin:20230405T190000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230405T203000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klassenvorspiel-der-cello-klasse-v
- on-slava-kieselev.196760.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:
-URL:https://www.aalen-kultur.de/klassenvorspiel-der-cello-klasse-von-slava
- -kieselev.196760.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
 DTSTART;TZID=Europe/Berlin:20230624T180000
 DURATION:PT5H59M
@@ -4225,5 +4213,89 @@ DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197183.htm
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197183.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Jazz-Dance 
+DTSTART;TZID=Europe/Berlin:20230615T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230615T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-jazz-dance.19718
+ 4.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-jazz-dance.197184.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Russischer Showtanz 
+DTSTART;TZID=Europe/Berlin:20230622T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230622T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-russischer-showt
+ anz.197185.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-russischer-showtanz.1971
+ 85.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Square Dance 
+DTSTART;TZID=Europe/Berlin:20230629T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230629T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197
+ 186.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197186.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: SchulTanzBegegnung 
+DTSTART;TZID=Europe/Berlin:20230706T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230706T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-schultanzbegegnu
+ ng.197187.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-schultanzbegegnung.19718
+ 7.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop: Klima und Kolonialismus - Ursprünge\, Reflexionen\, Mö
+ glichkeiten
+DTSTART;TZID=Europe/Berlin:20230503T160000
+DURATION:PT4H
+RRULE:FREQ=DAILY;UNTIL=20230503T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/workshop-klima-und-kolonialismus-u
+ rspruenge-reflexionen-moeglichkeiten.197211.htm
+LOCATION:Kleiner Sitzungssaal im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/workshop-klima-und-kolonialismus-ursprueng
+ e-reflexionen-moeglichkeiten.197211.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop: Für ein Klima der Gerechtigkeit: Klimaschutz und Postko
+ lonialismus
+DTSTART;TZID=Europe/Berlin:20230504T090000
+DURATION:PT4H
+RRULE:FREQ=DAILY;UNTIL=20230504T130000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/workshop-fuer-ein-klima-der-gerech
+ tigkeit-klimaschutz-und-postkolonialismus.197215.htm
+LOCATION:Kleiner Sitzungssaal im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/workshop-fuer-ein-klima-der-gerechtigkeit-
+ klimaschutz-und-postkolonialismus.197215.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Hip & Drop - Orientalischer Tanz 
+DTSTART;TZID=Europe/Berlin:20230713T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230713T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-hip-drop-orienta
+ lischer-tanz.197309.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-hip-drop-orientalischer-
+ tanz.197309.htm
 END:VEVENT
 END:VCALENDAR
