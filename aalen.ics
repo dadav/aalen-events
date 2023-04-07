@@ -844,16 +844,6 @@ URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
  4965.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nordic-Walking
-DTSTART;TZID=Europe/Berlin:20230406T093000
-DURATION:PT14H29M
-RRULE:FREQ=DAILY;UNTIL=20230406T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/nordic-walking.195013.htm
-LOCATION:Parkplatz Schimmelberg / Affalterried
-ORGANIZER:Ski-Club Braunenberg 1971 e. V.
-URL:https://hofen.aalen.de/nordic-walking.195013.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Osterfreizeit Schüler & Jugendliche
 DTSTART;TZID=Europe/Berlin:20230407T000100
 DURATION:PT23H58M
@@ -4297,5 +4287,61 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-hip-drop-orientalischer-
  tanz.197309.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Kanga 
+DTSTART;TZID=Europe/Berlin:20230720T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230720T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-kanga.197349.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-kanga.197349.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Linedance & Zumba 
+DTSTART;TZID=Europe/Berlin:20230727T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230727T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-linedance-zumba.
+ 197353.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-linedance-zumba.197353.h
+ tm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Improvisationstanz 
+DTSTART;TZID=Europe/Berlin:20230803T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230803T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-improvisationsta
+ nz.197355.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-improvisationstanz.19735
+ 5.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Kindertanz 
+DTSTART;TZID=Europe/Berlin:20230810T150000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230810T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-kindertanz.19735
+ 6.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-kindertanz.197356.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Kindertanz 
+DTSTART;TZID=Europe/Berlin:20230817T150000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230817T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-kindertanz.19735
+ 7.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-kindertanz.197357.htm
 END:VEVENT
 END:VCALENDAR
