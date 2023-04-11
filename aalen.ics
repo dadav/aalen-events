@@ -844,17 +844,6 @@ URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
  4965.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Osterfreizeit Schüler & Jugendliche
-DTSTART;TZID=Europe/Berlin:20230407T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230410T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/osterfreizeit-schueler-jugendliche.1950
- 14.htm
-LOCATION:Mals/Schöneben/Südtirol
-ORGANIZER:TG Hofen 1926 e.V.
-URL:https://hofen.aalen.de/osterfreizeit-schueler-jugendliche.195014.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nordic-Walking
 DTSTART;TZID=Europe/Berlin:20230413T093000
 DURATION:PT14H29M
@@ -4320,5 +4309,26 @@ DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-kindertanz.19735
 LOCATION:Stadtgarten 
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-kindertanz.197357.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230710T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230710T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.197387.htm
+LOCATION:
+ORGANIZER:
+URL:https://wasseralfingen.aalen.de/radtreff.197387.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Square Dance 
+DTSTART;TZID=Europe/Berlin:20230824T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230824T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197
+ 388.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197388.htm
 END:VEVENT
 END:VCALENDAR
