@@ -2091,18 +2091,6 @@ URL:https://hofen.aalen.de/generalversammlung.195783.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
-DTSTART;TZID=Europe/Berlin:20230411T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230411T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-
- photovoltaik.195793.htm
-LOCATION:UtopiAA
-ORGANIZER:Lokale Agenda 21 - Agenda Büro 
-URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
- taik.195793.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
 DTSTART;TZID=Europe/Berlin:20230509T180000
 DURATION:PT2H
 RRULE:FREQ=DAILY;UNTIL=20230509T200000Z;INTERVAL=1;WKST=MO
@@ -4330,5 +4318,29 @@ DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197
 LOCATION:Stadtgarten 
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197388.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: West Coast Swing 
+DTSTART;TZID=Europe/Berlin:20230831T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230831T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-west-coast-swing
+ .197389.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-west-coast-swing.197389.
+ htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanz im Park 2023: Salsa und Bachata 
+DTSTART;TZID=Europe/Berlin:20230907T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230907T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachat
+ a.197390.htm
+LOCATION:Stadtgarten 
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
+ .htm
 END:VEVENT
 END:VCALENDAR
