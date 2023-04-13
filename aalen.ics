@@ -750,26 +750,6 @@ URL:https://www.aalen-kultur.de/roemische-nacht-antik-limesthermen-aalen.1
  92963.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bücherzwerge
-DTSTART;TZID=Europe/Berlin:20230412T093000
-DURATION:PT30M
-RRULE:FREQ=DAILY;UNTIL=20230412T100000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.194929.htm
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.194929.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bücherzwerge
-DTSTART;TZID=Europe/Berlin:20230412T100000
-DURATION:PT30M
-RRULE:FREQ=DAILY;UNTIL=20230412T103000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.194930.htm
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.194930.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kinderkino: Kleiner Dodo
 DTSTART;TZID=Europe/Berlin:20230428T150000
 DURATION:PT1H15M
@@ -896,18 +876,6 @@ LOCATION:Südtirol\, St. Lorenzen
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/familienfreizeit-suedtirol-st-lorenzen
  .195040.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tagesauflug Osterbrunnenfahrt Forchheim\, VdK OV Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230412T083000
-DURATION:PT15H29M
-RRULE:FREQ=DAILY;UNTIL=20230412T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/tagesauflug-osterbrunnenfahrt-
- forchheim-vdk-ov-wasseralfingen.195041.htm
-LOCATION:
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/tagesauflug-osterbrunnenfahrt-forchhei
- m-vdk-ov-wasseralfingen.195041.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monatsversammlung Kleintierzuchtverein Wasseralfingen
@@ -1368,19 +1336,16 @@ ORGANIZER:Konzertring Aalen
 URL:https://www.aalen-kultur.de/konzert-cuarteto-quiroga.195122.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4. Stadtspaziergang "Galgenberg" mit Dr. Georg Wendt: Von der mitt
- elalterlichen Richtstätte zum lebendigen Wohnquartier
+SUMMARY:4. Stadtspaziergang "Galgenberg" mit Dr. Georg Wendt
 DTSTART;TZID=Europe/Berlin:20230525T190000
 DURATION:PT4H59M
 RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/4-stadtspaziergang-galgenberg-mit-
- dr-georg-wendt-von-der-mittelalterlichen-richtstaette-zum-lebendigen-wohnq
- uartier.195123.htm
+ dr-georg-wendt.195123.htm
 LOCATION:Treffpunkt 19 Uhr\, Wagnerplatz\, Prof.-Wagner-Straße\, Aalen 
-ORGANIZER:Geschichtsverein Aalen e. V.
+ORGANIZER:None
 URL:https://www.aalen-kultur.de/4-stadtspaziergang-galgenberg-mit-dr-georg
- -wendt-von-der-mittelalterlichen-richtstaette-zum-lebendigen-wohnquartier.
- 195123.htm
+ -wendt.195123.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vortrag: Schubarts Geislinger Schuldiktate mit Dr. Stefan Knödler
@@ -1390,7 +1355,7 @@ RRULE:FREQ=DAILY;UNTIL=20230920T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/vortrag-schubarts-geislinger-schul
  diktate-mit-dr-stefan-knoedler.195124.htm
 LOCATION:Stadtbibliothek
-ORGANIZER:Geschichtsverein Aalen e. V.
+ORGANIZER:None
 URL:https://www.aalen-kultur.de/vortrag-schubarts-geislinger-schuldiktate-
  mit-dr-stefan-knoedler.195124.htm
 END:VEVENT
@@ -1402,7 +1367,7 @@ RRULE:FREQ=DAILY;UNTIL=20231018T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/vortrag-mit-dr-georg-wendt-aalen-g
  emeindet-ein-1970-1973-.195125.htm
 LOCATION:Evangelisches Gemeindehaus Aalen
-ORGANIZER:Geschichtsverein Aalen e. V.
+ORGANIZER:None
 URL:https://www.aalen-kultur.de/vortrag-mit-dr-georg-wendt-aalen-gemeindet
  -ein-1970-1973-.195125.htm
 END:VEVENT
@@ -1415,7 +1380,7 @@ RRULE:FREQ=DAILY;UNTIL=20231109T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/vortrag-mit-prof-dr-muehlhausen-da
  s-katastrophenjahr-1923-und-die-rettung-der-demokratie.195126.htm
 LOCATION:Evangelisches Gemeindehaus Aalen
-ORGANIZER:Geschichtsverein Aalen e. V.
+ORGANIZER:None
 URL:https://www.aalen-kultur.de/vortrag-mit-prof-dr-muehlhausen-das-katast
  rophenjahr-1923-und-die-rettung-der-demokratie.195126.htm
 END:VEVENT
@@ -1801,22 +1766,23 @@ SUMMARY:4-Tages-Tour Böhmen und Prag
 DTSTART;TZID=Europe/Berlin:20230530T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230602T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/4-tages-tour-boehmen-und-prag.195197.htm
+DESCRIPTION:https://www.aalen-kultur.de/4-tages-tour-boehmen-und-prag.1951
+ 97.htm
 LOCATION:Böhmen und Prag
-ORGANIZER:Geschichtsverein Aalen
-URL:https://www.aalen.de/4-tages-tour-boehmen-und-prag.195197.htm
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/4-tages-tour-boehmen-und-prag.195197.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tagesfahrt nach Blaubeuren/Kloster und Ulm/Kuhberg
 DTSTART;TZID=Europe/Berlin:20230422T080000
 DURATION:PT11H
 RRULE:FREQ=DAILY;UNTIL=20230422T190000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/tagesfahrt-nach-blaubeuren-kloster-und-ul
- m-kuhberg.195207.htm
+DESCRIPTION:https://www.aalen-kultur.de/tagesfahrt-nach-blaubeuren-kloster
+ -und-ulm-kuhberg.195207.htm
 LOCATION:Blaubeuren/Kloster und Ulm/Kuhberg
-ORGANIZER:Geschichtsverein Aalen
-URL:https://www.aalen.de/tagesfahrt-nach-blaubeuren-kloster-und-ulm-kuhber
- g.195207.htm
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/tagesfahrt-nach-blaubeuren-kloster-und-ulm
+ -kuhberg.195207.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schwäbischer Stammtisch in Wasseralfingen
@@ -4342,5 +4308,392 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juki-Tag
+DTSTART;TZID=Europe/Berlin:20230415T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/juki-tag.197421.htm
+LOCATION:Turnhalle Waldhausen
+ORGANIZER:Mittelpunkt-Team
+URL:https://ebnat.aalen.de/juki-tag.197421.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20230422T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197422.htm
+LOCATION:
+ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
+URL:https://ebnat.aalen.de/altpapiersammlung.197422.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altmetall-Bringsammlung
+DTSTART;TZID=Europe/Berlin:20230422T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/altmetall-bringsammlung.197423.htm
+LOCATION:Vereinsheim SV Ebnat
+ORGANIZER:SV Ebnat
+URL:https://ebnat.aalen.de/altmetall-bringsammlung.197423.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frühlingslaune
+DTSTART;TZID=Europe/Berlin:20230423T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/fruehlingslaune.197424.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/fruehlingslaune.197424.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbtagesfahrt 
+DTSTART;TZID=Europe/Berlin:20230425T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230425T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/halbtagesfahrt.197425.htm
+LOCATION:
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/halbtagesfahrt.197425.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff
+DTSTART;TZID=Europe/Berlin:20230427T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230427T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197426.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff.197426.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tanzveranstaltung zum  40-jährigen Jubiläum
+DTSTART;TZID=Europe/Berlin:20230429T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/tanzveranstaltung-zum-40-jaehrigen-jubi
+ laeum.197427.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:Landfrauenverein Ebnat
+URL:https://ebnat.aalen.de/tanzveranstaltung-zum-40-jaehrigen-jubilaeum.19
+ 7427.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maifest
+DTSTART;TZID=Europe/Berlin:20230430T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/maifest.197433.htm
+LOCATION:Hof der Schillerschule
+ORGANIZER:Liederkranz Ebnat
+URL:https://ebnat.aalen.de/maifest.197433.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erstkommunion
+DTSTART;TZID=Europe/Berlin:20230430T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/erstkommunion.197434.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/erstkommunion.197434.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fest der Ebnater Freude
+DTSTART;TZID=Europe/Berlin:20230514T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/fest-der-ebnater-freude.197435.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/fest-der-ebnater-freude.197435.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bittprozession
+DTSTART;TZID=Europe/Berlin:20230515T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230515T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/bittprozession.197436.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/bittprozession.197436.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bittprozession
+DTSTART;TZID=Europe/Berlin:20230517T083000
+DURATION:PT15H29M
+RRULE:FREQ=DAILY;UNTIL=20230517T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/bittprozession.197437.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/bittprozession.197437.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Firmung
+DTSTART;TZID=Europe/Berlin:20230617T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/firmung.197440.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/firmung.197440.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff mit  Maiandacht
+DTSTART;TZID=Europe/Berlin:20230525T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff-mit-maiandacht.197443.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff-mit-maiandacht.197443.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fronleichnamsgottesdienst
+DTSTART;TZID=Europe/Berlin:20230608T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/fronleichnamsgottesdienst.197458.htm
+LOCATION:Katholische Kirche/Gemeindezentrum/Pfarrgarten
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/fronleichnamsgottesdienst.197458.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff
+DTSTART;TZID=Europe/Berlin:20230629T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230629T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197461.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff.197461.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andacht
+DTSTART;TZID=Europe/Berlin:20230716T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/andacht.197462.htm
+LOCATION:Maria Eich
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/andacht.197462.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochamt zu Mariä Himmelfahrt 
+DTSTART;TZID=Europe/Berlin:20230815T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230815T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hochamt-zu-mariae-himmelfahrt.197463.ht
+ m
+LOCATION:Maria Eich (bei schlechter Witterung in der Kirche)
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/hochamt-zu-mariae-himmelfahrt.197463.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andacht
+DTSTART;TZID=Europe/Berlin:20230910T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20230910T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/andacht.197464.htm
+LOCATION:Maria Eich
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/andacht.197464.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff
+DTSTART;TZID=Europe/Berlin:20230921T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230921T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197465.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff.197465.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eucharistiefeier zu  Erntedank 
+DTSTART;TZID=Europe/Berlin:20231001T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20231001T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/eucharistiefeier-zu-erntedank.197469.ht
+ m
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/eucharistiefeier-zu-erntedank.197469.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lichterprozession nach  Maria Eich
+DTSTART;TZID=Europe/Berlin:20231001T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231001T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/lichterprozession-nach-maria-eich.19747
+ 0.htm
+LOCATION:Treffpunkt: Parkplatz Maria Eich
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/lichterprozession-nach-maria-eich.197470.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff
+DTSTART;TZID=Europe/Berlin:20231019T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231019T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197471.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff.197471.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff
+DTSTART;TZID=Europe/Berlin:20231116T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231116T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197472.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff.197472.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst zum Volkstrauertag
+DTSTART;TZID=Europe/Berlin:20231119T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20231119T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/gottesdienst-zum-volkstrauertag.197474.
+ htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/gottesdienst-zum-volkstrauertag.197474.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochamt zum Kirchenpatrozinium
+DTSTART;TZID=Europe/Berlin:20231210T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20231210T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hochamt-zum-kirchenpatrozinium.197476.h
+ tm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/hochamt-zum-kirchenpatrozinium.197476.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krippenfeier
+DTSTART;TZID=Europe/Berlin:20231224T163000
+DURATION:PT7H29M
+RRULE:FREQ=DAILY;UNTIL=20231224T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/krippenfeier.197484.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/krippenfeier.197484.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmette
+DTSTART;TZID=Europe/Berlin:20231224T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20231224T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/christmette.197485.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/christmette.197485.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hochamt mit Kirchenchor
+DTSTART;TZID=Europe/Berlin:20231225T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20231225T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hochamt-mit-kirchenchor.197487.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/hochamt-mit-kirchenchor.197487.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsandacht
+DTSTART;TZID=Europe/Berlin:20231226T163000
+DURATION:PT7H29M
+RRULE:FREQ=DAILY;UNTIL=20231226T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/weihnachtsandacht.197488.htm
+LOCATION:Maria Eich
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/weihnachtsandacht.197488.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorentreff
+DTSTART;TZID=Europe/Berlin:20231214T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231214T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197490.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/seniorentreff.197490.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnungsfahrt
+DTSTART;TZID=Europe/Berlin:20230501T120000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20230501T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/eroeffnungsfahrt.197492.htm
+LOCATION:ESC-Gelände
+ORGANIZER:Ebnater Schättere Club
+URL:https://ebnat.aalen.de/eroeffnungsfahrt.197492.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anlagenfahrt
+DTSTART;TZID=Europe/Berlin:20230604T120000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20230604T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197493.htm
+LOCATION:ESC-Anlage
+ORGANIZER:Ebnater Schättere Club
+URL:https://ebnat.aalen.de/anlagenfahrt.197493.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anlagenfahrt
+DTSTART;TZID=Europe/Berlin:20230702T120000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20230702T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197494.htm
+LOCATION:ESC-Anlage
+ORGANIZER:Ebnater Schättere Club
+URL:https://ebnat.aalen.de/anlagenfahrt.197494.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anlagenfahrt
+DTSTART;TZID=Europe/Berlin:20230806T120000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20230806T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197495.htm
+LOCATION:ESC-Anlage
+ORGANIZER:Ebnater Schättere Club
+URL:https://ebnat.aalen.de/anlagenfahrt.197495.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anlagenfahrt
+DTSTART;TZID=Europe/Berlin:20230903T120000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20230903T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197496.htm
+LOCATION:ESC-Anlage
+ORGANIZER:Ebnater Schättere Club
+URL:https://ebnat.aalen.de/anlagenfahrt.197496.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anlagenfahrt
+DTSTART;TZID=Europe/Berlin:20231001T120000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20231001T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197497.htm
+LOCATION:ESC-Anlage
+ORGANIZER:Ebnater Schättere Club
+URL:https://ebnat.aalen.de/anlagenfahrt.197497.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Campus
+DTSTART;TZID=Europe/Berlin:20230506T110000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20230506T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/open-campus.197499.htm
+LOCATION:Hochschule Aalen\, Campus Beethovenstraße
+ORGANIZER:Hochschule Aalen
+URL:https://www.aalen-kultur.de/open-campus.197499.htm
 END:VEVENT
 END:VCALENDAR
