@@ -24,8 +24,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nessi Tausendschön: 30 Jahre Zenit
 DTSTART;TZID=Europe/Berlin:20230427T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230427T200000Z;INTERVAL=1;WKST=MO
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230427T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/nessi-tausendschoen-30-jahre-zenit
  .185911.htm
 LOCATION:Stadthalle Aalen
@@ -221,18 +221,6 @@ LOCATION:Stadthalle
 ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/kulturwochen-2024-delattre-dance-company.1
  90438.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kulturwochen 2023: Clownensemble Mimi Richi
-DTSTART;TZID=Europe/Berlin:20231019T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231019T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/kulturwochen-2023-clownensemble-mi
- mi-richi.190439.htm
-LOCATION:Stadthalle
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/kulturwochen-2023-clownensemble-mimi-richi
- .190439.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOLAA-Elektrofestival
@@ -822,16 +810,6 @@ LOCATION:Bücherei Unterkochen
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
  4965.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nordic-Walking
-DTSTART;TZID=Europe/Berlin:20230413T093000
-DURATION:PT14H29M
-RRULE:FREQ=DAILY;UNTIL=20230413T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/nordic-walking.195015.htm
-LOCATION:Parkplatz Schimmelberg / Affalterried
-ORGANIZER:Ski-Club Braunenberg 1971 e. V.
-URL:https://hofen.aalen.de/nordic-walking.195015.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Osterbrunnentour
@@ -1918,18 +1896,6 @@ LOCATION:Limesmuseum Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/ein-sonntagnachmittag-im-limesmuseum.19569
  1.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familien-Feriennachmittag in den Osterferien
-DTSTART;TZID=Europe/Berlin:20230413T140000
-DURATION:PT2H30M
-RRULE:FREQ=DAILY;UNTIL=20230413T163000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/familien-feriennachmittag-in-den-o
- sterferien.195692.htm
-LOCATION:Limesmuseum Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/familien-feriennachmittag-in-den-osterferi
- en.195692.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Familien-Feriennachmittag in den Pfingstferien
@@ -3402,9 +3368,9 @@ URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196701.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20230624T180000
+DTSTART;TZID=Europe/Berlin:20230625T180000
 DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehr
  iges-jubilaeum.196839.htm
 LOCATION:Stadtkirche Ellwangen
@@ -3414,9 +3380,9 @@ URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20230625T170000
+DTSTART;TZID=Europe/Berlin:20230624T170000
 DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehr
  iges-jubilaeum.196840.htm
 LOCATION:Salvatorkirche Aalen
@@ -4695,5 +4661,425 @@ DESCRIPTION:https://www.aalen-kultur.de/open-campus.197499.htm
 LOCATION:Hochschule Aalen\, Campus Beethovenstraße
 ORGANIZER:Hochschule Aalen
 URL:https://www.aalen-kultur.de/open-campus.197499.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag - planen\, bauen\, wohlfühlen in Aalen
+DTSTART;TZID=Europe/Berlin:20230505T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/vortrag-planen-bauen-wohlfuehlen-i
+ n-aalen.197504.htm
+LOCATION:Foyer im Rathaus Aalen
+ORGANIZER:Stadt Aalen mit Architektenkammergruppe Aalen
+URL:https://www.aalen-kultur.de/vortrag-planen-bauen-wohlfuehlen-in-aalen.
+ 197504.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung zum Sonderpreis Baukultur 2022
+DTSTART;TZID=Europe/Berlin:20230505T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/ausstellung-zum-sonderpreis-baukul
+ tur-2022.197506.htm
+LOCATION:Rathaus Aalen
+ORGANIZER:Stadt Aalen
+URL:https://www.aalen-kultur.de/ausstellung-zum-sonderpreis-baukultur-2022
+ .197506.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mimirichi - Plastic Fantastic (Clownensemble aus Kiew)
+DTSTART;TZID=Europe/Berlin:20231024T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231024T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/mimirichi-plastic-fantastic-clowne
+ nsemble-aus-kiew-.197511.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Amt für Kultur und Tourismus
+URL:https://www.aalen-kultur.de/mimirichi-plastic-fantastic-clownensemble-
+ aus-kiew-.197511.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Familiennachmittag
+DTSTART;TZID=Europe/Berlin:20230505T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/familiennachmittag.197512.htm
+LOCATION:Albert-Schweitzer-Haus Unterkochen
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/familiennachmittag.197512.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbtagesfahrt 
+DTSTART;TZID=Europe/Berlin:20230627T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230627T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/halbtagesfahrt.197513.htm
+LOCATION:
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/halbtagesfahrt.197513.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanderung mit anschließendem Vortrag
+DTSTART;TZID=Europe/Berlin:20230828T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230828T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/wanderung-mit-anschliessendem-vortrag.1
+ 97514.htm
+LOCATION:FV 08 Heim Unterkochen
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/wanderung-mit-anschliessendem-vortrag.197514.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbtagesfahrt 
+DTSTART;TZID=Europe/Berlin:20230926T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230926T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/halbtagesfahrt.197515.htm
+LOCATION:
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/halbtagesfahrt.197515.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Besenfahrt
+DTSTART;TZID=Europe/Berlin:20231031T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231031T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/besenfahrt.197516.htm
+LOCATION:
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/besenfahrt.197516.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventsfeier
+DTSTART;TZID=Europe/Berlin:20231202T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231202T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/adventsfeier.197521.htm
+LOCATION:Albert-Schweitzer-Haus Unterkochen
+ORGANIZER:VdK OV Unterkochen-Ebnat
+URL:https://ebnat.aalen.de/adventsfeier.197521.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffest
+DTSTART;TZID=Europe/Berlin:20230513T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hoffest.197546.htm
+LOCATION:Schillerschule Ebnat
+ORGANIZER:DRK Ortsgruppe Ebnat
+URL:https://ebnat.aalen.de/hoffest.197546.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffest
+DTSTART;TZID=Europe/Berlin:20230514T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hoffest.197547.htm
+LOCATION:Schillerschule Ebnat
+ORGANIZER:DRK Ortsgruppe Ebnat
+URL:https://ebnat.aalen.de/hoffest.197547.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspendenaktion
+DTSTART;TZID=Europe/Berlin:20231106T140000
+DURATION:PT5H30M
+RRULE:FREQ=DAILY;UNTIL=20231106T193000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/blutspendenaktion.197548.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:DRK Ortsgruppe Ebnat
+URL:https://ebnat.aalen.de/blutspendenaktion.197548.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ebnater Frühlingsfest
+DTSTART;TZID=Europe/Berlin:20230517T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230517T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/ebnater-fruehlingsfest.197549.htm
+LOCATION:Neuer Festplatz Ebnat
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/ebnater-fruehlingsfest.197549.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ebnater Frühlingsfest
+DTSTART;TZID=Europe/Berlin:20230518T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/ebnater-fruehlingsfest.197550.htm
+LOCATION:Neuer Festplatz Ebnat
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/ebnater-fruehlingsfest.197550.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ebnater Frühlingsfest
+DTSTART;TZID=Europe/Berlin:20230519T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230519T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/ebnater-fruehlingsfest.197551.htm
+LOCATION:Neuer Festplatz Ebnat
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/ebnater-fruehlingsfest.197551.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gottesdienst für verstorbene Mitglieder
+DTSTART;TZID=Europe/Berlin:20230709T103000
+DURATION:PT13H29M
+RRULE:FREQ=DAILY;UNTIL=20230709T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/gottesdienst-fuer-verstorbene-mitgliede
+ r.197552.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/gottesdienst-fuer-verstorbene-mitglieder.197552
+ .htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahreskonzert
+DTSTART;TZID=Europe/Berlin:20231118T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20231118T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/jahreskonzert.197553.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/jahreskonzert.197553.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waldweihnacht
+DTSTART;TZID=Europe/Berlin:20231217T153000
+DURATION:PT8H29M
+RRULE:FREQ=DAILY;UNTIL=20231217T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/waldweihnacht.197554.htm
+LOCATION:Waldkapelle Maria Eich
+ORGANIZER:Musikverein Ebnat
+URL:https://ebnat.aalen.de/waldweihnacht.197554.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonnwendfeier
+DTSTART;TZID=Europe/Berlin:20230624T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/sonnwendfeier.197570.htm
+LOCATION:Naturschutzzentrum Ebnat
+ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
+URL:https://ebnat.aalen.de/sonnwendfeier.197570.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonnwendfeier
+DTSTART;TZID=Europe/Berlin:20230625T110000
+DURATION:PT12H59M
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/sonnwendfeier.197571.htm
+LOCATION:Naturschutzzentrum Ebnat
+ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
+URL:https://ebnat.aalen.de/sonnwendfeier.197571.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausflug „Mosel“
+DTSTART;TZID=Europe/Berlin:20230608T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/ausflug-mosel.197572.htm
+LOCATION:
+ORGANIZER:Landfrauenverein Ebnat
+URL:https://ebnat.aalen.de/ausflug-mosel.197572.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juki-Tag
+DTSTART;TZID=Europe/Berlin:20231104T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231104T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/juki-tag.197573.htm
+LOCATION:Turnhalle Waldhausen
+ORGANIZER:Mittelpunkt-Team
+URL:https://ebnat.aalen.de/juki-tag.197573.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20230527T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230527T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197574.htm
+LOCATION:Ebnat
+ORGANIZER:Kath. Ministrantengruppe Ebnat
+URL:https://ebnat.aalen.de/altpapiersammlung.197574.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dorffest
+DTSTART;TZID=Europe/Berlin:20230610T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20230610T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/dorffest.197579.htm
+LOCATION:Dorfplatz Ebnat
+ORGANIZER:Dorffestverein Ebnat
+URL:https://ebnat.aalen.de/dorffest.197579.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dorffest
+DTSTART;TZID=Europe/Berlin:20230611T110000
+DURATION:PT12H59M
+RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/dorffest.197580.htm
+LOCATION:Dorfplatz Ebnat
+ORGANIZER:Dorffestverein Ebnat
+URL:https://ebnat.aalen.de/dorffest.197580.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andacht
+DTSTART;TZID=Europe/Berlin:20230618T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20230618T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/andacht.197581.htm
+LOCATION:Maria Eich
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/andacht.197581.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allerheiligen-Gottesdienst
+DTSTART;TZID=Europe/Berlin:20231101T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20231101T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/allerheiligen-gottesdienst.197582.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/allerheiligen-gottesdienst.197582.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andacht zu Allerheiligen
+DTSTART;TZID=Europe/Berlin:20231101T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20231101T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/andacht-zu-allerheiligen.197583.htm
+LOCATION:Friedhof Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/andacht-zu-allerheiligen.197583.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St. Martins-Wortgottesdienst
+DTSTART;TZID=Europe/Berlin:20231108T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231108T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/st-martins-wortgottesdienst.197584.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Katholische Kirchengemeinde Ebnat
+URL:https://ebnat.aalen.de/st-martins-wortgottesdienst.197584.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffest
+DTSTART;TZID=Europe/Berlin:20230708T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hoffest.197585.htm
+LOCATION:Feuerwache Ebnat
+ORGANIZER:Freiwillige Feuerwehr Abt. Ebnat-Waldhausen
+URL:https://ebnat.aalen.de/hoffest.197585.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoffest
+DTSTART;TZID=Europe/Berlin:20230709T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230709T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/hoffest.197586.htm
+LOCATION:Feuerwache Ebnat
+ORGANIZER:Freiwillige Feuerwehr Abt. Ebnat-Waldhausen
+URL:https://ebnat.aalen.de/hoffest.197586.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20231118T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231118T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197588.htm
+LOCATION:Ebnat
+ORGANIZER:Jugendfeuerwehr der FFW Ebnat/Waldhausen
+URL:https://ebnat.aalen.de/altpapiersammlung.197588.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motorrad-Treffen
+DTSTART;TZID=Europe/Berlin:20230714T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/motorrad-treffen.197589.htm
+LOCATION:Vereinsgelände der Motorradfreunde Bisons
+ORGANIZER:Motorradfreunde Bisons
+URL:https://ebnat.aalen.de/motorrad-treffen.197589.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20230715T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230715T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197590.htm
+LOCATION:Ebnat
+ORGANIZER:Förderverein Gartenschule  Ebnat
+URL:https://ebnat.aalen.de/altpapiersammlung.197590.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20230923T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230923T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197591.htm
+LOCATION:Ebnat
+ORGANIZER:Förderverein Gartenschule  Ebnat
+URL:https://ebnat.aalen.de/altpapiersammlung.197591.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sporttage
+DTSTART;TZID=Europe/Berlin:20230721T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230723T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/sporttage.197592.htm
+LOCATION:Vereinsgelände des Sportvereins Ebnat
+ORGANIZER:Sportverein Ebnat
+URL:https://ebnat.aalen.de/sporttage.197592.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fußballcamp
+DTSTART;TZID=Europe/Berlin:20230731T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230804T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/fussballcamp.197593.htm
+LOCATION:Vereinsgelände des Sportvereins Ebnat
+ORGANIZER:Sportverein Ebnat
+URL:https://ebnat.aalen.de/fussballcamp.197593.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rocknacht
+DTSTART;TZID=Europe/Berlin:20231014T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231014T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/rocknacht.197594.htm
+LOCATION:Alte Turnhalle Ebnat
+ORGANIZER:Sportverein Ebnat
+URL:https://ebnat.aalen.de/rocknacht.197594.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weinfest
+DTSTART;TZID=Europe/Berlin:20231028T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231028T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/weinfest.197595.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:Sportverein Ebnat
+URL:https://ebnat.aalen.de/weinfest.197595.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsmarkt
+DTSTART;TZID=Europe/Berlin:20231209T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20231209T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/weihnachtsmarkt.197596.htm
+LOCATION:Vereinsgelände des Sportvereins Ebnat
+ORGANIZER:Sportverein Ebnat
+URL:https://ebnat.aalen.de/weihnachtsmarkt.197596.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gartenfest
+DTSTART;TZID=Europe/Berlin:20230730T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/gartenfest.197600.htm
+LOCATION:Katholisches Gemeindezentrum Ebnat
+ORGANIZER:KAB/VKL
+URL:https://ebnat.aalen.de/gartenfest.197600.htm
 END:VEVENT
 END:VCALENDAR
