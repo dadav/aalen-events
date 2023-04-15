@@ -856,18 +856,6 @@ URL:https://wasseralfingen.aalen.de/familienfreizeit-suedtirol-st-lorenzen
  .195040.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monatsversammlung Kleintierzuchtverein Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230414T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230414T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuc
- htverein-wasseralfingen.195042.htm
-LOCATION:Kleintierzuchtverein Wasseralfingen e. V.
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
- -wasseralfingen.195042.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Platzkonzert SHW Bergkapelle und Altenpflegeheim Marienhöhe
 DTSTART;TZID=Europe/Berlin:20230416T103000
 DURATION:PT13H29M
@@ -2197,17 +2185,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-stars.196322.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Stadtpfeifer von Aalen
-DTSTART;TZID=Europe/Berlin:20230414T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230414T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196350.
- htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196350.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
 DTSTART;TZID=Europe/Berlin:20230419T200000
 DURATION:PT3H59M
@@ -2261,17 +2238,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtführung Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230415T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196403
- .htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196403.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -5081,5 +5047,51 @@ DESCRIPTION:https://ebnat.aalen.de/gartenfest.197600.htm
 LOCATION:Katholisches Gemeindezentrum Ebnat
 ORGANIZER:KAB/VKL
 URL:https://ebnat.aalen.de/gartenfest.197600.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lara Ermer - Zuckerjokes und Peitsche
+DTSTART;TZID=Europe/Berlin:20240309T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240309T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/lara-ermer-zuckerjokes-und-peitsch
+ e.197616.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/lara-ermer-zuckerjokes-und-peitsche.197616
+ .htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Priol - Im Fluss
+DTSTART;TZID=Europe/Berlin:20240222T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240222T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/urban-priol-im-fluss.197617.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/urban-priol-im-fluss.197617.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philipp Scharrenberg - Verwirren ist menschlich
+DTSTART;TZID=Europe/Berlin:20231115T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231115T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/philipp-scharrenberg-verwirren-ist
+ -menschlich.197618.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/philipp-scharrenberg-verwirren-ist-menschl
+ ich.197618.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mnozil Brass - Jubelei! 30 Jahre Mnozil Brass
+DTSTART;TZID=Europe/Berlin:20231207T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231207T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/mnozil-brass-jubelei-30-jahre-mnoz
+ il-brass.197620.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/mnozil-brass-jubelei-30-jahre-mnozil-brass
+ .197620.htm
 END:VEVENT
 END:VCALENDAR
