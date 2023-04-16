@@ -812,16 +812,6 @@ URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
  4965.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Osterbrunnentour
-DTSTART;TZID=Europe/Berlin:20230415T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/osterbrunnentour.195016.htm
-LOCATION:Parkplatz Talschule
-ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
-URL:https://hofen.aalen.de/osterbrunnentour.195016.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stammtisch
 DTSTART;TZID=Europe/Berlin:20230418T193000
 DURATION:PT4H29M
@@ -842,18 +832,6 @@ LOCATION:Wasseralfingen
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familienfreizeit Südtirol\, St. Lorenzen
-DTSTART;TZID=Europe/Berlin:20230409T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/familienfreizeit-suedtirol-st-
- lorenzen.195040.htm
-LOCATION:Südtirol\, St. Lorenzen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/familienfreizeit-suedtirol-st-lorenzen
- .195040.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Platzkonzert SHW Bergkapelle und Altenpflegeheim Marienhöhe
@@ -1276,18 +1254,6 @@ DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-urmel-aus-dem-ei
 LOCATION:Theater der Stadt Aalen - Altes Rathaus
 ORGANIZER:Theater der Stadt Aalen
 URL:https://www.aalen-kultur.de/theater-der-stadt-urmel-aus-dem-eis.195119
- .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konzert: The Clarinet Trio Anthology
-DTSTART;TZID=Europe/Berlin:20230415T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/konzert-the-clarinet-trio-antholog
- y.195121.htm
-LOCATION:Stadthalle
-ORGANIZER:Konzertring Aalen
-URL:https://www.aalen-kultur.de/konzert-the-clarinet-trio-anthology.195121
  .htm
 END:VEVENT
 BEGIN:VEVENT
@@ -4240,16 +4206,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Juki-Tag
-DTSTART;TZID=Europe/Berlin:20230415T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230415T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/juki-tag.197421.htm
-LOCATION:Turnhalle Waldhausen
-ORGANIZER:Mittelpunkt-Team
-URL:https://ebnat.aalen.de/juki-tag.197421.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Altpapiersammlung
