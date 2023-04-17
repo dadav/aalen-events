@@ -611,18 +611,6 @@ URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle.192941.ht
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Junge Philharmonie Ostwürttemberg - Konzert
-DTSTART;TZID=Europe/Berlin:20230416T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230416T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/junge-philharmonie-ostwuerttemberg
- -konzert.192942.htm
-LOCATION:Stadthalle
-ORGANIZER:
-URL:https://www.aalen-kultur.de/junge-philharmonie-ostwuerttemberg-konzert
- .192942.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CoKo Festival
 DTSTART;TZID=Europe/Berlin:20230617T000100
 DURATION:PT23H58M
@@ -832,18 +820,6 @@ LOCATION:Wasseralfingen
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Platzkonzert SHW Bergkapelle und Altenpflegeheim Marienhöhe
-DTSTART;TZID=Europe/Berlin:20230416T103000
-DURATION:PT13H29M
-RRULE:FREQ=DAILY;UNTIL=20230416T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/platzkonzert-shw-bergkapelle-u
- nd-altenpflegeheim-marienhoehe.195043.htm
-LOCATION:Altenpflegeheim Marienhöhe Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/platzkonzert-shw-bergkapelle-und-alten
- pflegeheim-marienhoehe.195043.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monatsversammlung DJK-SG Wasseralfingen
@@ -3300,8 +3276,8 @@ URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196701.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20230625T180000
-DURATION:PT5H59M
+DTSTART;TZID=Europe/Berlin:20230625T170000
+DURATION:PT6H59M
 RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehr
  iges-jubilaeum.196839.htm
@@ -3312,8 +3288,8 @@ URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20230624T170000
-DURATION:PT6H59M
+DTSTART;TZID=Europe/Berlin:20230624T180000
+DURATION:PT5H59M
 RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehr
  iges-jubilaeum.196840.htm
@@ -5019,8 +4995,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urban Priol - Im Fluss
 DTSTART;TZID=Europe/Berlin:20240222T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20240222T200000Z;INTERVAL=1;WKST=MO
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20240222T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/urban-priol-im-fluss.197617.htm
 LOCATION:Stadthalle Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
@@ -5029,8 +5005,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philipp Scharrenberg - Verwirren ist menschlich
 DTSTART;TZID=Europe/Berlin:20231115T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20231115T200000Z;INTERVAL=1;WKST=MO
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231115T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/philipp-scharrenberg-verwirren-ist
  -menschlich.197618.htm
 LOCATION:Stadthalle Aalen
@@ -5041,13 +5017,66 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mnozil Brass - Jubelei! 30 Jahre Mnozil Brass
 DTSTART;TZID=Europe/Berlin:20231207T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20231207T200000Z;INTERVAL=1;WKST=MO
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231207T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/mnozil-brass-jubelei-30-jahre-mnoz
  il-brass.197620.htm
 LOCATION:Stadthalle Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/mnozil-brass-jubelei-30-jahre-mnozil-brass
  .197620.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einschulung der Erstklässler mit Gottesdienst
+DTSTART;TZID=Europe/Berlin:20230913T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230913T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/einschulung-der-erstklaessler-mit-gotte
+ sdienst.197668.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Grundschule Ebnat
+URL:https://ebnat.aalen.de/einschulung-der-erstklaessler-mit-gottesdienst.
+ 197668.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderkleiderbasar
+DTSTART;TZID=Europe/Berlin:20230923T120000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230923T140000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/kinderkleiderbasar.197669.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:Alles rund ums Kind e.V.
+URL:https://ebnat.aalen.de/kinderkleiderbasar.197669.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frauenkleiderbasar
+DTSTART;TZID=Europe/Berlin:20231014T100000
+DURATION:PT4H
+RRULE:FREQ=DAILY;UNTIL=20231014T140000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/frauenkleiderbasar.197670.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:Basar-Team Ebnat
+URL:https://ebnat.aalen.de/frauenkleiderbasar.197670.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seniorennachmittag und Adventskaffee
+DTSTART;TZID=Europe/Berlin:20231203T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20231203T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/seniorennachmittag-und-adventskaffee.19
+ 7671.htm
+LOCATION:Jurahalle Ebnat
+ORGANIZER:Liederkranz Ebnat
+URL:https://ebnat.aalen.de/seniorennachmittag-und-adventskaffee.197671.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kirchenkonzert
+DTSTART;TZID=Europe/Berlin:20231210T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231210T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://ebnat.aalen.de/kirchenkonzert.197672.htm
+LOCATION:Katholische Kirche Ebnat
+ORGANIZER:Handharmonikafreunde Ebnat
+URL:https://ebnat.aalen.de/kirchenkonzert.197672.htm
 END:VEVENT
 END:VCALENDAR
