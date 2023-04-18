@@ -4983,8 +4983,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lara Ermer - Zuckerjokes und Peitsche
 DTSTART;TZID=Europe/Berlin:20240309T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20240309T200000Z;INTERVAL=1;WKST=MO
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20240309T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/lara-ermer-zuckerjokes-und-peitsch
  e.197616.htm
 LOCATION:Stadthalle Aalen
@@ -5078,5 +5078,91 @@ DESCRIPTION:https://ebnat.aalen.de/kirchenkonzert.197672.htm
 LOCATION:Katholische Kirche Ebnat
 ORGANIZER:Handharmonikafreunde Ebnat
 URL:https://ebnat.aalen.de/kirchenkonzert.197672.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalen leicht gemacht
+DTSTART;TZID=Europe/Berlin:20230504T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230504T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalen-leicht-gemacht.197693.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalen-leicht-gemacht.197693.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oberalfinger Maibaumfest 2023
+DTSTART;TZID=Europe/Berlin:20230430T170000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230501T190000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen.de/oberalfinger-maibaumfest-2023.197715.htm
+LOCATION:Maibaumplatz in Oberalfingen
+ORGANIZER:Räumle Oberalfingen
+URL:https://www.aalen.de/oberalfinger-maibaumfest-2023.197715.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalen leicht gemacht
+DTSTART;TZID=Europe/Berlin:20230914T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230914T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalen-leicht-gemacht.197720.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalen-leicht-gemacht.197720.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalener Stadtführung mit Gesang
+DTSTART;TZID=Europe/Berlin:20230708T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.1
+ 97724.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.197724.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalener Stadtführung mit Gesang
+DTSTART;TZID=Europe/Berlin:20230722T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230722T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.1
+ 97725.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.197725.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalener Stadtführung mit Gesang
+DTSTART;TZID=Europe/Berlin:20230916T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230916T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.1
+ 97726.htm
+LOCATION:
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.197726.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahreshauptversammlung
+DTSTART;TZID=Europe/Berlin:20230423T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/jahreshauptversammlung.197739.htm
+LOCATION:Barbarastube Hofen
+ORGANIZER:Sportkegelclub "Fortuna" Hofen
+URL:https://hofen.aalen.de/jahreshauptversammlung.197739.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vatertagswanderung
+DTSTART;TZID=Europe/Berlin:20230518T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/vatertagswanderung.197747.htm
+LOCATION:
+ORGANIZER:Sportkegelclub "Fortuna" Hofen
+URL:https://hofen.aalen.de/vatertagswanderung.197747.htm
 END:VEVENT
 END:VCALENDAR
