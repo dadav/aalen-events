@@ -24,8 +24,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nessi Tausendschön: 30 Jahre Zenit
 DTSTART;TZID=Europe/Berlin:20230427T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230427T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20230427T200000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/nessi-tausendschoen-30-jahre-zenit
  .185911.htm
 LOCATION:Stadthalle Aalen
@@ -800,16 +800,6 @@ URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
  4965.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stammtisch
-DTSTART;TZID=Europe/Berlin:20230418T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230418T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/stammtisch.195017.htm
-LOCATION:Gasthaus „Frische Quelle“
-ORGANIZER:Ski-Club Braunenberg 1971 e. V.
-URL:https://hofen.aalen.de/stammtisch.195017.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Altpril FV Viktoria Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230401T000100
 DURATION:PT23H58M
@@ -862,9 +852,9 @@ URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung-bezirksamt-wasse
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jahreshauptversammlung Stadtverband Sport und Kultur
-DTSTART;TZID=Europe/Berlin:20230426T193000
+DTSTART;TZID=Europe/Berlin:20230524T193000
 DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230426T235900Z;INTERVAL=1;WKST=MO
+RRULE:FREQ=DAILY;UNTIL=20230524T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/jahreshauptversammlung-stadtve
  rband-sport-und-kultur.195047.htm
 LOCATION:Bürgersaal Wasseralfingen
@@ -4995,8 +4985,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urban Priol - Im Fluss
 DTSTART;TZID=Europe/Berlin:20240222T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20240222T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240222T200000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/urban-priol-im-fluss.197617.htm
 LOCATION:Stadthalle Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
@@ -5017,8 +5007,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mnozil Brass - Jubelei! 30 Jahre Mnozil Brass
 DTSTART;TZID=Europe/Berlin:20231207T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231207T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231207T200000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/mnozil-brass-jubelei-30-jahre-mnoz
  il-brass.197620.htm
 LOCATION:Stadthalle Aalen
