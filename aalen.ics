@@ -131,38 +131,6 @@ ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188895.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Poetry slam im KUBAA
-DTSTART;TZID=Europe/Berlin:20230928T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230928T194500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188897.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188897.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetry slam im KUBAA
-DTSTART;TZID=Europe/Berlin:20231130T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20231130T194500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188899.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188899.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herrn Stumpfes Zieh- und Zupfkapelle und Gäste
-DTSTART;TZID=Europe/Berlin:20231012T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20231012T194500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/herrn-stumpfes-zieh-und-zupfkapell
- e-und-gaeste.188902.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-und-zupfkapelle-und-ga
- este.188902.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kulturwochen 2023: AALEN Festival Orchester
 DTSTART;TZID=Europe/Berlin:20231003T200000
 DURATION:PT3H59M
@@ -597,18 +565,6 @@ DESCRIPTION:https://unterkochen.aalen.de/1-maimarkt-auf-der-kocherburg.192
 LOCATION:Kocherburg Unterkochen
 ORGANIZER:Initiative Kocherburg
 URL:https://unterkochen.aalen.de/1-maimarkt-auf-der-kocherburg.192940.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herrn  Stumpfes Zieh & Zupf Kapelle
-DTSTART;TZID=Europe/Berlin:20230712T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle.1
- 92941.htm
-LOCATION:Schloss Fachsenfeld
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle.192941.ht
- m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoKo Festival
@@ -1683,19 +1639,6 @@ URL:https://www.aalen-kultur.de/tagesfahrt-nach-blaubeuren-kloster-und-ulm
  -kuhberg.195207.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schwäbischer Stammtisch in Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230419T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230419T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/schwaebischer-stammtisch-in-wa
- sseralfingen.195208.htm
-LOCATION:Gasthof Goldener Stern
-ORGANIZER:Bund für Heimatpflege e.V. Wasseralfingen in Zusammenarbeit mit
-  dem Verein schwäbische Mund.art e.V.
-URL:https://wasseralfingen.aalen.de/schwaebischer-stammtisch-in-wasseralfi
- ngen.195208.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tag des offenen Quartiers im Hirschbach 
 DTSTART;TZID=Europe/Berlin:20230617T000100
 DURATION:PT23H58M
@@ -2115,18 +2058,6 @@ DESCRIPTION:https://www.aalen-kultur.de/konzert-stars.196322.htm
 LOCATION:Stadthalle Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-stars.196322.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230419T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230419T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96352.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196352.ht
- m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtführung Aalens Gassen
@@ -5154,5 +5085,70 @@ DESCRIPTION:https://hofen.aalen.de/vatertagswanderung.197747.htm
 LOCATION:
 ORGANIZER:Sportkegelclub "Fortuna" Hofen
 URL:https://hofen.aalen.de/vatertagswanderung.197747.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Familienflohmarkt
+DTSTART;TZID=Europe/Berlin:20230617T100000
+DURATION:PT4H
+RRULE:FREQ=DAILY;UNTIL=20230617T140000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:http://www.museum-wasseralfingen.de/familienflohmarkt.197787.h
+ tm
+LOCATION:Kindergarten Don Bosco
+ORGANIZER:Kindergarten Don Bosco
+URL:http://www.museum-wasseralfingen.de/familienflohmarkt.197787.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herrn Stumpfes Zieh- und Zupfkapelle und Gäste
+DTSTART;TZID=Europe/Berlin:20231012T194500
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231012T194500Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/herrn-stumpfes-zieh-und-zupfkapell
+ e-und-gaeste.197795.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-und-zupfkapelle-und-ga
+ este.197795.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry slam im KUBAA
+DTSTART;TZID=Europe/Berlin:20230928T194500
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20230928T194500Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.197796.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.197796.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry slam im KUBAA
+DTSTART;TZID=Europe/Berlin:20231130T194500
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231130T194500Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.197797.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.197797.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lorem ipsum
+DTSTART;TZID=Europe/Berlin:20270620T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20270620T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen.de/lorem-ipsum.197837.htm
+LOCATION:
+ORGANIZER:
+URL:https://www.aalen.de/lorem-ipsum.197837.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inklusives Soundfestival Aalen
+DTSTART;TZID=Europe/Berlin:20230514T110000
+DURATION:PT9H
+RRULE:FREQ=DAILY;UNTIL=20230514T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:http://www.musikschule-aalen.de/inklusives-soundfestival-aalen
+ .197842.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:
+URL:http://www.musikschule-aalen.de/inklusives-soundfestival-aalen.197842.
+ htm
 END:VEVENT
 END:VCALENDAR
