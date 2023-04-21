@@ -72,16 +72,6 @@ URL:https://www.aalen-kultur.de/geburtstags-gala-mit-simone-solga-werner-k
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Stage im KUBAA
-DTSTART;TZID=Europe/Berlin:20230420T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230420T194500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/open-stage-im-kubaa.188882.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/open-stage-im-kubaa.188882.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Stage im KUBAA
 DTSTART;TZID=Europe/Berlin:20230622T194500
 DURATION:P0D
 RRULE:FREQ=DAILY;UNTIL=20230622T194500Z;INTERVAL=1;WKST=MO
@@ -1444,18 +1434,6 @@ URL:https://www.aalen-kultur.de/50-jahre-ostalbkreis-vorstellung-des-jubil
  aeumsbuches.195149.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Bombe entkommen - Wege in eine Welt frei von Atomwaffen
-DTSTART;TZID=Europe/Berlin:20230420T193000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230420T210000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/der-bombe-entkommen-wege-in-eine-w
- elt-frei-von-atomwaffen.195150.htm
-LOCATION:Buchhandlung Henne\, Wasseralfingen
-ORGANIZER:Buchhandlung Henne, Wasseralfingen
-URL:https://www.aalen-kultur.de/der-bombe-entkommen-wege-in-eine-welt-frei
- -von-atomwaffen.195150.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater der Stadt: Außer Kontrolle
 DTSTART;TZID=Europe/Berlin:20230505T200000
 DURATION:PT3H59M
@@ -2048,16 +2026,6 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/schnuppertag-in-der-musikschule-der-stadt-
  aalen.196279.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konzert: Stars
-DTSTART;TZID=Europe/Berlin:20230430T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/konzert-stars.196322.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/konzert-stars.196322.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtführung Aalens Gassen
@@ -5100,8 +5068,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herrn Stumpfes Zieh- und Zupfkapelle und Gäste
 DTSTART;TZID=Europe/Berlin:20231012T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20231012T194500Z;INTERVAL=1;WKST=MO
+DURATION:PT4H14M
+RRULE:FREQ=DAILY;UNTIL=20231012T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/herrn-stumpfes-zieh-und-zupfkapell
  e-und-gaeste.197795.htm
 LOCATION:KulturBahnhof Aalen
@@ -5112,8 +5080,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry slam im KUBAA
 DTSTART;TZID=Europe/Berlin:20230928T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230928T194500Z;INTERVAL=1;WKST=MO
+DURATION:PT4H14M
+RRULE:FREQ=DAILY;UNTIL=20230928T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.197796.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
@@ -5144,11 +5112,20 @@ SUMMARY:Inklusives Soundfestival Aalen
 DTSTART;TZID=Europe/Berlin:20230514T110000
 DURATION:PT9H
 RRULE:FREQ=DAILY;UNTIL=20230514T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:http://www.musikschule-aalen.de/inklusives-soundfestival-aalen
- .197842.htm
+DESCRIPTION:https://www.aalen.de/inklusives-soundfestival-aalen.197842.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:
-URL:http://www.musikschule-aalen.de/inklusives-soundfestival-aalen.197842.
- htm
+URL:https://www.aalen.de/inklusives-soundfestival-aalen.197842.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blockflöte - eine Zeitmaschine
+DTSTART;TZID=Europe/Berlin:20230616T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230616T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/blockfloete-eine-zeitmaschine.1978
+ 76.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:
+URL:https://www.aalen-kultur.de/blockfloete-eine-zeitmaschine.197876.htm
 END:VEVENT
 END:VCALENDAR
