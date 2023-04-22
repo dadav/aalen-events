@@ -758,18 +758,6 @@ URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monatsversammlung DJK-SG Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230421T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230421T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/monatsversammlung-djk-sg-wasse
- ralfingen.195044.htm
-LOCATION:Sängerhalle Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/monatsversammlung-djk-sg-wasseralfinge
- n.195044.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Briefmarkenausstellung und Briefmarkentauschtag zum 100-jährigen 
  Bestehen des Briefmarkensammler-Vereins
 DTSTART;TZID=Europe/Berlin:20230423T100000
@@ -1459,18 +1447,6 @@ URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195153.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater der Stadt: Automatenbüfett
-DTSTART;TZID=Europe/Berlin:20230421T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230421T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett
- .195159.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195159.
- htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Automatenbüfett
 DTSTART;TZID=Europe/Berlin:20230422T200000
 DURATION:PT3H59M
 RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
@@ -1851,16 +1827,6 @@ DESCRIPTION:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
 LOCATION:
 ORGANIZER:Weststadtzentrum mit Jugendtreff 
 URL:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Generalversammlung
-DTSTART;TZID=Europe/Berlin:20230421T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230421T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/generalversammlung.195783.htm
-LOCATION:Vereinsheim TG Hofen
-ORGANIZER:TG Hofen 1926 e.V.
-URL:https://hofen.aalen.de/generalversammlung.195783.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
@@ -5068,8 +5034,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herrn Stumpfes Zieh- und Zupfkapelle und Gäste
 DTSTART;TZID=Europe/Berlin:20231012T194500
-DURATION:PT4H14M
-RRULE:FREQ=DAILY;UNTIL=20231012T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231012T194500Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/herrn-stumpfes-zieh-und-zupfkapell
  e-und-gaeste.197795.htm
 LOCATION:KulturBahnhof Aalen
