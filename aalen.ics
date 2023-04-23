@@ -1287,18 +1287,6 @@ ORGANIZER:Kunstverein Aalen e. V.
 URL:https://www.aalen-kultur.de/kunstmarkt.195133.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schubart-Literaturpreisverleihung 2023 
-DTSTART;TZID=Europe/Berlin:20230422T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/schubart-literaturpreisverleihung-
- 2023.195134.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/schubart-literaturpreisverleihung-2023.195
- 134.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schubart-Literaturpreis - Lesung
 DTSTART;TZID=Europe/Berlin:20230423T110000
 DURATION:PT12H59M
@@ -1447,18 +1435,6 @@ URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195153.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater der Stadt: Automatenbüfett
-DTSTART;TZID=Europe/Berlin:20230422T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett
- .195160.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195160.
- htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Automatenbüfett
 DTSTART;TZID=Europe/Berlin:20230428T200000
 DURATION:PT3H59M
 RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
@@ -1579,18 +1555,6 @@ DESCRIPTION:https://www.aalen-kultur.de/4-tages-tour-boehmen-und-prag.1951
 LOCATION:Böhmen und Prag
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/4-tages-tour-boehmen-und-prag.195197.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tagesfahrt nach Blaubeuren/Kloster und Ulm/Kuhberg
-DTSTART;TZID=Europe/Berlin:20230422T080000
-DURATION:PT11H
-RRULE:FREQ=DAILY;UNTIL=20230422T190000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tagesfahrt-nach-blaubeuren-kloster
- -und-ulm-kuhberg.195207.htm
-LOCATION:Blaubeuren/Kloster und Ulm/Kuhberg
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tagesfahrt-nach-blaubeuren-kloster-und-ulm
- -kuhberg.195207.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tag des offenen Quartiers im Hirschbach 
@@ -1992,17 +1956,6 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/schnuppertag-in-der-musikschule-der-stadt-
  aalen.196279.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtführung Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230422T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196353
- .htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196353.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KubAA-Führung
@@ -4039,26 +3992,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Altpapiersammlung
-DTSTART;TZID=Europe/Berlin:20230422T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197422.htm
-LOCATION:
-ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
-URL:https://ebnat.aalen.de/altpapiersammlung.197422.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altmetall-Bringsammlung
-DTSTART;TZID=Europe/Berlin:20230422T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230422T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/altmetall-bringsammlung.197423.htm
-LOCATION:Vereinsheim SV Ebnat
-ORGANIZER:SV Ebnat
-URL:https://ebnat.aalen.de/altmetall-bringsammlung.197423.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Frühlingslaune
 DTSTART;TZID=Europe/Berlin:20230423T160000
 DURATION:PT7H59M
@@ -4999,16 +4932,6 @@ LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.197726.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jahreshauptversammlung
-DTSTART;TZID=Europe/Berlin:20230423T100000
-DURATION:PT13H59M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/jahreshauptversammlung.197739.htm
-LOCATION:Barbarastube Hofen
-ORGANIZER:Sportkegelclub "Fortuna" Hofen
-URL:https://hofen.aalen.de/jahreshauptversammlung.197739.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vatertagswanderung
