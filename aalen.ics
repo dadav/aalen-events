@@ -505,8 +505,8 @@ URL:https://www.aalen-kultur.de/suedtiroler-weinfest.192081.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Double A Festival
-DTSTART;TZID=Europe/Berlin:20230722T000100
-DURATION:PT23H58M
+DTSTART;TZID=Europe/Berlin:20230722T110000
+DURATION:PT12H59M
 RRULE:FREQ=DAILY;UNTIL=20230722T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/double-a-festival.192082.htm
 LOCATION:
@@ -756,21 +756,6 @@ LOCATION:Wasseralfingen
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Briefmarkenausstellung und Briefmarkentauschtag zum 100-jährigen 
- Bestehen des Briefmarkensammler-Vereins
-DTSTART;TZID=Europe/Berlin:20230423T100000
-DURATION:PT13H59M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/briefmarkenausstellung-und-bri
- efmarkentauschtag-zum-100-jaehrigen-bestehen-des-briefmarkensammler-verein
- s.195045.htm
-LOCATION:Bürgersaal Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/briefmarkenausstellung-und-briefmarken
- tauschtag-zum-100-jaehrigen-bestehen-des-briefmarkensammler-vereins.195045
- .htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ortschaftsratssitzung Bezirksamt Wasseralfingen
@@ -1104,17 +1089,6 @@ URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
  -wasseralfingen.195073.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Erstkommunion
-DTSTART;TZID=Europe/Berlin:20230423T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/erstkommunion.195083.htm
-LOCATION:Katholische Herz-Jesu-Kirche
-ORGANIZER:Katholische Kirchengemeinde Zum heiligen Herzen Jesu, Fachsenfel
- d
-URL:https://fachsenfeld.aalen.de/erstkommunion.195083.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahreshauptversammlung
 DTSTART;TZID=Europe/Berlin:20230428T000100
 DURATION:PT23H58M
@@ -1143,18 +1117,6 @@ DESCRIPTION:https://fachsenfeld.aalen.de/maibaumfest.195086.htm
 LOCATION:Fachsenfeld
 ORGANIZER:Fachsenfelder Schlosshexen e.V.
 URL:https://fachsenfeld.aalen.de/maibaumfest.195086.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Urmel aus dem Eis
-DTSTART;TZID=Europe/Berlin:20230423T150000
-DURATION:PT8H59M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-urmel-aus-dem-ei
- s.195119.htm
-LOCATION:Theater der Stadt Aalen - Altes Rathaus
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-urmel-aus-dem-eis.195119
- .htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konzert: Cuarteto Quiroga
@@ -1285,17 +1247,6 @@ DESCRIPTION:https://www.aalen-kultur.de/kunstmarkt.195133.htm
 LOCATION:Galerie im Alten Rathaus
 ORGANIZER:Kunstverein Aalen e. V.
 URL:https://www.aalen-kultur.de/kunstmarkt.195133.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schubart-Literaturpreis - Lesung
-DTSTART;TZID=Europe/Berlin:20230423T110000
-DURATION:PT12H59M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/schubart-literaturpreis-lesung.195
- 135.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/schubart-literaturpreis-lesung.195135.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fete de la Musique
@@ -1723,16 +1674,6 @@ ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
 URL:https://hofen.aalen.de/radtreff.195707.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bezirksmeisterschaft Kufa
-DTSTART;TZID=Europe/Berlin:20230423T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/bezirksmeisterschaft-kufa.195708.htm
-LOCATION:Glück-Auf-Halle Hofen
-ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
-URL:https://hofen.aalen.de/bezirksmeisterschaft-kufa.195708.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Verbandsliga Radball
 DTSTART;TZID=Europe/Berlin:20230429T180000
 DURATION:PT5H59M
@@ -1956,16 +1897,6 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/schnuppertag-in-der-musikschule-der-stadt-
  aalen.196279.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubAA-Führung
-DTSTART;TZID=Europe/Berlin:20230423T160000
-DURATION:PT7H59M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/kubaa-fuehrung.196355.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/kubaa-fuehrung.196355.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Literatur-Treff: Oksana Sabuschko - Schwestern
@@ -3992,16 +3923,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frühlingslaune
-DTSTART;TZID=Europe/Berlin:20230423T160000
-DURATION:PT7H59M
-RRULE:FREQ=DAILY;UNTIL=20230423T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/fruehlingslaune.197424.htm
-LOCATION:Katholisches Gemeindezentrum Ebnat
-ORGANIZER:Musikverein Ebnat
-URL:https://ebnat.aalen.de/fruehlingslaune.197424.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Halbtagesfahrt 
 DTSTART;TZID=Europe/Berlin:20230425T000100
 DURATION:PT23H58M
@@ -5016,5 +4937,35 @@ DESCRIPTION:https://www.aalen-kultur.de/blockfloete-eine-zeitmaschine.1978
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:
 URL:https://www.aalen-kultur.de/blockfloete-eine-zeitmaschine.197876.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230424T180000
+DURATION:PT5H59M
+RRULE:FREQ=WEEKLY;UNTIL=20230828T235900Z;INTERVAL=1;BYDAY=MO;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/radtreff.197935.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/radtreff.197935.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff Abschluss
+DTSTART;TZID=Europe/Berlin:20230904T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230904T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/radtreff-abschluss.197937.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/radtreff-abschluss.197937.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20230424T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ortschaftsratssitzung.197939.htm
+LOCATION:Sitzungssaal Rathaus Hofen 
+ORGANIZER:Ortschaftsverwaltung Hofen
+URL:https://hofen.aalen.de/ortschaftsratssitzung.197939.htm
 END:VEVENT
 END:VCALENDAR
