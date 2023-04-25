@@ -734,18 +734,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lies mit mir!  Metti Meerschwein
-DTSTART;TZID=Europe/Berlin:20230424T151500
-DURATION:PT8H44M
-RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meersc
- hwein.194965.htm
-LOCATION:Bücherei Unterkochen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-metti-meerschwein.19
- 4965.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Altpril FV Viktoria Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230401T000100
 DURATION:PT23H58M
@@ -1280,13 +1268,13 @@ URL:https://www.aalen-kultur.de/aalener-jazzfest.195141.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6. Smart City Fachtag
-DTSTART;TZID=Europe/Berlin:20230613T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230613T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/6-smart-city-fachtag.195142.htm
+DTSTART;TZID=Europe/Berlin:20230613T140000
+DURATION:PT3H
+RRULE:FREQ=DAILY;UNTIL=20230613T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/6-smart-city-fachtag.195142.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Wirtschaftsförderung und Smart City
-URL:https://www.aalen.de/6-smart-city-fachtag.195142.htm
+URL:https://www.aalen-kultur.de/6-smart-city-fachtag.195142.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smart City Regionalkonferenz Aalen-Heidenheim
@@ -1828,16 +1816,6 @@ LOCATION:UtopiAA
 ORGANIZER:Lokale Agenda 21 - Agenda Büro 
 URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
  taik.195805.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:48. Agenda-Parlament 
-DTSTART;TZID=Europe/Berlin:20230424T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/48-agenda-parlament.195806.htm
-LOCATION:Torhaus - Paul-Ulmschneider-Saal
-ORGANIZER:Lokale Agenda 21 - Agenda Büro 
-URL:https://www.aalen-kultur.de/48-agenda-parlament.195806.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Warenschenkbörse in Aalen 
@@ -4957,15 +4935,5 @@ DESCRIPTION:https://hofen.aalen.de/radtreff-abschluss.197937.htm
 LOCATION:Parkplatz Talschule
 ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/radtreff-abschluss.197937.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ortschaftsratssitzung
-DTSTART;TZID=Europe/Berlin:20230424T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230424T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/ortschaftsratssitzung.197939.htm
-LOCATION:Sitzungssaal Rathaus Hofen 
-ORGANIZER:Ortschaftsverwaltung Hofen
-URL:https://hofen.aalen.de/ortschaftsratssitzung.197939.htm
 END:VEVENT
 END:VCALENDAR
