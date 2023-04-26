@@ -746,18 +746,6 @@ URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ortschaftsratssitzung Bezirksamt Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230425T173000
-DURATION:PT6H29M
-RRULE:FREQ=DAILY;UNTIL=20230425T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/ortschaftsratssitzung-bezirksa
- mt-wasseralfingen.195046.htm
-LOCATION:Bürgersaal Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung-bezirksamt-wasse
- ralfingen.195046.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jahreshauptversammlung Stadtverband Sport und Kultur
 DTSTART;TZID=Europe/Berlin:20230524T193000
 DURATION:PT4H29M
@@ -3901,16 +3889,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Halbtagesfahrt 
-DTSTART;TZID=Europe/Berlin:20230425T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230425T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/halbtagesfahrt.197425.htm
-LOCATION:
-ORGANIZER:VdK OV Unterkochen-Ebnat
-URL:https://ebnat.aalen.de/halbtagesfahrt.197425.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seniorentreff
 DTSTART;TZID=Europe/Berlin:20230427T140000
 DURATION:PT9H59M
@@ -4935,5 +4913,17 @@ DESCRIPTION:https://hofen.aalen.de/radtreff-abschluss.197937.htm
 LOCATION:Parkplatz Talschule
 ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/radtreff-abschluss.197937.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert zum Muttertag: Siggi Schwarz Band feat. 
+DTSTART;TZID=Europe/Berlin:20230514T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/konzert-zum-muttertag-siggi-schwar
+ z-band-feat-.198097.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/konzert-zum-muttertag-siggi-schwarz-band-f
+ eat-.198097.htm
 END:VEVENT
 END:VCALENDAR
