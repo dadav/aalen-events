@@ -18,7 +18,7 @@ DURATION:PT3H59M
 RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/konzert-ensemble-πk.177938.htm
 LOCATION:KulturBahnhof Aalen
-ORGANIZER:Amt für Kultur und Tourismus
+ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-ensemble-πk.177938.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -119,18 +119,6 @@ DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188895.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188895.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kulturwochen 2023: AALEN Festival Orchester
-DTSTART;TZID=Europe/Berlin:20231003T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231003T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/kulturwochen-2023-aalen-festival-o
- rchester.190434.htm
-LOCATION:Stadthalle
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/kulturwochen-2023-aalen-festival-orchester
- .190434.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kulturwochen 2023: Delattre Dance Company
@@ -744,18 +732,6 @@ LOCATION:Wasseralfingen
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
  037.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jahreshauptversammlung Stadtverband Sport und Kultur
-DTSTART;TZID=Europe/Berlin:20230524T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230524T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/jahreshauptversammlung-stadtve
- rband-sport-und-kultur.195047.htm
-LOCATION:Bürgersaal Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/jahreshauptversammlung-stadtverband-sp
- ort-und-kultur.195047.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Singen am Maibaum\, Männergesangsverein Röthardt
@@ -1817,16 +1793,16 @@ ORGANIZER:Lokale Agenda 21 - Agenda Büro
 URL:https://www.aalen-kultur.de/warenschenkboerse-in-aalen.195807.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tag der offenen Tür bei der Polizeidirektion Aalen 
-DTSTART;TZID=Europe/Berlin:20230917T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230917T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tag-der-offenen-tuer-bei-der-poliz
- eidirektion-aalen.195855.htm
+SUMMARY:Tag der offenen Tür beim Polizeipräsidium Aalen 
+DTSTART;TZID=Europe/Berlin:20231008T100000
+DURATION:PT6H
+RRULE:FREQ=DAILY;UNTIL=20231008T160000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/tag-der-offenen-tuer-beim-polizeip
+ raesidium-aalen.195855.htm
 LOCATION:Polizeidirektion Aalen 
 ORGANIZER:Polizeidirektion Aalen 
-URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-bei-der-polizeidirekt
- ion-aalen.195855.htm
+URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-beim-polizeipraesidiu
+ m-aalen.195855.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ausstellung: Ein Wiedersehen 
@@ -1885,18 +1861,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230426T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230426T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96404.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196404.ht
- m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtführung Aalens Gassen
@@ -3004,17 +2968,16 @@ URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
  ilaeum.196840.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AALEN Festival Orchester - Helden?                                
-  Strauss: Metamorphosen/Beethoven: Eroica
+SUMMARY:Klassik Konzert: AALEN Festival Orchester
 DTSTART;TZID=Europe/Berlin:20231003T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20231003T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalen-festival-orchester-helden-st
- rauss-metamorphosen-beethoven-eroica.196910.htm
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231003T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/klassik-konzert-aalen-festival-orc
+ hester.196910.htm
 LOCATION:Stadthalle Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/aalen-festival-orchester-helden-strauss-me
- tamorphosen-beethoven-eroica.196910.htm
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/klassik-konzert-aalen-festival-orchester.1
+ 96910.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chorkonzert - Töne von der Rolle - Hits aus Film und Fernsehen 
@@ -4648,8 +4611,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lara Ermer - Zuckerjokes und Peitsche
 DTSTART;TZID=Europe/Berlin:20240309T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20240309T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240309T200000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/lara-ermer-zuckerjokes-und-peitsch
  e.197616.htm
 LOCATION:Stadthalle Aalen
@@ -4925,5 +4888,63 @@ LOCATION:Stadthalle Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-zum-muttertag-siggi-schwarz-band-f
  eat-.198097.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doppelausstellung: Jan Hendrik Pelz & Delschad Numan Khorschid 
+DTSTART;TZID=Europe/Berlin:20230620T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/doppelausstellung-jan-hendrik-pelz
+ -delschad-numan-khorschid.198167.htm
+LOCATION:Galerie im Rathaus und Kunstverein Aalen 
+ORGANIZER:Kunstverein Aalen 
+URL:https://www.aalen-kultur.de/doppelausstellung-jan-hendrik-pelz-delscha
+ d-numan-khorschid.198167.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung: Jo Bukowski. Malerei & Grafik 
+DTSTART;TZID=Europe/Berlin:20231006T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231119T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/ausstellung-jo-bukowski-malerei-gr
+ afik.198168.htm
+LOCATION:Galerie im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/ausstellung-jo-bukowski-malerei-grafik.198
+ 168.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung: Petra Göhringer Machleid 
+DTSTART;TZID=Europe/Berlin:20231201T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20240203T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/ausstellung-petra-goehringer-machl
+ eid.198172.htm
+LOCATION:Galerie im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/ausstellung-petra-goehringer-machleid.1981
+ 72.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruine Kocherburg feiert!
+DTSTART;TZID=Europe/Berlin:20230506T110000
+DURATION:PT8H
+RRULE:FREQ=DAILY;UNTIL=20230506T190000Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://unterkochen.aalen.de/ruine-kocherburg-feiert-.198173.h
+ tm
+LOCATION:Kocherburg Unterkochen
+ORGANIZER:
+URL:https://unterkochen.aalen.de/ruine-kocherburg-feiert-.198173.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Menschen auf der Lebensbühne
+DTSTART;TZID=Europe/Berlin:20230512T183000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230512T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/menschen-auf-der-lebensbuehne.1981
+ 74.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:
+URL:https://www.aalen-kultur.de/menschen-auf-der-lebensbuehne.198174.htm
 END:VEVENT
 END:VCALENDAR
