@@ -22,18 +22,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-ensemble-πk.177938.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nessi Tausendschön: 30 Jahre Zenit
-DTSTART;TZID=Europe/Berlin:20230427T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230427T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/nessi-tausendschoen-30-jahre-zenit
- .185911.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/nessi-tausendschoen-30-jahre-zenit.185911.
- htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bidla Buh: Mehr geht nicht! - Die große Welttournee
 DTSTART;TZID=Europe/Berlin:20230513T200000
 DURATION:P0D
@@ -2968,16 +2956,17 @@ URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
  ilaeum.196840.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klassik Konzert: AALEN Festival Orchester
+SUMMARY:AALEN Festival Orchester - Helden?                                
+  Strauss: Metamorphosen/Beethoven: Eroica
 DTSTART;TZID=Europe/Berlin:20231003T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231003T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klassik-konzert-aalen-festival-orc
- hester.196910.htm
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231003T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalen-festival-orchester-helden-st
+ rauss-metamorphosen-beethoven-eroica.196910.htm
 LOCATION:Stadthalle Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/klassik-konzert-aalen-festival-orchester.1
- 96910.htm
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/aalen-festival-orchester-helden-strauss-me
+ tamorphosen-beethoven-eroica.196910.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chorkonzert - Töne von der Rolle - Hits aus Film und Fernsehen 
@@ -3852,16 +3841,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seniorentreff
-DTSTART;TZID=Europe/Berlin:20230427T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230427T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197426.htm
-LOCATION:Katholisches Gemeindezentrum Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/seniorentreff.197426.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tanzveranstaltung zum  40-jährigen Jubiläum
 DTSTART;TZID=Europe/Berlin:20230429T193000
 DURATION:PT4H29M
@@ -4215,12 +4194,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mimirichi - Plastic Fantastic (Clownensemble aus Kiew)
 DTSTART;TZID=Europe/Berlin:20231024T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231024T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231024T200000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/mimirichi-plastic-fantastic-clowne
  nsemble-aus-kiew-.197511.htm
 LOCATION:Stadthalle Aalen
-ORGANIZER:Amt für Kultur und Tourismus
+ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/mimirichi-plastic-fantastic-clownensemble-
  aus-kiew-.197511.htm
 END:VEVENT
@@ -4633,8 +4612,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philipp Scharrenberg - Verwirren ist menschlich
 DTSTART;TZID=Europe/Berlin:20231115T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231115T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231115T200000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/philipp-scharrenberg-verwirren-ist
  -menschlich.197618.htm
 LOCATION:Stadthalle Aalen
@@ -4809,8 +4788,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry slam im KUBAA
 DTSTART;TZID=Europe/Berlin:20230928T194500
-DURATION:PT4H14M
-RRULE:FREQ=DAILY;UNTIL=20230928T235900Z;INTERVAL=1;WKST=MO
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20230928T194500Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.197796.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
