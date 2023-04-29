@@ -648,18 +648,6 @@ URL:https://www.aalen-kultur.de/roemische-nacht-antik-limesthermen-aalen.1
  92963.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kinderkino: Kleiner Dodo
-DTSTART;TZID=Europe/Berlin:20230428T150000
-DURATION:PT1H15M
-RRULE:FREQ=DAILY;UNTIL=20230428T161500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/kinderkino-kleiner-dodo.1
- 94932.htm
-LOCATION:Stadtbibliothek Aalen\, Torhaus\, Paul-Ulmschneider-Saal
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/kinderkino-kleiner-dodo.194932.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jubiläumskonzert
 DTSTART;TZID=Europe/Berlin:20230429T193000
 DURATION:PT4H29M
@@ -1029,26 +1017,6 @@ URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
  -wasseralfingen.195073.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jahreshauptversammlung
-DTSTART;TZID=Europe/Berlin:20230428T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/jahreshauptversammlung.195084.htm
-LOCATION:Vereinsheim
-ORGANIZER:Sportverein Germania Fachsenfeld 
-URL:https://fachsenfeld.aalen.de/jahreshauptversammlung.195084.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maibaumstellen
-DTSTART;TZID=Europe/Berlin:20230428T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/maibaumstellen.195085.htm
-LOCATION:Ortsmitte Fachsenfeld
-ORGANIZER:Maibaumfreunde Waiblingen
-URL:https://fachsenfeld.aalen.de/maibaumstellen.195085.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maibaumfest
 DTSTART;TZID=Europe/Berlin:20230429T000100
 DURATION:PT23H58M
@@ -1322,18 +1290,6 @@ DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Theater der Stadt Aalen
 URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195153.
- htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Automatenbüfett
-DTSTART;TZID=Europe/Berlin:20230428T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230428T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett
- .195161.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195161.
  htm
 END:VEVENT
 BEGIN:VEVENT
