@@ -648,16 +648,6 @@ URL:https://www.aalen-kultur.de/roemische-nacht-antik-limesthermen-aalen.1
  92963.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jubiläumskonzert
-DTSTART;TZID=Europe/Berlin:20230429T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://unterkochen.aalen.de/jubilaeumskonzert.194958.htm
-LOCATION:Festhalle Unterkochen
-ORGANIZER:Musikverein Unterkochen e. V.
-URL:https://unterkochen.aalen.de/jubilaeumskonzert.194958.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Unterkochener Panorama
 DTSTART;TZID=Europe/Berlin:20230624T210000
 DURATION:PT2H59M
@@ -1017,16 +1007,6 @@ URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
  -wasseralfingen.195073.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maibaumfest
-DTSTART;TZID=Europe/Berlin:20230429T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/maibaumfest.195086.htm
-LOCATION:Fachsenfeld
-ORGANIZER:Fachsenfelder Schlosshexen e.V.
-URL:https://fachsenfeld.aalen.de/maibaumfest.195086.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Konzert: Cuarteto Quiroga
 DTSTART;TZID=Europe/Berlin:20230505T200000
 DURATION:PT3H59M
@@ -1290,18 +1270,6 @@ DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Theater der Stadt Aalen
 URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195153.
- htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Automatenbüfett
-DTSTART;TZID=Europe/Berlin:20230429T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett
- .195162.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-automatenbuefett.195162.
  htm
 END:VEVENT
 BEGIN:VEVENT
@@ -1570,16 +1538,6 @@ ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
 URL:https://hofen.aalen.de/radtreff.195707.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Verbandsliga Radball
-DTSTART;TZID=Europe/Berlin:20230429T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/verbandsliga-radball.195709.htm
-LOCATION:Glück-Auf-Halle Hofen
-ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
-URL:https://hofen.aalen.de/verbandsliga-radball.195709.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:1. Mai Radtour
 DTSTART;TZID=Europe/Berlin:20230501T100000
 DURATION:PT13H59M
@@ -1805,17 +1763,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtführung Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230429T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196406
- .htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196406.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -2925,18 +2872,6 @@ URL:https://www.aalen-kultur.de/aalen-festival-orchester-helden-strauss-me
  tamorphosen-beethoven-eroica.196910.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chorkonzert - Töne von der Rolle - Hits aus Film und Fernsehen 
-DTSTART;TZID=Europe/Berlin:20230429T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/chorkonzert-toene-von-der-rolle-hi
- ts-aus-film-und-fernsehen.196980.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:Liederkranz Unterrombach e.V. 
-URL:https://www.aalen-kultur.de/chorkonzert-toene-von-der-rolle-hits-aus-f
- ilm-und-fernsehen.196980.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jubiläums-Open Air - Münchner Freiheit 
 DTSTART;TZID=Europe/Berlin:20230907T000100
 DURATION:PT23H58M
@@ -3090,16 +3025,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-taenze-aus-aller-welt-un
  d-discofox.197082.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welttag des Tanzes 
-DTSTART;TZID=Europe/Berlin:20230429T110000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230429T123000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/welttag-des-tanzes.197105.htm
-LOCATION:siehe oben 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/welttag-des-tanzes.197105.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tanzraum Aalen - Gemeinsam geht alles! 
@@ -3795,18 +3720,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tanzveranstaltung zum  40-jährigen Jubiläum
-DTSTART;TZID=Europe/Berlin:20230429T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230429T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/tanzveranstaltung-zum-40-jaehrigen-jubi
- laeum.197427.htm
-LOCATION:Jurahalle Ebnat
-ORGANIZER:Landfrauenverein Ebnat
-URL:https://ebnat.aalen.de/tanzveranstaltung-zum-40-jaehrigen-jubilaeum.19
- 7427.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maifest
