@@ -688,18 +688,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Altpril FV Viktoria Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230401T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfi
- ngen.195037.htm
-LOCATION:Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/altpril-fv-viktoria-wasseralfingen.195
- 037.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Singen am Maibaum\, Männergesangsverein Röthardt
 DTSTART;TZID=Europe/Berlin:20230501T100000
 DURATION:PT13H59M
@@ -1281,18 +1269,6 @@ DESCRIPTION:https://www.aalen-kultur.de/tanzland-2023-tanzmatinee.195166.h
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/tanzland-2023-tanzmatinee.195166.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konzert des Städtischen Orchesters Aalen
-DTSTART;TZID=Europe/Berlin:20230430T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/konzert-des-staedtischen-orchester
- s-aalen.195169.htm
-LOCATION:Stadthalle
-ORGANIZER:Städtisches Orchester Aalen
-URL:https://www.aalen-kultur.de/konzert-des-staedtischen-orchesters-aalen.
- 195169.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener inklusives Soundfestival
@@ -3720,26 +3696,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maifest
-DTSTART;TZID=Europe/Berlin:20230430T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/maifest.197433.htm
-LOCATION:Hof der Schillerschule
-ORGANIZER:Liederkranz Ebnat
-URL:https://ebnat.aalen.de/maifest.197433.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Erstkommunion
-DTSTART;TZID=Europe/Berlin:20230430T103000
-DURATION:PT13H29M
-RRULE:FREQ=DAILY;UNTIL=20230430T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/erstkommunion.197434.htm
-LOCATION:Katholische Kirche Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/erstkommunion.197434.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fest der Ebnater Freude
