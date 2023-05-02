@@ -211,17 +211,6 @@ ORGANIZER:Limesmuseum
 URL:https://www.aalen-kultur.de/internationale-roemertage-2023.190508.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weisser Klang - Aja von Loeper
-DTSTART;TZID=Europe/Berlin:20230303T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/weisser-klang-aja-von-loeper.19051
- 4.htm
-LOCATION:Galerie im Rathaus Aalen
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/weisser-klang-aja-von-loeper.190514.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UCI Mountainbike Eliminator Worldcup
 DTSTART;TZID=Europe/Berlin:20230715T000100
 DURATION:PT23H58M
@@ -522,17 +511,6 @@ ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/schultanzbegegnung-2023.192939.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:1. Maimarkt auf der Kocherburg
-DTSTART;TZID=Europe/Berlin:20230501T110000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230501T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://unterkochen.aalen.de/1-maimarkt-auf-der-kocherburg.192
- 940.htm
-LOCATION:Kocherburg Unterkochen
-ORGANIZER:Initiative Kocherburg
-URL:https://unterkochen.aalen.de/1-maimarkt-auf-der-kocherburg.192940.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CoKo Festival
 DTSTART;TZID=Europe/Berlin:20230617T000100
 DURATION:PT23H58M
@@ -541,16 +519,6 @@ DESCRIPTION:https://www.aalen-kultur.de/coko-festival.192943.htm
 LOCATION:Parkplatz Union Areal 
 ORGANIZER:Isabel Württemberger UG 
 URL:https://www.aalen-kultur.de/coko-festival.192943.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frühlingsfest
-DTSTART;TZID=Europe/Berlin:20230422T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/fruehlingsfest.192945.htm
-LOCATION:Greut-Festplatz
-ORGANIZER:
-URL:https://www.aalen-kultur.de/fruehlingsfest.192945.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maimärktle
@@ -686,30 +654,6 @@ DESCRIPTION:https://unterkochen.aalen.de/festmesse.194962.htm
 LOCATION:Wallfahrtskirche St. Maria Unterkochen
 ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Singen am Maibaum\, Männergesangsverein Röthardt
-DTSTART;TZID=Europe/Berlin:20230501T100000
-DURATION:PT13H59M
-RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/singen-am-maibaum-maennergesan
- gsverein-roethardt.195048.htm
-LOCATION:Kapelle in Röthardt
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/singen-am-maibaum-maennergesangsverein
- -roethardt.195048.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maiwanderung\, Aalener Sportallianz e.V.\, Skiabteilung
-DTSTART;TZID=Europe/Berlin:20230501T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/maiwanderung-aalener-sportalli
- anz-e-v-skiabteilung.195049.htm
-LOCATION:
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/maiwanderung-aalener-sportallianz-e-v-
- skiabteilung.195049.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Altpapier-Bringsammlung FV Viktoria Wasseralfingen e.V.
@@ -1288,7 +1232,7 @@ DTSTART;TZID=Europe/Berlin:20230521T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/braas-im-gras.195175.htm
-LOCATION:Schillerhöhe 
+LOCATION:Kastellgelände/Limesmuseum
 ORGANIZER:Musikschule Aalen
 URL:https://www.aalen-kultur.de/braas-im-gras.195175.htm
 END:VEVENT
@@ -1512,16 +1456,6 @@ DESCRIPTION:https://hofen.aalen.de/radtreff.195707.htm
 LOCATION:Parkplatz Talschule 
 ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
 URL:https://hofen.aalen.de/radtreff.195707.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1. Mai Radtour
-DTSTART;TZID=Europe/Berlin:20230501T100000
-DURATION:PT13H59M
-RRULE:FREQ=DAILY;UNTIL=20230501T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/1-mai-radtour.195710.htm
-LOCATION:Parkplatz Talschule
-ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
-URL:https://hofen.aalen.de/1-mai-radtour.195710.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Altpapier-Bringsammlung
@@ -3923,16 +3857,6 @@ ORGANIZER:Katholische Kirchengemeinde Ebnat
 URL:https://ebnat.aalen.de/seniorentreff.197490.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eröffnungsfahrt
-DTSTART;TZID=Europe/Berlin:20230501T120000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230501T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/eroeffnungsfahrt.197492.htm
-LOCATION:ESC-Gelände
-ORGANIZER:Ebnater Schättere Club
-URL:https://ebnat.aalen.de/eroeffnungsfahrt.197492.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anlagenfahrt
 DTSTART;TZID=Europe/Berlin:20230604T120000
 DURATION:PT6H
@@ -4520,16 +4444,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aalen-leicht-gemacht.197693.htm
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalen-leicht-gemacht.197693.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oberalfinger Maibaumfest 2023
-DTSTART;TZID=Europe/Berlin:20230430T170000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230501T190000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/oberalfinger-maibaumfest-2023.197715.htm
-LOCATION:Maibaumplatz in Oberalfingen
-ORGANIZER:Räumle Oberalfingen
-URL:https://www.aalen.de/oberalfinger-maibaumfest-2023.197715.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalen leicht gemacht
