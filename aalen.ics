@@ -1215,18 +1215,6 @@ ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/tanzland-2023-tanzmatinee.195166.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aalener inklusives Soundfestival
-DTSTART;TZID=Europe/Berlin:20230514T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalener-inklusives-soundfestival.1
- 95174.htm
-LOCATION:Musikschule Aalen
-ORGANIZER:Musikschule Aalen
-URL:https://www.aalen-kultur.de/aalener-inklusives-soundfestival.195174.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BrAAs im Gras
 DTSTART;TZID=Europe/Berlin:20230521T000100
 DURATION:PT23H58M
@@ -1651,18 +1639,6 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/schnuppertag-in-der-musikschule-der-stadt-
  aalen.196279.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Literatur-Treff: Oksana Sabuschko - Schwestern
-DTSTART;TZID=Europe/Berlin:20230502T170000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230502T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/literatur-treff-oksana-sa
- buschko-schwestern.196368.htm
-LOCATION:Stadtbibliothek Aalen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/literatur-treff-oksana-sabuschko-
- schwestern.196368.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aerosoul Blechquintett 
@@ -4559,10 +4535,11 @@ SUMMARY:Inklusives Soundfestival Aalen
 DTSTART;TZID=Europe/Berlin:20230514T110000
 DURATION:PT9H
 RRULE:FREQ=DAILY;UNTIL=20230514T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/inklusives-soundfestival-aalen.197842.htm
+DESCRIPTION:https://www.aalen-kultur.de/inklusives-soundfestival-aalen.197
+ 842.htm
 LOCATION:KulturBahnhof Aalen
-ORGANIZER:
-URL:https://www.aalen.de/inklusives-soundfestival-aalen.197842.htm
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/inklusives-soundfestival-aalen.197842.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blockflöte - eine Zeitmaschine
@@ -4664,5 +4641,15 @@ DESCRIPTION:https://www.aalen-kultur.de/menschen-auf-der-lebensbuehne.1981
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:
 URL:https://www.aalen-kultur.de/menschen-auf-der-lebensbuehne.198174.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aalener Weinfest
+DTSTART;TZID=Europe/Berlin:20230516T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/aalener-weinfest.198259.htm
+LOCATION:
+ORGANIZER:
+URL:https://www.aalen-kultur.de/aalener-weinfest.198259.htm
 END:VEVENT
 END:VCALENDAR
