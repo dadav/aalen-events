@@ -1651,18 +1651,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230503T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230503T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96407.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196407.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
 DTSTART;TZID=Europe/Berlin:20230504T170000
 DURATION:PT6H59M
@@ -3469,19 +3457,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-schultanzbegegnung.19718
  7.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Workshop: Klima und Kolonialismus - Ursprünge\, Reflexionen\, Mö
- glichkeiten
-DTSTART;TZID=Europe/Berlin:20230503T160000
-DURATION:PT4H
-RRULE:FREQ=DAILY;UNTIL=20230503T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/workshop-klima-und-kolonialismus-u
- rspruenge-reflexionen-moeglichkeiten.197211.htm
-LOCATION:Kleiner Sitzungssaal im Rathaus Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/workshop-klima-und-kolonialismus-ursprueng
- e-reflexionen-moeglichkeiten.197211.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Workshop: Für ein Klima der Gerechtigkeit: Klimaschutz und Postko
  lonialismus
 DTSTART;TZID=Europe/Berlin:20230504T090000
@@ -4651,5 +4626,21 @@ DESCRIPTION:https://www.aalen-kultur.de/aalener-weinfest.198259.htm
 LOCATION:
 ORGANIZER:
 URL:https://www.aalen-kultur.de/aalener-weinfest.198259.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Literaturfrühstück im Mai: Tolstoi und Dostojewski - russische L
+ iteraten für Frieden und Völkerverständigung
+DTSTART;TZID=Europe/Berlin:20230516T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230516T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-im-m
+ ai-tolstoi-und-dostojewski-russische-literaten-fuer-frieden-und-voelkerver
+ staendigung.198353.htm
+LOCATION:
+ORGANIZER:Eine Kooperation der Evangelischen Erwachsenenbildung Ostalb und
+  der Stadtbibliothek Aalen
+URL:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-im-mai-tolst
+ oi-und-dostojewski-russische-literaten-fuer-frieden-und-voelkerverstaendig
+ ung.198353.htm
 END:VEVENT
 END:VCALENDAR
