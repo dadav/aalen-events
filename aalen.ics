@@ -1651,18 +1651,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
-DTSTART;TZID=Europe/Berlin:20230504T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230504T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-run
- dgang.196409.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
- 6409.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Saisoneröffnung der Nachtwächter
 DTSTART;TZID=Europe/Berlin:20230505T200000
 DURATION:PT3H59M
@@ -2901,18 +2889,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-taenze-aus-aller-welt-un
  d-discofox.197082.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tanzraum Aalen - Gemeinsam geht alles! 
-DTSTART;TZID=Europe/Berlin:20230504T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230504T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanzraum-aalen-gemeinsam-geht-alle
- s-.197106.htm
-LOCATION:Sparkassenplatz 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanzraum-aalen-gemeinsam-geht-alles-.19710
- 6.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: Modern Dance 
 DTSTART;TZID=Europe/Berlin:20230525T180000
 DURATION:PT2H
@@ -3455,19 +3431,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-schultanzbegegnung.19718
  7.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Workshop: Für ein Klima der Gerechtigkeit: Klimaschutz und Postko
- lonialismus
-DTSTART;TZID=Europe/Berlin:20230504T090000
-DURATION:PT4H
-RRULE:FREQ=DAILY;UNTIL=20230504T130000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/workshop-fuer-ein-klima-der-gerech
- tigkeit-klimaschutz-und-postkolonialismus.197215.htm
-LOCATION:Kleiner Sitzungssaal im Rathaus Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/workshop-fuer-ein-klima-der-gerechtigkeit-
- klimaschutz-und-postkolonialismus.197215.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: Hip & Drop - Orientalischer Tanz 
@@ -4388,16 +4351,6 @@ URL:https://ebnat.aalen.de/kirchenkonzert.197672.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalen leicht gemacht
-DTSTART;TZID=Europe/Berlin:20230504T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230504T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalen-leicht-gemacht.197693.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalen-leicht-gemacht.197693.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalen leicht gemacht
 DTSTART;TZID=Europe/Berlin:20230914T170000
 DURATION:PT6H59M
 RRULE:FREQ=DAILY;UNTIL=20230914T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
@@ -4642,5 +4595,98 @@ ORGANIZER:Eine Kooperation der Evangelischen Erwachsenenbildung Ostalb und
 URL:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-im-mai-tolst
  oi-und-dostojewski-russische-literaten-fuer-frieden-und-voelkerverstaendig
  ung.198353.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weinfest Sängerlust Treppach
+DTSTART;TZID=Europe/Berlin:20230923T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20230924T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/weinfest-saengerlust-treppach.
+ 198365.htm
+LOCATION:Dorfmitte Treppach
+ORGANIZER:Sängerlust Treppach
+URL:https://wasseralfingen.aalen.de/weinfest-saengerlust-treppach.198365.h
+ tm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung "Von Wänden und Schichten"
+DTSTART;TZID=Europe/Berlin:20230507T140000
+DURATION:PT4H
+RRULE:FREQ=WEEKLY;UNTIL=20230903T180000Z;INTERVAL=1;BYDAY=SA,SU;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ausstellung-von-waenden-und-sc
+ hichten.198366.htm
+LOCATION:Sieger-Köder-Haus
+ORGANIZER:Bund für Heimatpflege
+URL:https://wasseralfingen.aalen.de/ausstellung-von-waenden-und-schichten.
+ 198366.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein (Delattre Dance Company)
+DTSTART;TZID=Europe/Berlin:20231007T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231007T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/frankenstein-delattre-dance-compan
+ y-.198386.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/frankenstein-delattre-dance-company-.19838
+ 6.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blues Brothers (WLB Esslingen)
+DTSTART;TZID=Europe/Berlin:20231114T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20231114T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/blues-brothers-wlb-esslingen-.1983
+ 88.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/blues-brothers-wlb-esslingen-.198388.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woyzeck (Theater der Stadt Aalen)
+DTSTART;TZID=Europe/Berlin:20240124T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240124T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/woyzeck-theater-der-stadt-aalen-.1
+ 98389.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/woyzeck-theater-der-stadt-aalen-.198389.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Was man von hier aus sehen kann (Theater Unikate - Gilla Cremer)
+DTSTART;TZID=Europe/Berlin:20240314T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240314T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/was-man-von-hier-aus-sehen-kann-th
+ eater-unikate-gilla-cremer-.198391.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/was-man-von-hier-aus-sehen-kann-theater-un
+ ikate-gilla-cremer-.198391.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Traviata (Theater Pforzheim)
+DTSTART;TZID=Europe/Berlin:20240416T200000
+DURATION:P0D
+RRULE:FREQ=DAILY;UNTIL=20240416T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/la-traviata-theater-pforzheim-.198
+ 392.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Kulturamt der Stadt Aalen
+URL:https://www.aalen-kultur.de/la-traviata-theater-pforzheim-.198392.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert mit ensemble πk
+DTSTART;TZID=Europe/Berlin:20231021T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/konzert-mit-ensemble-πk.198416.ht
+ m
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/konzert-mit-ensemble-πk.198416.htm
 END:VEVENT
 END:VCALENDAR
