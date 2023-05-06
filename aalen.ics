@@ -939,17 +939,6 @@ URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
  -wasseralfingen.195073.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Konzert: Cuarteto Quiroga
-DTSTART;TZID=Europe/Berlin:20230505T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/konzert-cuarteto-quiroga.195122.ht
- m
-LOCATION:Stadthalle
-ORGANIZER:Konzertring Aalen
-URL:https://www.aalen-kultur.de/konzert-cuarteto-quiroga.195122.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4. Stadtspaziergang "Galgenberg" mit Dr. Georg Wendt
 DTSTART;TZID=Europe/Berlin:20230525T190000
 DURATION:PT4H59M
@@ -1179,18 +1168,6 @@ LOCATION:Ostalbkreishaus - Landratsamt Ostalbkreis
 ORGANIZER:Landratsamt Ostalbkreis
 URL:https://www.aalen-kultur.de/50-jahre-ostalbkreis-vorstellung-des-jubil
  aeumsbuches.195149.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Außer Kontrolle
-DTSTART;TZID=Europe/Berlin:20230505T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle
- .195152.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195152.
- htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater der Stadt: Außer Kontrolle
@@ -1649,18 +1626,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saisoneröffnung der Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230505T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/saisoneroeffnung-der-nachtwaechter
- .196411.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/saisoneroeffnung-der-nachtwaechter.196411.
- htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtführung Aalens Gassen
@@ -3831,18 +3796,6 @@ ORGANIZER:Hochschule Aalen
 URL:https://www.aalen-kultur.de/open-campus.197499.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vortrag - planen\, bauen\, wohlfühlen in Aalen
-DTSTART;TZID=Europe/Berlin:20230505T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/vortrag-planen-bauen-wohlfuehlen-i
- n-aalen.197504.htm
-LOCATION:Foyer im Rathaus Aalen
-ORGANIZER:Stadt Aalen mit Architektenkammergruppe Aalen
-URL:https://www.aalen-kultur.de/vortrag-planen-bauen-wohlfuehlen-in-aalen.
- 197504.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ausstellung zum Sonderpreis Baukultur 2022
 DTSTART;TZID=Europe/Berlin:20230505T000100
 DURATION:PT23H58M
@@ -3865,16 +3818,6 @@ LOCATION:Stadthalle Aalen
 ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/mimirichi-plastic-fantastic-clownensemble-
  aus-kiew-.197511.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familiennachmittag
-DTSTART;TZID=Europe/Berlin:20230505T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230505T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/familiennachmittag.197512.htm
-LOCATION:Albert-Schweitzer-Haus Unterkochen
-ORGANIZER:VdK OV Unterkochen-Ebnat
-URL:https://ebnat.aalen.de/familiennachmittag.197512.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Halbtagesfahrt 
