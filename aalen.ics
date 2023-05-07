@@ -47,18 +47,6 @@ URL:https://www.aalen-kultur.de/lost-in-the-stars-das-kurt-weill-programm-
  frankfurter-jazz-trio-und-eva-mayerhofer.186336.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Geburtstags-Gala mit Simone Solga\, Werner Koczwara und die medlz
-DTSTART;TZID=Europe/Berlin:20230506T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230506T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/geburtstags-gala-mit-simone-solga-
- werner-koczwara-und-die-medlz.187717.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/geburtstags-gala-mit-simone-solga-werner-k
- oczwara-und-die-medlz.187717.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Stage im KUBAA
 DTSTART;TZID=Europe/Berlin:20230622T194500
 DURATION:P0D
@@ -656,18 +644,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Altpapier-Bringsammlung FV Viktoria Wasseralfingen e.V.
-DTSTART;TZID=Europe/Berlin:20230505T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung-fv-vik
- toria-wasseralfingen-e-v-.195050.htm
-LOCATION:Containerstandort: Parkplatz Talschule
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung-fv-viktoria-wa
- sseralfingen-e-v-.195050.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blutspende Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230508T140000
 DURATION:PT9H59M
@@ -1110,18 +1086,6 @@ URL:https://www.aalen-kultur.de/smart-city-regionalkonferenz-aalen-heidenh
  eim.195143.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tag der offenen Tür an der Hochschule
-DTSTART;TZID=Europe/Berlin:20230506T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tag-der-offenen-tuer-an-der-hochsc
- hule.195144.htm
-LOCATION:
-ORGANIZER:
-URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-an-der-hochschule.195
- 144.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:50 Jahre Ostalbkreis: "Kultur und Gesellschaft - Bunter Kulturaben
  d"
 DTSTART;TZID=Europe/Berlin:20230713T180000
@@ -1168,18 +1132,6 @@ LOCATION:Ostalbkreishaus - Landratsamt Ostalbkreis
 ORGANIZER:Landratsamt Ostalbkreis
 URL:https://www.aalen-kultur.de/50-jahre-ostalbkreis-vorstellung-des-jubil
  aeumsbuches.195149.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater der Stadt: Außer Kontrolle
-DTSTART;TZID=Europe/Berlin:20230506T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle
- .195153.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Theater der Stadt Aalen
-URL:https://www.aalen-kultur.de/theater-der-stadt-ausser-kontrolle.195153.
- htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tanzland 2023: Tanzmatinee
@@ -1626,28 +1578,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtführung Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230506T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196412
- .htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtfuehrung-aalens-gassen.196412.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230506T210000
-DURATION:PT2H59M
-RRULE:FREQ=DAILY;UNTIL=20230506T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 413.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196413.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -3786,16 +3716,6 @@ ORGANIZER:Ebnater Schättere Club
 URL:https://ebnat.aalen.de/anlagenfahrt.197497.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Campus
-DTSTART;TZID=Europe/Berlin:20230506T110000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230506T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/open-campus.197499.htm
-LOCATION:Hochschule Aalen\, Campus Beethovenstraße
-ORGANIZER:Hochschule Aalen
-URL:https://www.aalen-kultur.de/open-campus.197499.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ausstellung zum Sonderpreis Baukultur 2022
 DTSTART;TZID=Europe/Berlin:20230505T000100
 DURATION:PT23H58M
@@ -4490,17 +4410,6 @@ LOCATION:Galerie im Rathaus Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/ausstellung-petra-goehringer-machleid.1981
  72.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruine Kocherburg feiert!
-DTSTART;TZID=Europe/Berlin:20230506T110000
-DURATION:PT8H
-RRULE:FREQ=DAILY;UNTIL=20230506T190000Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://unterkochen.aalen.de/ruine-kocherburg-feiert-.198173.h
- tm
-LOCATION:Kocherburg Unterkochen
-ORGANIZER:
-URL:https://unterkochen.aalen.de/ruine-kocherburg-feiert-.198173.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Menschen auf der Lebensbühne
