@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Aalen2ics//https://github.com/dadav/aalen2ics//
 BEGIN:VEVENT
-SUMMARY:Schwoba Komede
-DTSTART;TZID=Europe/Berlin:20230507T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230507T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/schwoba-komede.177918.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:C2 Concerts GmbH 
-URL:https://www.aalen-kultur.de/schwoba-komede.177918.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Konzert "Ensemble πk"
 DTSTART;TZID=Europe/Berlin:20231021T200000
 DURATION:PT3H59M
@@ -962,18 +952,6 @@ LOCATION:Evangelisches Gemeindehaus Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/vortrag-mit-prof-dr-muehlhausen-das-katast
  rophenjahr-1923-und-die-rettung-der-demokratie.195126.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ausstellung: Artur Elmer - Eine Retrospektive
-DTSTART;TZID=Europe/Berlin:20230331T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230507T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/ausstellung-artur-elmer-eine-retro
- spektive.195128.htm
-LOCATION:Galerie im Alten Rathaus
-ORGANIZER:Kunstverein Aalen e. V.
-URL:https://www.aalen-kultur.de/ausstellung-artur-elmer-eine-retrospektive
- .195128.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ausstellung anlässlich der Baden-Württembergischen Theatertage: 
@@ -4540,5 +4518,27 @@ DESCRIPTION:https://www.aalen-kultur.de/konzert-mit-ensemble-πk.198416.ht
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-mit-ensemble-πk.198416.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortrag: Überlebt die Demokratie die künstliche Intelligenz?
+DTSTART;TZID=Europe/Berlin:20230629T180000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230629T193000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/vortrag-ueberlebt-die-demokratie-d
+ ie-kuenstliche-intelligenz-.198486.htm
+LOCATION:Hochschule Aalen
+ORGANIZER:Hochschule Aalen und keb Bildungswerk Ostalbkreis
+URL:https://www.aalen-kultur.de/vortrag-ueberlebt-die-demokratie-die-kuens
+ tliche-intelligenz-.198486.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stammtisch
+DTSTART;TZID=Europe/Berlin:20230516T193000
+DURATION:PT4H29M
+RRULE:FREQ=MONTHLY;UNTIL=20231219T235900Z;INTERVAL=1;BYDAY=TU;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/stammtisch.198490.htm
+LOCATION:Gasthaus Frische Quelle
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/stammtisch.198490.htm
 END:VEVENT
 END:VCALENDAR
