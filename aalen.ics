@@ -99,18 +99,6 @@ URL:https://www.aalen-kultur.de/kulturwochen-2023-delattre-dance-company.1
  90435.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theaterring Aalen 2023/24: Frankenstein - Delattre Dance Company
-DTSTART;TZID=Europe/Berlin:20231007T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/theaterring-aalen-2023-24-frankens
- tein-delattre-dance-company.190436.htm
-LOCATION:Stadthalle
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/theaterring-aalen-2023-24-frankenstein-del
- attre-dance-company.190436.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kulturwochen 2024: Delattre Dance Company
 DTSTART;TZID=Europe/Berlin:20241011T200000
 DURATION:PT3H59M
@@ -632,17 +620,6 @@ DESCRIPTION:https://unterkochen.aalen.de/festmesse.194962.htm
 LOCATION:Wallfahrtskirche St. Maria Unterkochen
 ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blutspende Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230508T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230508T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/blutspende-wasseralfingen.1950
- 51.htm
-LOCATION:Sängerhalle Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/blutspende-wasseralfingen.195051.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allg. Mittwochstreff VdK OV Wasseralfingen
@@ -4535,10 +4512,30 @@ BEGIN:VEVENT
 SUMMARY:Stammtisch
 DTSTART;TZID=Europe/Berlin:20230516T193000
 DURATION:PT4H29M
-RRULE:FREQ=MONTHLY;UNTIL=20231219T235900Z;INTERVAL=1;BYDAY=TU;WKST=MO
+RRULE:FREQ=WEEKLY;UNTIL=20231219T235900Z;INTERVAL=1;BYDAY=TU;WKST=MO
 DESCRIPTION:https://hofen.aalen.de/stammtisch.198490.htm
 LOCATION:Gasthaus Frische Quelle
 ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/stammtisch.198490.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skigymnastik
+DTSTART;TZID=Europe/Berlin:20230911T203000
+DURATION:PT3H29M
+RRULE:FREQ=WEEKLY;UNTIL=20231218T235900Z;INTERVAL=1;BYDAY=MO;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/skigymnastik.198517.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/skigymnastik.198517.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AH-Konditionstraining
+DTSTART;TZID=Europe/Berlin:20231006T190000
+DURATION:PT4H59M
+RRULE:FREQ=WEEKLY;UNTIL=20231215T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ah-konditionstraining.198518.htm
+LOCATION:Gymnastikraum West bei der Braunenbergschule
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/ah-konditionstraining.198518.htm
 END:VEVENT
 END:VCALENDAR
