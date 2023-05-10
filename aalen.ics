@@ -1371,18 +1371,6 @@ URL:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
-DTSTART;TZID=Europe/Berlin:20230509T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230509T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-
- photovoltaik.195794.htm
-LOCATION:UtopiAA
-ORGANIZER:Lokale Agenda 21 - Agenda Büro 
-URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
- taik.195794.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
 DTSTART;TZID=Europe/Berlin:20230613T180000
 DURATION:PT2H
 RRULE:FREQ=DAILY;UNTIL=20230613T200000Z;INTERVAL=1;WKST=MO
@@ -3356,8 +3344,8 @@ DTSTART;TZID=Europe/Berlin:20230710T180000
 DURATION:PT5H59M
 RRULE:FREQ=DAILY;UNTIL=20230710T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.197387.htm
-LOCATION:
-ORGANIZER:
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/radtreff.197387.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -4214,6 +4202,16 @@ URL:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.197726.ht
  m
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kameradschaftsabend
+DTSTART;TZID=Europe/Berlin:20230513T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230513T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/kameradschaftsabend.197739.htm
+LOCATION:Gasthaus "Liederhalle"
+ORGANIZER:Sportkegelclub "Fortuna" Hofen
+URL:https://hofen.aalen.de/kameradschaftsabend.197739.htm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vatertagswanderung
 DTSTART;TZID=Europe/Berlin:20230518T000100
 DURATION:PT23H58M
@@ -4222,17 +4220,6 @@ DESCRIPTION:https://hofen.aalen.de/vatertagswanderung.197747.htm
 LOCATION:
 ORGANIZER:Sportkegelclub "Fortuna" Hofen
 URL:https://hofen.aalen.de/vatertagswanderung.197747.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familienflohmarkt
-DTSTART;TZID=Europe/Berlin:20230617T100000
-DURATION:PT4H
-RRULE:FREQ=DAILY;UNTIL=20230617T140000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:http://www.museum-wasseralfingen.de/familienflohmarkt.197787.h
- tm
-LOCATION:Kindergarten Don Bosco
-ORGANIZER:Kindergarten Don Bosco
-URL:http://www.museum-wasseralfingen.de/familienflohmarkt.197787.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herrn Stumpfes Zieh- und Zupfkapelle und Gäste
@@ -4407,7 +4394,7 @@ BEGIN:VEVENT
 SUMMARY:Weinfest Sängerlust Treppach
 DTSTART;TZID=Europe/Berlin:20230923T170000
 DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230924T235900Z;INTERVAL=1;WKST=MO
+RRULE:FREQ=DAILY;UNTIL=20230923T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/weinfest-saengerlust-treppach.
  198365.htm
 LOCATION:Dorfmitte Treppach
@@ -4537,5 +4524,463 @@ DESCRIPTION:https://hofen.aalen.de/ah-konditionstraining.198518.htm
 LOCATION:Gymnastikraum West bei der Braunenbergschule
 ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/ah-konditionstraining.198518.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Familienflohmarkt im Kiga Don Bosco
+DTSTART;TZID=Europe/Berlin:20230617T100000
+DURATION:PT4H
+RRULE:FREQ=DAILY;UNTIL=20230617T140000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/familienflohmarkt-im-kiga-don-
+ bosco.198593.htm
+LOCATION:Kiga Don Bosco
+ORGANIZER:Kiga Don Bosco
+URL:https://wasseralfingen.aalen.de/familienflohmarkt-im-kiga-don-bosco.19
+ 8593.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20230711T173000
+DURATION:PT6H29M
+RRULE:FREQ=DAILY;UNTIL=20230711T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198594.h
+ tm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198594.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allgemeiner Mittwochstreff
+DTSTART;TZID=Europe/Berlin:20230712T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/allgemeiner-mittwochstreff.198
+ 595.htm
+LOCATION:Bürgerhaus Wasseralfingen\, Saal der Vereine
+ORGANIZER:VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/allgemeiner-mittwochstreff.198595.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordic-Walking
+DTSTART;TZID=Europe/Berlin:20230713T093000
+DURATION:PT14H29M
+RRULE:FREQ=DAILY;UNTIL=20230713T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/nordic-walking.198596.htm
+LOCATION:Parkplatz Schimmelberg/Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/nordic-walking.198596.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tagesradtour im Ostalbkreis
+DTSTART;TZID=Europe/Berlin:20230716T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/tagesradtour-im-ostalbkreis.19
+ 8597.htm
+LOCATION:Wird im Sommerprogramm festgelegt.
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/tagesradtour-im-ostalbkreis.198597.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230717T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230717T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198598.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/radtreff.198598.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stammtisch
+DTSTART;TZID=Europe/Berlin:20230718T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230718T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/stammtisch.198599.htm
+LOCATION:Gasthaus "Frische Quelle"
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/stammtisch.198599.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordic-Walking
+DTSTART;TZID=Europe/Berlin:20230720T093000
+DURATION:PT14H29M
+RRULE:FREQ=DAILY;UNTIL=20230720T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/nordic-walking.198600.htm
+LOCATION:Parkplatz Schimmelberg/Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/nordic-walking.198600.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4-Tagesausflug Berlin
+DTSTART;TZID=Europe/Berlin:20230723T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230726T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/4-tagesausflug-berlin.198601.h
+ tm
+LOCATION:
+ORGANIZER:VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/4-tagesausflug-berlin.198601.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230724T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230724T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198602.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/radtreff.198602.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerkonezert der Bergkapelle
+DTSTART;TZID=Europe/Berlin:20230726T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230726T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/sommerkonezert-der-bergkapelle
+ .198603.htm
+LOCATION:Vorplatz Bürgerhaus
+ORGANIZER:SHW Bergkapelle
+URL:https://wasseralfingen.aalen.de/sommerkonezert-der-bergkapelle.198603.
+ htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ski & Fit Abschluss mit anschließendem gemütlichen Beisammensein
+DTSTART;TZID=Europe/Berlin:20230726T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230726T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ski-fit-abschluss-mit-anschlie
+ ssendem-gemuetlichen-beisammensein.198604.htm
+LOCATION:
+ORGANIZER:Aalener Sportallianz e. V., Skiabteilung
+URL:https://wasseralfingen.aalen.de/ski-fit-abschluss-mit-anschliessendem-
+ gemuetlichen-beisammensein.198604.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordic-Walking
+DTSTART;TZID=Europe/Berlin:20230727T093000
+DURATION:PT14H29M
+RRULE:FREQ=DAILY;UNTIL=20230727T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/nordic-walking.198605.htm
+LOCATION:Parkplatz Schimmelberg/Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/nordic-walking.198605.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Bringsammlung
+DTSTART;TZID=Europe/Berlin:20230728T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230728T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198606
+ .htm
+LOCATION:Containerstandort: Parkplatz Talschule
+ORGANIZER:Aalener Sportallianz e. V. Wasseralfingen, Abteilung Tischtennis
+URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198606.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230731T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230731T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198607.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/radtreff.198607.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scheunenfest
+DTSTART;TZID=Europe/Berlin:20230517T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/scheunenfest.198608.htm
+LOCATION:Oberalfingen 
+ORGANIZER:Turngemeinde Hofen 1926 e.V.
+URL:https://hofen.aalen.de/scheunenfest.198608.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ministrantenfreizeit
+DTSTART;TZID=Europe/Berlin:20230518T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ministrantenfreizeit.198609.htm
+LOCATION:Dinkelsbühl
+ORGANIZER:Kath. Kirchengemeinde Hofen
+URL:https://hofen.aalen.de/ministrantenfreizeit.198609.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordic-Walking
+DTSTART;TZID=Europe/Berlin:20230803T093000
+DURATION:PT14H29M
+RRULE:FREQ=DAILY;UNTIL=20230803T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/nordic-walking.198610.htm
+LOCATION:Parkplatz Schimmelberg/Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/nordic-walking.198610.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230807T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230807T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198611.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/radtreff.198611.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pfingstmontag Radtour
+DTSTART;TZID=Europe/Berlin:20230529T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/pfingstmontag-radtour.198612.htm
+LOCATION:
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/pfingstmontag-radtour.198612.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nordic-Walking
+DTSTART;TZID=Europe/Berlin:20230810T093000
+DURATION:PT14H29M
+RRULE:FREQ=DAILY;UNTIL=20230810T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/nordic-walking.198613.htm
+LOCATION:Parkplatz Schimmelberg/Affalterried
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/nordic-walking.198613.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brückenfest
+DTSTART;TZID=Europe/Berlin:20230812T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20230813T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/brueckenfest.198614.htm
+LOCATION:Wache Wasseralfingen
+ORGANIZER:Freiwillige Feuerwehr Wasseralfingen / Hofen
+URL:https://wasseralfingen.aalen.de/brueckenfest.198614.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtreff
+DTSTART;TZID=Europe/Berlin:20230814T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230814T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198615.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/radtreff.198615.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stammtisch
+DTSTART;TZID=Europe/Berlin:20230815T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230815T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/stammtisch.198616.htm
+LOCATION:Gasthaus "Frische Quelle"
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://wasseralfingen.aalen.de/stammtisch.198616.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitgliederversammlung 
+DTSTART;TZID=Europe/Berlin:20230524T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230524T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/mitgliederversammlung.198617.htm
+LOCATION:Gemeindesaal Hofen
+ORGANIZER:St. Georgsverein
+URL:https://hofen.aalen.de/mitgliederversammlung.198617.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gartenfest
+DTSTART;TZID=Europe/Berlin:20230603T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/gartenfest.198639.htm
+LOCATION:Hofen
+ORGANIZER:Vdk OV Hofen
+URL:https://hofen.aalen.de/gartenfest.198639.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fronleichnamgottesdienst 
+DTSTART;TZID=Europe/Berlin:20230608T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/fronleichnamgottesdienst.198640.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Kath. Kirchengemeinde Hofen
+URL:https://hofen.aalen.de/fronleichnamgottesdienst.198640.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bergfest
+DTSTART;TZID=Europe/Berlin:20230617T160000
+DURATION:PT7H59M
+RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/bergfest.198641.htm
+LOCATION:Barbarastube Hofen
+ORGANIZER:Sportkegelclub "Fortuna" Hofen
+URL:https://hofen.aalen.de/bergfest.198641.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Bringsammlung 
+DTSTART;TZID=Europe/Berlin:20230715T080000
+DURATION:PT15H59M
+RRULE:FREQ=DAILY;UNTIL=20230715T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/altpapier-bringsammlung.198642.htm
+LOCATION:Containerstandort: Parkplatz Kappelbergschule
+ORGANIZER:Kegelclub "Fortuna" 
+URL:https://hofen.aalen.de/altpapier-bringsammlung.198642.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20230710T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230710T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ortschaftsratssitzung.198643.htm
+LOCATION:Sitzungssaal Rathaus Hofen 
+ORGANIZER:Ortschaftsverwaltung Hofen
+URL:https://hofen.aalen.de/ortschaftsratssitzung.198643.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fußwallfahrt
+DTSTART;TZID=Europe/Berlin:20230626T060000
+DURATION:PT17H59M
+RRULE:FREQ=DAILY;UNTIL=20230626T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/fusswallfahrt.198644.htm
+LOCATION:Waldhausen
+ORGANIZER:Kath. Kirchengemeinde Hofen
+URL:https://hofen.aalen.de/fusswallfahrt.198644.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radball Pokalturnier 
+DTSTART;TZID=Europe/Berlin:20230624T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/radball-pokalturnier.198646.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/radball-pokalturnier.198646.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hitzkuchenradtour
+DTSTART;TZID=Europe/Berlin:20230625T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/hitzkuchenradtour.198648.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/hitzkuchenradtour.198648.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2-Tages Radtour
+DTSTART;TZID=Europe/Berlin:20230715T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/2-tages-radtour.198649.htm
+LOCATION:
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/2-tages-radtour.198649.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tagesradtour im Ostalbkreis
+DTSTART;TZID=Europe/Berlin:20230716T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230716T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/tagesradtour-im-ostalbkreis.198650.htm
+LOCATION:
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/tagesradtour-im-ostalbkreis.198650.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Bringsammlung
+DTSTART;TZID=Europe/Berlin:20230825T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230825T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198694
+ .htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Förderverein Viktoria Wasseralfingen
+URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198694.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homecoming-Weeks
+DTSTART;TZID=Europe/Berlin:20230901T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230901T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/homecoming-weeks.198695.htm
+LOCATION:
+ORGANIZER:GHV Wasseralfingen e.V.
+URL:https://wasseralfingen.aalen.de/homecoming-weeks.198695.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsversammlung
+DTSTART;TZID=Europe/Berlin:20230909T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230909T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/monatsversammlung.198696.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/monatsversammlung.198696.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auftritt der Bergkapelle bei den Reichsstädter Tagen
+DTSTART;TZID=Europe/Berlin:20230910T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230910T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/auftritt-der-bergkapelle-bei-d
+ en-reichsstaedter-tagen.198697.htm
+LOCATION:Gmünder Torplatz
+ORGANIZER:SHW Bergkapelle
+URL:https://wasseralfingen.aalen.de/auftritt-der-bergkapelle-bei-den-reich
+ sstaedter-tagen.198697.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allgemeiner Mittwochstreff
+DTSTART;TZID=Europe/Berlin:20230913T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20230913T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/allgemeiner-mittwochstreff.198
+ 698.htm
+LOCATION:Bürgerhaus Wasseralfingen\, Saal der Vereine
+ORGANIZER:VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/allgemeiner-mittwochstreff.198698.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hauptübung 2023
+DTSTART;TZID=Europe/Berlin:20230915T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230916T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/hauptuebung-2023.198699.htm
+LOCATION:Wache Wasseralfingen
+ORGANIZER:Freiwillige Feuerwehr Wasseralfingen / Hofen
+URL:https://wasseralfingen.aalen.de/hauptuebung-2023.198699.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2 Tagesausflug\, Heilbronn
+DTSTART;TZID=Europe/Berlin:20230917T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230917T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/2-tagesausflug-heilbronn.19870
+ 0.htm
+LOCATION:Heilbronn
+ORGANIZER:Aalener Sportallianz e. V., Skiabteilung
+URL:https://wasseralfingen.aalen.de/2-tagesausflug-heilbronn.198700.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20230919T173000
+DURATION:PT6H29M
+RRULE:FREQ=DAILY;UNTIL=20230919T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198701.h
+ tm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198701.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Bringsammlung
+DTSTART;TZID=Europe/Berlin:20230922T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230922T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198702
+ .htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:DJK Wasseralfingen, Abteilung Guggenmusik
+URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198702.htm
 END:VEVENT
 END:VCALENDAR
