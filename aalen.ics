@@ -622,18 +622,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Allg. Mittwochstreff VdK OV Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230510T143000
-DURATION:PT9H29M
-RRULE:FREQ=DAILY;UNTIL=20230510T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-was
- seralfingen.195052.htm
-LOCATION:Saal der Vereine im Bürgerhaus Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-wasseralfin
- gen.195052.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monatsversammlung Kleintierzuchtverein Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230512T200000
 DURATION:PT3H59M
@@ -933,7 +921,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ausstellung anlässlich der Baden-Württembergischen Theatertage: 
  Täglich Kunst
-DTSTART;TZID=Europe/Berlin:20230510T000100
+DTSTART;TZID=Europe/Berlin:20230512T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/ausstellung-anlaesslich-der-baden-
@@ -1523,18 +1511,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230510T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230510T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96414.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196414.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalens Gassen
 DTSTART;TZID=Europe/Berlin:20230513T170000
 DURATION:PT6H59M
@@ -1860,26 +1836,6 @@ LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196472.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bücherzwerge
-DTSTART;TZID=Europe/Berlin:20230510T093000
-DURATION:PT30M
-RRULE:FREQ=DAILY;UNTIL=20230510T100000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.196477.htm
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196477.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bücherzwerge
-DTSTART;TZID=Europe/Berlin:20230510T100000
-DURATION:PT30M
-RRULE:FREQ=DAILY;UNTIL=20230510T103000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.196478.htm
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196478.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Themenwoche Inklusion
@@ -4982,5 +4938,542 @@ DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198702
 LOCATION:Parkplatz Talschule
 ORGANIZER:DJK Wasseralfingen, Abteilung Guggenmusik
 URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198702.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wasseralfinger Kulturherbst: Miroslav Jugoslav ein Abend mit Miros
+ lav Nemec
+DTSTART;TZID=Europe/Berlin:20230923T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230924T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/wasseralfinger-kulturherbst-mi
+ roslav-jugoslav-ein-abend-mit-miroslav-nemec.198703.htm
+LOCATION:Aula des Kopernikus Gymnasiums Wasseralfingen
+ORGANIZER:Stadtverband für Sport und Kultur e.V. Wasseralfingen
+URL:https://wasseralfingen.aalen.de/wasseralfinger-kulturherbst-miroslav-j
+ ugoslav-ein-abend-mit-miroslav-nemec.198703.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halbtagesausflug nach Langenenslingen/Zuckergässle
+DTSTART;TZID=Europe/Berlin:20231012T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231012T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/halbtagesausflug-nach-langenen
+ slingen-zuckergaessle.198704.htm
+LOCATION:
+ORGANIZER:VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/halbtagesausflug-nach-langenenslingen-
+ zuckergaessle.198704.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsversammlung
+DTSTART;TZID=Europe/Berlin:20231015T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231015T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/monatsversammlung.198706.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/monatsversammlung.198706.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20231017T173000
+DURATION:PT6H29M
+RRULE:FREQ=DAILY;UNTIL=20231017T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198707.h
+ tm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198707.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Züchterfrühshoppen Ausgabe Ausstellungspapiere
+DTSTART;TZID=Europe/Berlin:20231022T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20231022T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/zuechterfruehshoppen-ausgabe-a
+ usstellungspapiere.198708.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/zuechterfruehshoppen-ausgabe-ausstellu
+ ngspapiere.198708.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsversammlung Abgabe Ausstellungspapiere
+DTSTART;TZID=Europe/Berlin:20231103T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231103T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/monatsversammlung-abgabe-ausst
+ ellungspapiere.198709.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/monatsversammlung-abgabe-ausstellungsp
+ apiere.198709.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Bringsammlung
+DTSTART;TZID=Europe/Berlin:20231103T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231103T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198710
+ .htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:Evangelische Kirchengemeinde
+URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198710.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allgemeiner Mittwochstreff
+DTSTART;TZID=Europe/Berlin:20231108T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20231108T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/allgemeiner-mittwochstreff.198
+ 711.htm
+LOCATION:Bürgerhaus Wasseralfingen\, Saal der Vereine
+ORGANIZER:VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/allgemeiner-mittwochstreff.198711.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorspielnachmittag der Bergkapellen-Jugend
+DTSTART;TZID=Europe/Berlin:20231112T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20231112T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/vorspielnachmittag-der-bergkap
+ ellen-jugend.198712.htm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:SHW Bergkapelle
+URL:https://wasseralfingen.aalen.de/vorspielnachmittag-der-bergkapellen-ju
+ gend.198712.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lokalschau
+DTSTART;TZID=Europe/Berlin:20231118T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231118T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/lokalschau.198713.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/lokalschau.198713.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lokalschau
+DTSTART;TZID=Europe/Berlin:20231119T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20231119T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/lokalschau.198714.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/lokalschau.198714.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Volkstrauertag
+DTSTART;TZID=Europe/Berlin:20231119T110000
+DURATION:PT12H59M
+RRULE:FREQ=DAILY;UNTIL=20231119T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/volkstrauertag.198715.htm
+LOCATION:Friedhof Wasseralfingen
+ORGANIZER:Stadtverband für Sport und Kultur e.V. Wasseralfingen
+URL:https://wasseralfingen.aalen.de/volkstrauertag.198715.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vorweihnachtlicher Markt
+DTSTART;TZID=Europe/Berlin:20231119T110000
+DURATION:PT12H59M
+RRULE:FREQ=DAILY;UNTIL=20231119T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/vorweihnachtlicher-markt.19871
+ 6.htm
+LOCATION:Dorfmitte Treppach
+ORGANIZER:Sängerlust Treppach
+URL:https://wasseralfingen.aalen.de/vorweihnachtlicher-markt.198716.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20231121T173000
+DURATION:PT6H29M
+RRULE:FREQ=DAILY;UNTIL=20231121T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198719.h
+ tm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/ortschaftsratssitzung.198719.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsradtour
+DTSTART;TZID=Europe/Berlin:20230806T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230806T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/monatsradtour.198720.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/monatsradtour.198720.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsradtour
+DTSTART;TZID=Europe/Berlin:20230903T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230903T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/monatsradtour.198721.htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/monatsradtour.198721.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspende Hofen
+DTSTART;TZID=Europe/Berlin:20230908T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230908T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/blutspende-hofen.198722.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:DRK Hofen
+URL:https://hofen.aalen.de/blutspende-hofen.198722.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radsaison Abschlusstour
+DTSTART;TZID=Europe/Berlin:20230909T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230909T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/radsaison-abschlusstour.198723.htm
+LOCATION:
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/radsaison-abschlusstour.198723.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitgliederversammlung / Terminabstimmung
+DTSTART;TZID=Europe/Berlin:20231123T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20231123T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/mitgliederversammlung-terminab
+ stimmung.198724.htm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:Stadtverband für Sport und Kultur e.V. Wasseralfingen
+URL:https://wasseralfingen.aalen.de/mitgliederversammlung-terminabstimmung
+ .198724.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Holsammlung
+DTSTART;TZID=Europe/Berlin:20230916T080000
+DURATION:PT15H59M
+RRULE:FREQ=DAILY;UNTIL=20230916T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/altpapier-holsammlung.198725.htm
+LOCATION:Hofen und Teilorte
+ORGANIZER:Harmonika Club Hofen
+URL:https://hofen.aalen.de/altpapier-holsammlung.198725.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20230918T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230918T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ortschaftsratssitzung.198726.htm
+LOCATION:Sitzungssaal Rathaus Hofen 
+ORGANIZER:Ortschaftsverwaltung Hofen
+URL:https://hofen.aalen.de/ortschaftsratssitzung.198726.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abschluss Rtr. Ohne Rad
+DTSTART;TZID=Europe/Berlin:20230920T183000
+DURATION:PT5H29M
+RRULE:FREQ=DAILY;UNTIL=20230920T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/abschluss-rtr-ohne-rad.198727.htm
+LOCATION:Siehe unter https://www.rkv-hofen.de/
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/abschluss-rtr-ohne-rad.198727.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bergwanderung
+DTSTART;TZID=Europe/Berlin:20230923T060000
+DURATION:PT17H59M
+RRULE:FREQ=DAILY;UNTIL=20230923T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/bergwanderung.198728.htm
+LOCATION:
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/bergwanderung.198728.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCB-Weinausfahrt
+DTSTART;TZID=Europe/Berlin:20231021T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20231021T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/scb-weinausfahrt.198729.htm
+LOCATION:Erlenbach
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/scb-weinausfahrt.198729.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tag der Vereine mit Hocketse
+DTSTART;TZID=Europe/Berlin:20230924T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230924T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/tag-der-vereine-mit-hocketse.198731.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Ortschaftsverwaltung Hofen
+URL:https://hofen.aalen.de/tag-der-vereine-mit-hocketse.198731.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginn Walking
+DTSTART;TZID=Europe/Berlin:20230927T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230927T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/beginn-walking.198732.htm
+LOCATION:Parkplatz Bucher Stausee
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/beginn-walking.198732.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstwanderung
+DTSTART;TZID=Europe/Berlin:20231008T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20231008T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/herbstwanderung.198733.htm
+LOCATION:
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/herbstwanderung.198733.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kunstrad Pokalfahren 
+DTSTART;TZID=Europe/Berlin:20231008T130000
+DURATION:PT10H59M
+RRULE:FREQ=DAILY;UNTIL=20231008T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/kunstrad-pokalfahren.198734.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:RKV Hofen
+URL:https://hofen.aalen.de/kunstrad-pokalfahren.198734.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ski- und Infobörse
+DTSTART;TZID=Europe/Berlin:20231104T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20231104T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ski-und-infoboerse.198735.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Ski-Club Braunenberg 1971 e.V.
+URL:https://hofen.aalen.de/ski-und-infoboerse.198735.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glücksschein-Aktion
+DTSTART;TZID=Europe/Berlin:20231201T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231201T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/gluecksschein-aktion.198736.ht
+ m
+LOCATION:
+ORGANIZER:GHV Wasseralfingen e.V.
+URL:https://wasseralfingen.aalen.de/gluecksschein-aktion.198736.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Bringsammlung
+DTSTART;TZID=Europe/Berlin:20231201T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231201T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198737
+ .htm
+LOCATION:Parkplatz Talschule
+ORGANIZER:CVJM Wasseralfingen
+URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung.198737.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsstand auf dem Wochenmarkt
+DTSTART;TZID=Europe/Berlin:20231202T073000
+DURATION:PT16H29M
+RRULE:FREQ=DAILY;UNTIL=20231202T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/weihnachtsstand-auf-dem-wochen
+ markt.198738.htm
+LOCATION:Karlsplatz
+ORGANIZER:SHW Bergkapelle
+URL:https://wasseralfingen.aalen.de/weihnachtsstand-auf-dem-wochenmarkt.19
+ 8738.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blutspende Wasseralfingen
+DTSTART;TZID=Europe/Berlin:20231204T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231204T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/blutspende-wasseralfingen.1987
+ 39.htm
+LOCATION:Sängerhalle Wasseralfingen
+ORGANIZER:DRK Wasseralfingen
+URL:https://wasseralfingen.aalen.de/blutspende-wasseralfingen.198739.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weihnachtsmarkt
+DTSTART;TZID=Europe/Berlin:20231207T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231210T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/weihnachtsmarkt.198740.htm
+LOCATION:Besucherbergwerk "Tiefer Stollen"
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/weihnachtsmarkt.198740.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand auf dem Weihnachtsmarkt am Tiefen Stollen
+DTSTART;TZID=Europe/Berlin:20231207T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231207T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/stand-auf-dem-weihnachtsmarkt-
+ am-tiefen-stollen.198741.htm
+LOCATION:Tiefer Stollen Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/stand-auf-dem-weihnachtsmarkt-am-tiefe
+ n-stollen.198741.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monatsversammlung
+DTSTART;TZID=Europe/Berlin:20231208T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20231208T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/monatsversammlung.198742.htm
+LOCATION:Ausstellungshalle
+ORGANIZER:Kleintierzuchtverein Wasseralfingen
+URL:https://wasseralfingen.aalen.de/monatsversammlung.198742.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advents-/Weihnachtsfeier
+DTSTART;TZID=Europe/Berlin:20231209T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231209T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/advents-weihnachtsfeier.198743
+ .htm
+LOCATION:Sängerhalle Wasseralfingen
+ORGANIZER:VdK OV Wasseralfingen
+URL:https://wasseralfingen.aalen.de/advents-weihnachtsfeier.198743.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heiligabendfeier
+DTSTART;TZID=Europe/Berlin:20231224T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20231224T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/heiligabendfeier.198744.htm
+LOCATION:Bürgerhaus Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/heiligabendfeier.198744.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Günther + Schramm Cup
+DTSTART;TZID=Europe/Berlin:20231227T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231227T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/guenther-schramm-cup.198745.ht
+ m
+LOCATION:Talsporthalle Wasseralfingen
+ORGANIZER:FV Viktoria Wasseralfingen
+URL:https://wasseralfingen.aalen.de/guenther-schramm-cup.198745.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skiausfahrt Saisoneröffnung 
+DTSTART;TZID=Europe/Berlin:20231228T051000
+DURATION:PT18H49M
+RRULE:FREQ=DAILY;UNTIL=20231228T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/skiausfahrt-saisoneroeffnung.198746.htm
+LOCATION:
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/skiausfahrt-saisoneroeffnung.198746.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinder und Jugendfreizeit
+DTSTART;TZID=Europe/Berlin:20231226T060000
+DURATION:PT17H59M
+RRULE:FREQ=DAILY;UNTIL=20231230T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/kinder-und-jugendfreizeit.198747.htm
+LOCATION:Brixen/Plose
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/kinder-und-jugendfreizeit.198747.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saisoneröffnungsfeier 
+DTSTART;TZID=Europe/Berlin:20231202T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20231202T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/saisoneroeffnungsfeier.198748.htm
+LOCATION:Skilift Ostalb
+ORGANIZER:Ski-Club Braunenberg 1971 e. V.
+URL:https://hofen.aalen.de/saisoneroeffnungsfeier.198748.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsratssitzung
+DTSTART;TZID=Europe/Berlin:20231127T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20231127T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ortschaftsratssitzung.198749.htm
+LOCATION:Sitzungssaal Rathaus Hofen 
+ORGANIZER:Ortschaftsverwaltung Hofen
+URL:https://hofen.aalen.de/ortschaftsratssitzung.198749.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ehrenmitgliedernachmittag
+DTSTART;TZID=Europe/Berlin:20231015T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231015T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/ehrenmitgliedernachmittag.198750.htm
+LOCATION:Vereinsheim TG Hofen
+ORGANIZER:Turngemeinde Hofen 1926 e.V.
+URL:https://hofen.aalen.de/ehrenmitgliedernachmittag.198750.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jahresabschlussfeier
+DTSTART;TZID=Europe/Berlin:20231118T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231118T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/jahresabschlussfeier.198751.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Turngemeinde Hofen 1926 e.V.
+URL:https://hofen.aalen.de/jahresabschlussfeier.198751.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wintermarkt
+DTSTART;TZID=Europe/Berlin:20231119T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231119T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/wintermarkt.198752.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Turngemeinde Hofen 1926 e.V.
+URL:https://hofen.aalen.de/wintermarkt.198752.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderweihnachtsfeier 
+DTSTART;TZID=Europe/Berlin:20231203T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231203T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/kinderweihnachtsfeier.198753.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Turngemeinde Hofen 1926 e.V.
+URL:https://hofen.aalen.de/kinderweihnachtsfeier.198753.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adevntsfeier
+DTSTART;TZID=Europe/Berlin:20231203T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20231203T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/adevntsfeier.198754.htm
+LOCATION:Gasthaus "Liederhalle"
+ORGANIZER:VDK OV Hofen
+URL:https://hofen.aalen.de/adevntsfeier.198754.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weinfahrt
+DTSTART;TZID=Europe/Berlin:20231014T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231014T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/weinfahrt.198755.htm
+LOCATION:
+ORGANIZER:VDK OV Hofen
+URL:https://hofen.aalen.de/weinfahrt.198755.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapier-Holsammlung
+DTSTART;TZID=Europe/Berlin:20231125T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20231125T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/altpapier-holsammlung.198756.htm
+LOCATION:Hofen und Teilorte
+ORGANIZER:Kath. Kirchengemeinde Hofen 
+URL:https://hofen.aalen.de/altpapier-holsammlung.198756.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbstkonzert
+DTSTART;TZID=Europe/Berlin:20231105T170000
+DURATION:PT6H59M
+RRULE:FREQ=DAILY;UNTIL=20231105T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://hofen.aalen.de/herbstkonzert.198757.htm
+LOCATION:Glück-Auf-Halle Hofen
+ORGANIZER:Kappelbergschöre MGV Hofen e.V. 
+URL:https://hofen.aalen.de/herbstkonzert.198757.htm
 END:VEVENT
 END:VCALENDAR
