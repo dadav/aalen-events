@@ -77,16 +77,6 @@ ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/open-stage-im-kubaa.188890.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Poetry slam im KUBAA
-DTSTART;TZID=Europe/Berlin:20230511T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230511T194500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188895.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/poetry-slam-im-kubaa.188895.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kulturwochen 2023: Delattre Dance Company
 DTSTART;TZID=Europe/Berlin:20231006T200000
 DURATION:PT3H59M
@@ -2671,18 +2661,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197077.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: Tänze aus aller Welt und Discofox
-DTSTART;TZID=Europe/Berlin:20230511T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230511T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-taenze-aus-aller
- -welt-und-discofox.197082.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-taenze-aus-aller-welt-un
- d-discofox.197082.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: Modern Dance 
 DTSTART;TZID=Europe/Berlin:20230525T180000
 DURATION:PT2H
@@ -4339,7 +4317,7 @@ RRULE:FREQ=DAILY;UNTIL=20230516T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-im-m
  ai-tolstoi-und-dostojewski-russische-literaten-fuer-frieden-und-voelkerver
  staendigung.198353.htm
-LOCATION:
+LOCATION:Ev. Gemeindehaus Unterkochen
 ORGANIZER:Eine Kooperation der Evangelischen Erwachsenenbildung Ostalb und
   der Stadtbibliothek Aalen
 URL:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-im-mai-tolst
