@@ -590,30 +590,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gottesdienst\, Tauziehclub Eiche Affalterried
-DTSTART;TZID=Europe/Berlin:20230514T103000
-DURATION:PT13H29M
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/gottesdienst-tauziehclub-eiche
- -affalterried.195055.htm
-LOCATION:Vereinsheim Affalterried
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/gottesdienst-tauziehclub-eiche-affalte
- rried.195055.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dorffest mit Landesliga Tauziehen
-DTSTART;TZID=Europe/Berlin:20230514T130000
-DURATION:PT10H59M
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/dorffest-mit-landesliga-tauzie
- hen.195056.htm
-LOCATION:Vereinsheim Affalterried
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/dorffest-mit-landesliga-tauziehen.1950
- 56.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ortschaftsratssitzung Bezirksamt Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230516T173000
 DURATION:PT6H29M
@@ -1117,16 +1093,6 @@ LOCATION:Salvatorkirche
 ORGANIZER:Städtisches Orchester Aalen 
 URL:https://www.aalen-kultur.de/adventskonzert-des-staedtischen-orchester.
  195392.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:- Milestones of Rock
-DTSTART;TZID=Europe/Berlin:20230514T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230514T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/-milestones-of-rock.195506.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/-milestones-of-rock.195506.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Fall Hau (Theater Baden-Baden)
@@ -3217,16 +3183,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fest der Ebnater Freude
-DTSTART;TZID=Europe/Berlin:20230514T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/fest-der-ebnater-freude.197435.htm
-LOCATION:Katholische Kirche Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/fest-der-ebnater-freude.197435.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bittprozession
 DTSTART;TZID=Europe/Berlin:20230515T180000
 DURATION:PT5H59M
@@ -3566,16 +3522,6 @@ DESCRIPTION:https://ebnat.aalen.de/adventsfeier.197521.htm
 LOCATION:Albert-Schweitzer-Haus Unterkochen
 ORGANIZER:VdK OV Unterkochen-Ebnat
 URL:https://ebnat.aalen.de/adventsfeier.197521.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoffest
-DTSTART;TZID=Europe/Berlin:20230514T100000
-DURATION:PT13H59M
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/hoffest.197547.htm
-LOCATION:Schillerschule Ebnat
-ORGANIZER:DRK Ortsgruppe Ebnat
-URL:https://ebnat.aalen.de/hoffest.197547.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blutspendenaktion
@@ -4077,17 +4023,6 @@ ORGANIZER:
 URL:https://www.aalen.de/lorem-ipsum.197837.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inklusives Soundfestival Aalen
-DTSTART;TZID=Europe/Berlin:20230514T110000
-DURATION:PT9H
-RRULE:FREQ=DAILY;UNTIL=20230514T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/inklusives-soundfestival-aalen.197
- 842.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/inklusives-soundfestival-aalen.197842.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blockflöte - eine Zeitmaschine
 DTSTART;TZID=Europe/Berlin:20230616T180000
 DURATION:PT5H59M
@@ -4117,18 +4052,6 @@ DESCRIPTION:https://hofen.aalen.de/radtreff-abschluss.197937.htm
 LOCATION:Parkplatz Talschule
 ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/radtreff-abschluss.197937.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Konzert zum Muttertag: Siggi Schwarz Band feat. 
-DTSTART;TZID=Europe/Berlin:20230514T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230514T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/konzert-zum-muttertag-siggi-schwar
- z-band-feat-.198097.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/konzert-zum-muttertag-siggi-schwarz-band-f
- eat-.198097.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doppelausstellung: Jan Hendrik Pelz & Delschad Numan Khorschid 
