@@ -636,16 +636,6 @@ URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
  -wasseralfingen.195060.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schlossfest
-DTSTART;TZID=Europe/Berlin:20230609T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/schlossfest.195061.htm
-LOCATION:Schloss Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/schlossfest.195061.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Allg. Mittwochstreff VdK OV Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230614T143000
 DURATION:PT9H29M
@@ -1714,18 +1704,6 @@ LOCATION:Torhaus\, Paul-Ulmschneider-Saal
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/kinderkino-phantastische-tierwese
  n-und-wo-sie-zu-finden-sind.196511.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lies mit mir: Ein Dieb kommt selten allein
-DTSTART;TZID=Europe/Berlin:20230515T151500
-DURATION:PT8H44M
-RRULE:FREQ=DAILY;UNTIL=20230515T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/lies-mit-mir-ein-dieb-kom
- mt-selten-allein.196531.htm
-LOCATION:Bücherei Unterkochen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-ein-dieb-kommt-selte
- n-allein.196531.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lies mit mir: Platz da\, ihr Hirsche!
@@ -3181,16 +3159,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bittprozession
-DTSTART;TZID=Europe/Berlin:20230515T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230515T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/bittprozession.197436.htm
-LOCATION:Katholische Kirche Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/bittprozession.197436.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bittprozession
@@ -5244,5 +5212,27 @@ DESCRIPTION:https://hofen.aalen.de/herbstkonzert.198757.htm
 LOCATION:Glück-Auf-Halle Hofen
 ORGANIZER:Kappelbergschöre MGV Hofen e.V. 
 URL:https://hofen.aalen.de/herbstkonzert.198757.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schlossfest
+DTSTART;TZID=Europe/Berlin:20230609T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/schlossfest.198858.htm
+LOCATION:Schloss Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen / Verein Wasseralfinger Schloss e.V.
+URL:https://wasseralfingen.aalen.de/schlossfest.198858.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert "Des Geyers Schwarzer Haufen"
+DTSTART;TZID=Europe/Berlin:20230609T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230609T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/konzert-des-geyers-schwarzer-h
+ aufen.198860.htm
+LOCATION:Schloss Wasseralfingen
+ORGANIZER:Bezirksamt Wasseralfingen / Verein Wasseralfinger Schloss e.V.
+URL:https://wasseralfingen.aalen.de/konzert-des-geyers-schwarzer-haufen.19
+ 8860.htm
 END:VEVENT
 END:VCALENDAR
