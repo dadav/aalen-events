@@ -1376,28 +1376,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230517T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230517T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96425.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196425.ht
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Von Rom zur Reichsstadt
-DTSTART;TZID=Europe/Berlin:20230519T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230519T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.196431.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/von-rom-zur-reichsstadt.196431.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Der Stadtpfeifer von Aalen
 DTSTART;TZID=Europe/Berlin:20230519T190000
 DURATION:PT4H59M
@@ -3149,16 +3127,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bittprozession
-DTSTART;TZID=Europe/Berlin:20230517T083000
-DURATION:PT15H29M
-RRULE:FREQ=DAILY;UNTIL=20230517T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/bittprozession.197437.htm
-LOCATION:Katholische Kirche Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/bittprozession.197437.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Firmung
 DTSTART;TZID=Europe/Berlin:20230617T140000
 DURATION:PT9H59M
@@ -3488,16 +3456,6 @@ DESCRIPTION:https://ebnat.aalen.de/blutspendenaktion.197548.htm
 LOCATION:Jurahalle Ebnat
 ORGANIZER:DRK Ortsgruppe Ebnat
 URL:https://ebnat.aalen.de/blutspendenaktion.197548.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebnater Frühlingsfest
-DTSTART;TZID=Europe/Berlin:20230517T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230517T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/ebnater-fruehlingsfest.197549.htm
-LOCATION:Neuer Festplatz Ebnat
-ORGANIZER:Musikverein Ebnat
-URL:https://ebnat.aalen.de/ebnater-fruehlingsfest.197549.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ebnater Frühlingsfest
