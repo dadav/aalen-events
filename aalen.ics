@@ -1205,16 +1205,6 @@ ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
 URL:https://hofen.aalen.de/radtreff.195707.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vatertagsradtour
-DTSTART;TZID=Europe/Berlin:20230518T100000
-DURATION:PT13H59M
-RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/vatertagsradtour.195712.htm
-LOCATION:Parkplatz Talschule
-ORGANIZER:Rad- und Kraftfahrverein Hofen 1925 e.V.
-URL:https://hofen.aalen.de/vatertagsradtour.195712.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nordic-Walking
 DTSTART;TZID=Europe/Berlin:20230420T093000
 DURATION:PT14H29M
@@ -2361,16 +2351,6 @@ ORGANIZER:
 URL:https://www.aalen-kultur.de/erinnerungsstunde-kz.196984.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hocketse am Vatertag 
-DTSTART;TZID=Europe/Berlin:20230518T103000
-DURATION:PT13H29M
-RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/hocketse-am-vatertag.196985.htm
-LOCATION:Gartenanlage der Gartenfreunde Fachsenfeld 
-ORGANIZER:Gartenfreunde Fachsenfeld e.V. 
-URL:https://www.aalen-kultur.de/hocketse-am-vatertag.196985.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KubAA-Führung
 DTSTART;TZID=Europe/Berlin:20230827T160000
 DURATION:PT7H59M
@@ -3459,16 +3439,6 @@ URL:https://ebnat.aalen.de/blutspendenaktion.197548.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ebnater Frühlingsfest
-DTSTART;TZID=Europe/Berlin:20230518T103000
-DURATION:PT13H29M
-RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/ebnater-fruehlingsfest.197550.htm
-LOCATION:Neuer Festplatz Ebnat
-ORGANIZER:Musikverein Ebnat
-URL:https://ebnat.aalen.de/ebnater-fruehlingsfest.197550.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebnater Frühlingsfest
 DTSTART;TZID=Europe/Berlin:20230519T190000
 DURATION:PT4H59M
 RRULE:FREQ=DAILY;UNTIL=20230519T235900Z;INTERVAL=1;WKST=MO
@@ -3885,16 +3855,6 @@ URL:https://www.aalen-kultur.de/aalener-stadtfuehrung-mit-gesang.197726.ht
  m
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vatertagswanderung
-DTSTART;TZID=Europe/Berlin:20230518T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/vatertagswanderung.197747.htm
-LOCATION:
-ORGANIZER:Sportkegelclub "Fortuna" Hofen
-URL:https://hofen.aalen.de/vatertagswanderung.197747.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herrn Stumpfes Zieh- und Zupfkapelle und Gäste
 DTSTART;TZID=Europe/Berlin:20231012T194500
 DURATION:P0D
@@ -4308,16 +4268,6 @@ DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198607.htm
 LOCATION:Parkplatz Talschule
 ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/radtreff.198607.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scheunenfest
-DTSTART;TZID=Europe/Berlin:20230517T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230518T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/scheunenfest.198608.htm
-LOCATION:Oberalfingen 
-ORGANIZER:Turngemeinde Hofen 1926 e.V.
-URL:https://hofen.aalen.de/scheunenfest.198608.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ministrantenfreizeit
