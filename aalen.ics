@@ -1366,17 +1366,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Stadtpfeifer von Aalen
-DTSTART;TZID=Europe/Berlin:20230519T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230519T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196432.
- htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/der-stadtpfeifer-von-aalen.196432.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalens Gassen
 DTSTART;TZID=Europe/Berlin:20230520T170000
 DURATION:PT6H59M
@@ -3438,16 +3427,6 @@ ORGANIZER:DRK Ortsgruppe Ebnat
 URL:https://ebnat.aalen.de/blutspendenaktion.197548.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ebnater Frühlingsfest
-DTSTART;TZID=Europe/Berlin:20230519T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230519T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/ebnater-fruehlingsfest.197551.htm
-LOCATION:Neuer Festplatz Ebnat
-ORGANIZER:Musikverein Ebnat
-URL:https://ebnat.aalen.de/ebnater-fruehlingsfest.197551.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gottesdienst für verstorbene Mitglieder
 DTSTART;TZID=Europe/Berlin:20230709T103000
 DURATION:PT13H29M
@@ -5126,5 +5105,29 @@ LOCATION:Stadthalle Aalen
 ORGANIZER:Junge Philharmonie Ostwürttemberg e.V.
 URL:https://www.aalen.de/festival-de-música-junge-philharmonie-ostwuertte
  mberg.198919.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventskonzert Gaudete – 100 Jahre Chorfreude
+DTSTART;TZID=Europe/Berlin:20231217T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20231217T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen.de/adventskonzert-gaudete--100-jahre-chorfre
+ ude.199018.htm
+LOCATION:Wallfahrtskirche Unterkochen
+ORGANIZER:Cappella Nova Unterkochen
+URL:https://www.aalen.de/adventskonzert-gaudete--100-jahre-chorfreude.1990
+ 18.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventskonzert »Gaudete – 100 Jahre Chorfreude«
+DTSTART;TZID=Europe/Berlin:20231217T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20231217T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen.de/adventskonzert--gaudete--100-jahre-chorfr
+ eude.199019.htm
+LOCATION:Wallfahrtskirche Unterkochen
+ORGANIZER:Cappella Nova Unterkochen
+URL:https://www.aalen.de/adventskonzert--gaudete--100-jahre-chorfreude.199
+ 019.htm
 END:VEVENT
 END:VCALENDAR
