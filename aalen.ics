@@ -590,16 +590,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mallorca-Festival
-DTSTART;TZID=Europe/Berlin:20230520T150000
-DURATION:PT8H59M
-RRULE:FREQ=DAILY;UNTIL=20230520T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/mallorca-festival.195058.htm
-LOCATION:Viktoria Vereinsgelände
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/mallorca-festival.195058.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Altpapier-Bringsammlung Kath. Kirchengemeinde Ministranten
 DTSTART;TZID=Europe/Berlin:20230602T000100
 DURATION:PT23H58M
@@ -1364,27 +1354,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230520T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230520T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.196433.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalens-gassen.196433.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230520T210000
-DURATION:PT2H59M
-RRULE:FREQ=DAILY;UNTIL=20230520T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 434.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196434.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frauen in Aalen
