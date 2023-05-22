@@ -209,16 +209,6 @@ ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/schubarts-volkslieder.191202.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trompeten-Gala
-DTSTART;TZID=Europe/Berlin:20230521T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/trompeten-gala.191708.htm
-LOCATION:Evangelische Stadtkirche
-ORGANIZER:Evangelische Kirchengemeinde Stadtkirche I
-URL:https://www.aalen-kultur.de/trompeten-gala.191708.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bach-Reger-Zyklus
 DTSTART;TZID=Europe/Berlin:20230924T180000
 DURATION:PT5H59M
@@ -974,16 +964,6 @@ ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/tanzland-2023-tanzmatinee.195166.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BrAAs im Gras
-DTSTART;TZID=Europe/Berlin:20230521T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/braas-im-gras.195175.htm
-LOCATION:Kastellgelände/Limesmuseum
-ORGANIZER:Musikschule Aalen
-URL:https://www.aalen-kultur.de/braas-im-gras.195175.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:StringAArt: Konzert
 DTSTART;TZID=Europe/Berlin:20230709T000100
 DURATION:PT23H58M
@@ -1354,16 +1334,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frauen in Aalen
-DTSTART;TZID=Europe/Berlin:20230521T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/frauen-in-aalen.196436.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/frauen-in-aalen.196436.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -3912,16 +3882,6 @@ URL:https://www.aalen-kultur.de/ausstellung-petra-goehringer-machleid.1981
  72.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aalener Weinfest
-DTSTART;TZID=Europe/Berlin:20230516T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalener-weinfest.198259.htm
-LOCATION:
-ORGANIZER:
-URL:https://www.aalen-kultur.de/aalener-weinfest.198259.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weinfest Sängerlust Treppach
 DTSTART;TZID=Europe/Berlin:20230923T170000
 DURATION:PT6H59M
@@ -4216,16 +4176,6 @@ DESCRIPTION:https://wasseralfingen.aalen.de/radtreff.198607.htm
 LOCATION:Parkplatz Talschule
 ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/radtreff.198607.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ministrantenfreizeit
-DTSTART;TZID=Europe/Berlin:20230518T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230521T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/ministrantenfreizeit.198609.htm
-LOCATION:Dinkelsbühl
-ORGANIZER:Kath. Kirchengemeinde Hofen
-URL:https://hofen.aalen.de/ministrantenfreizeit.198609.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nordic-Walking
@@ -5076,18 +5026,6 @@ URL:https://www.aalen.de/festival-de-música-junge-philharmonie-ostwuertte
  mberg.198919.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adventskonzert Gaudete – 100 Jahre Chorfreude
-DTSTART;TZID=Europe/Berlin:20231217T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20231217T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/adventskonzert-gaudete--100-jahre-chorfre
- ude.199018.htm
-LOCATION:Wallfahrtskirche Unterkochen
-ORGANIZER:Cappella Nova Unterkochen
-URL:https://www.aalen.de/adventskonzert-gaudete--100-jahre-chorfreude.1990
- 18.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adventskonzert »Gaudete – 100 Jahre Chorfreude«
 DTSTART;TZID=Europe/Berlin:20231217T190000
 DURATION:PT4H59M
@@ -5098,5 +5036,181 @@ LOCATION:Wallfahrtskirche Unterkochen
 ORGANIZER:Cappella Nova Unterkochen
 URL:https://www.aalen.de/adventskonzert--gaudete--100-jahre-chorfreude.199
  019.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderfest
+DTSTART;TZID=Europe/Berlin:20230701T110000
+DURATION:PT12H59M
+RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://waldhausen.aalen.de/kinderfest.199042.htm
+LOCATION:Grundschule Waldhausen
+ORGANIZER:Narrenzunft Waldhausen
+URL:https://waldhausen.aalen.de/kinderfest.199042.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebstag der Härtsfeld Museumsbahn
+DTSTART;TZID=Europe/Berlin:20230528T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230528T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
+ bahn.199050.htm
+LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
+ORGANIZER:Härtsfeld-Museumsbahn e.V.
+URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
+ 050.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebstag der Härtsfeld Museumsbahn
+DTSTART;TZID=Europe/Berlin:20230529T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
+ bahn.199051.htm
+LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
+ORGANIZER:Härtsfeld-Museumsbahn e.V.
+URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
+ 051.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebstag der Härtsfeld Museumsbahn
+DTSTART;TZID=Europe/Berlin:20230604T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230604T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
+ bahn.199052.htm
+LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
+ORGANIZER:Härtsfeld-Museumsbahn e.V.
+URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
+ 052.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebstag der Härtsfeld Museumsbahn
+DTSTART;TZID=Europe/Berlin:20230608T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
+ bahn.199053.htm
+LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
+ORGANIZER:Härtsfeld-Museumsbahn e.V.
+URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
+ 053.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventskonzert »Gaudete – 100 Jahre Chorfreude«
+DTSTART;TZID=Europe/Berlin:20231217T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20231217T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
+DESCRIPTION:https://unterkochen.aalen.de/adventskonzert--gaudete--100-jahr
+ e-chorfreude.199060.htm
+LOCATION:Wallfahrtskirche Unterkochen
+ORGANIZER:Cappella Nova Unterkochen
+URL:https://unterkochen.aalen.de/adventskonzert--gaudete--100-jahre-chorfr
+ eude.199060.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fronleichnam Gottesdienst und Prozession
+DTSTART;TZID=Europe/Berlin:20230608T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/fronleichnam-gottesdienst-und-pro
+ zession.199061.htm
+LOCATION:Kath. Kirche Fachsenfeld
+ORGANIZER:Herz-Jesu-Gemeinde
+URL:https://fachsenfeld.aalen.de/fronleichnam-gottesdienst-und-prozession.
+ 199061.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dorfpokal Fachsenfeld
+DTSTART;TZID=Europe/Berlin:20230610T100000
+DURATION:PT13H59M
+RRULE:FREQ=DAILY;UNTIL=20230610T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/dorfpokal-fachsenfeld.199062.htm
+LOCATION:Vereinsgelände
+ORGANIZER:Tennis Club Fachsenfeld e.V.
+URL:https://fachsenfeld.aalen.de/dorfpokal-fachsenfeld.199062.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20230607T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230607T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/altpapiersammlung.199063.htm
+LOCATION:
+ORGANIZER:Gesangverein Liederkranz
+URL:https://fachsenfeld.aalen.de/altpapiersammlung.199063.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altpapiersammlung
+DTSTART;TZID=Europe/Berlin:20230729T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/altpapiersammlung.199064.htm
+LOCATION:
+ORGANIZER:Kleintierzuchtverein
+URL:https://fachsenfeld.aalen.de/altpapiersammlung.199064.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Begegnungscafé
+DTSTART;TZID=Europe/Berlin:20230621T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230621T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/begegnungscafe.199070.htm
+LOCATION:Katholisches Gemeindehaus
+ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
+URL:https://fachsenfeld.aalen.de/begegnungscafe.199070.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Begegnungscafé
+DTSTART;TZID=Europe/Berlin:20230706T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230706T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/begegnungscafe.199071.htm
+LOCATION:Olga-von-König-Haus
+ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
+URL:https://fachsenfeld.aalen.de/begegnungscafe.199071.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Begegnungscafé/ Sommerfest Seelsorgeeinheit
+DTSTART;TZID=Europe/Berlin:20230719T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230719T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/begegnungscafe-sommerfest-seelsor
+ geeinheit.199072.htm
+LOCATION:Katholisches Gemeindehaus
+ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
+URL:https://fachsenfeld.aalen.de/begegnungscafe-sommerfest-seelsorgeeinhei
+ t.199072.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elterncafé
+DTSTART;TZID=Europe/Berlin:20230622T143000
+DURATION:PT9H29M
+RRULE:FREQ=DAILY;UNTIL=20230622T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/elterncafe.199073.htm
+LOCATION:Katholisches Gemeindehaus
+ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
+URL:https://fachsenfeld.aalen.de/elterncafe.199073.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntagstreff für Frauen 
+DTSTART;TZID=Europe/Berlin:20230625T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199074.
+ htm
+LOCATION:Olga-von-König-Haus
+ORGANIZER:Evangelische Kirchengemeinde Fachsenfeld
+URL:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199074.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonntagstreff für Frauen 
+DTSTART;TZID=Europe/Berlin:20230723T120000
+DURATION:PT11H59M
+RRULE:FREQ=DAILY;UNTIL=20230723T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199075.
+ htm
+LOCATION:Olga-von-König-Haus
+ORGANIZER:Evangelische Kirchengemeinde Fachsenfeld
+URL:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199075.htm
 END:VEVENT
 END:VCALENDAR
