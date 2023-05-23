@@ -111,15 +111,15 @@ ORGANIZER:
 URL:https://www.aalen-kultur.de/solaa-elektrofestival.190476.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Internationales Festival 2023
+SUMMARY:Internationales Fest 2023
 DTSTART;TZID=Europe/Berlin:20230701T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/internationales-festival-2023.1904
- 77.htm
+DESCRIPTION:https://www.aalen-kultur.de/internationales-fest-2023.190477.h
+ tm
 LOCATION:Innenstadt von Aalen
 ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/internationales-festival-2023.190477.htm
+URL:https://www.aalen-kultur.de/internationales-fest-2023.190477.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wasseralfinger Festtage 2023
@@ -4992,14 +4992,16 @@ ORGANIZER:Kappelbergschöre MGV Hofen e.V.
 URL:https://hofen.aalen.de/herbstkonzert.198757.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schlossfest
+SUMMARY:Historisches Schlossfest mit Mittelaltermarkt
 DTSTART;TZID=Europe/Berlin:20230609T200000
 DURATION:PT3H59M
 RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/schlossfest.198858.htm
+DESCRIPTION:https://wasseralfingen.aalen.de/historisches-schlossfest-mit-m
+ ittelaltermarkt.198858.htm
 LOCATION:Schloss Wasseralfingen
 ORGANIZER:Bezirksamt Wasseralfingen / Verein Wasseralfinger Schloss e.V.
-URL:https://wasseralfingen.aalen.de/schlossfest.198858.htm
+URL:https://wasseralfingen.aalen.de/historisches-schlossfest-mit-mittelalt
+ ermarkt.198858.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konzert "Des Geyers Schwarzer Haufen"
@@ -5212,5 +5214,41 @@ DESCRIPTION:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199075.
 LOCATION:Olga-von-König-Haus
 ORGANIZER:Evangelische Kirchengemeinde Fachsenfeld
 URL:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199075.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geführte Wanderung auf dem Aalener Panoramaweg 
+DTSTART;TZID=Europe/Berlin:20230529T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;BYDAY=MO;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalene
+ r-panoramaweg.199120.htm
+LOCATION:MTV-Parkplatz\, Stadionweg
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
+ maweg.199120.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geführte Wanderung auf dem Aalener Panoramaweg 
+DTSTART;TZID=Europe/Berlin:20230729T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalene
+ r-panoramaweg.199121.htm
+LOCATION:Wanderparkplatz am Ende der Langertstraße
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
+ maweg.199121.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geführte Wanderung auf dem Aalener Panoramaweg 
+DTSTART;TZID=Europe/Berlin:20231007T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20231007T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalene
+ r-panoramaweg.199129.htm
+LOCATION:Wanderparkplatz am Ende der Langertstraße
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
+ maweg.199129.htm
 END:VEVENT
 END:VCALENDAR
