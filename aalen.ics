@@ -5251,4 +5251,87 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
  maweg.199129.htm
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Goethe im Park"
+DTSTART;TZID=Europe/Berlin:20230616T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/goethe-im-park.199162.htm
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:THEATER DER STADT AALEN
+URL:https://fachsenfeld.aalen.de/goethe-im-park.199162.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Goethe im Park"
+DTSTART;TZID=Europe/Berlin:20230630T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/goethe-im-park.199169.htm
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:THEATER DER STADT AALEN
+URL:https://fachsenfeld.aalen.de/goethe-im-park.199169.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schloss-Serenade
+DTSTART;TZID=Europe/Berlin:20230722T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230722T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/schloss-serenade.199170.htm
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:Liederkranz Fachsenfeld
+URL:https://fachsenfeld.aalen.de/schloss-serenade.199170.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sternenpicknick
+DTSTART;TZID=Europe/Berlin:20230812T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230812T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/sternenpicknick.199171.htm
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:
+URL:https://fachsenfeld.aalen.de/sternenpicknick.199171.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsenfelder Tag
+DTSTART;TZID=Europe/Berlin:20230709T140000
+DURATION:PT9H59M
+RRULE:FREQ=DAILY;UNTIL=20230709T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/fachsenfelder-tag.199172.htm
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:
+URL:https://fachsenfeld.aalen.de/fachsenfelder-tag.199172.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stumpfes Zieh und Zupfkapelle
+DTSTART;TZID=Europe/Berlin:20230712T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199
+ 173.htm
+LOCATION:Schloss Fachsenfeld
+ORGANIZER:Stadt Aalen
+URL:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199173.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimaentscheid trifft Stadtwerke Aalen
+DTSTART;TZID=Europe/Berlin:20230605T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230605T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/klimaentscheid-trifft-stadtwerke-a
+ alen.199181.htm
+LOCATION:Casino der Stadtwerke Aalen
+ORGANIZER:Initiative Klimaentscheid Aalen
+URL:https://www.aalen-kultur.de/klimaentscheid-trifft-stadtwerke-aalen.199
+ 181.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimacafé
+DTSTART;TZID=Europe/Berlin:20230617T103000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230617T120000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/klimacafe.199182.htm
+LOCATION:UtopiAA
+ORGANIZER:Initiative Klimaentscheid Aalen
+URL:https://www.aalen-kultur.de/klimacafe.199182.htm
+END:VEVENT
 END:VCALENDAR
