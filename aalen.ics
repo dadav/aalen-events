@@ -101,16 +101,6 @@ URL:https://www.aalen-kultur.de/kulturwochen-2024-delattre-dance-company.1
  90438.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOLAA-Elektrofestival
-DTSTART;TZID=Europe/Berlin:20230729T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/solaa-elektrofestival.190476.htm
-LOCATION:
-ORGANIZER:
-URL:https://www.aalen-kultur.de/solaa-elektrofestival.190476.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Internationales Fest 2023
 DTSTART;TZID=Europe/Berlin:20230701T000100
 DURATION:PT23H58M
@@ -122,15 +112,16 @@ ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/internationales-fest-2023.190477.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wasseralfinger Festtage 2023
-DTSTART;TZID=Europe/Berlin:20230623T000100
-DURATION:PT23H58M
+SUMMARY:50. Wasseralfinger Festtage
+DTSTART;TZID=Europe/Berlin:20230623T170000
+DURATION:PT6H59M
 RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/wasseralfinger-festtage-2023.19047
- 9.htm
+DESCRIPTION:https://wasseralfingen.aalen.de/50-wasseralfinger-festtage.190
+ 479.htm
 LOCATION:Wasseralfingen Zentrum
-ORGANIZER:
-URL:https://www.aalen-kultur.de/wasseralfinger-festtage-2023.190479.htm
+ORGANIZER:Stadtverband für Sport + Kultur e.V. und Bezirksamt Wasseralfin
+ gen
+URL:https://wasseralfingen.aalen.de/50-wasseralfinger-festtage.190479.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reichsstädter Tage 2023
@@ -349,17 +340,6 @@ URL:https://www.aalen-kultur.de/kunsthandwerkermarkt-im-stadtgarten.191730
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Accelerando - Trio Klangspektrum
-DTSTART;TZID=Europe/Berlin:20230525T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/accelerando-trio-klangspektrum.192
- 077.htm
-LOCATION:Schloss Kapfenburg
-ORGANIZER:Stiftung Schloss Kapfenburg
-URL:https://www.aalen-kultur.de/accelerando-trio-klangspektrum.192077.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Accelerando - Klavierduo Stenzl
 DTSTART;TZID=Europe/Berlin:20230622T193000
 DURATION:PT4H29M
@@ -411,18 +391,6 @@ DESCRIPTION:https://www.aalen-kultur.de/double-a-festival.192082.htm
 LOCATION:
 ORGANIZER:
 URL:https://www.aalen-kultur.de/double-a-festival.192082.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Baden-Württembergische Theatertage 2023
-DTSTART;TZID=Europe/Berlin:20230519T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230528T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/baden-wuerttembergische-theatertag
- e-2023.192936.htm
-LOCATION:
-ORGANIZER:
-URL:https://www.aalen-kultur.de/baden-wuerttembergische-theatertage-2023.1
- 92936.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Martinsfeier 2023
@@ -580,18 +548,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Altpapier-Bringsammlung Kath. Kirchengemeinde Ministranten
-DTSTART;TZID=Europe/Berlin:20230602T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung-kath-k
- irchengemeinde-ministranten.195059.htm
-LOCATION:Containerstandort: Parkplatz Talschule
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung-kath-kirchenge
- meinde-ministranten.195059.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monatsversammlung Kleintierzuchtverein Wasseralfingen
 DTSTART;TZID=Europe/Berlin:20230609T200000
 DURATION:PT3H59M
@@ -624,18 +580,6 @@ DESCRIPTION:https://wasseralfingen.aalen.de/sommerfest.195063.htm
 LOCATION:Wasseralfingen\, Vereinsgelände Erzhäusle 15
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/sommerfest.195063.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ausstellungseröffnung zu den Wasseralfinger Festtagen
-DTSTART;TZID=Europe/Berlin:20230622T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230622T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/ausstellungseroeffnung-zu-den-
- wasseralfinger-festtagen.195064.htm
-LOCATION:Museum im Bürgerhaus Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/ausstellungseroeffnung-zu-den-wasseral
- finger-festtagen.195064.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grillstand auf den Wasseralfinger Festtagen\, FV Viktoria Wasseral
@@ -745,18 +689,6 @@ LOCATION:Kleintierzuchtverein Wasseralfingen e. V.
 ORGANIZER:
 URL:https://wasseralfingen.aalen.de/monatsversammlung-kleintierzuchtverein
  -wasseralfingen.195073.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:4. Stadtspaziergang "Galgenberg" mit Dr. Georg Wendt
-DTSTART;TZID=Europe/Berlin:20230525T190000
-DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/4-stadtspaziergang-galgenberg-mit-
- dr-georg-wendt.195123.htm
-LOCATION:Treffpunkt 19 Uhr\, Wagnerplatz\, Prof.-Wagner-Straße\, Aalen 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/4-stadtspaziergang-galgenberg-mit-dr-georg
- -wendt.195123.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vortrag: Schubarts Geislinger Schuldiktate mit Dr. Stefan Knödler
@@ -1008,17 +940,6 @@ URL:https://www.aalen.de/einweihung-des-rudolf-duala-manga-bell-platzes-in
  -aalen.195196.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4-Tages-Tour Böhmen und Prag
-DTSTART;TZID=Europe/Berlin:20230530T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230602T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/4-tages-tour-boehmen-und-prag.1951
- 97.htm
-LOCATION:Böhmen und Prag
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/4-tages-tour-boehmen-und-prag.195197.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tag des offenen Quartiers im Hirschbach 
 DTSTART;TZID=Europe/Berlin:20230617T000100
 DURATION:PT23H58M
@@ -1043,18 +964,6 @@ URL:https://www.aalen-kultur.de/adventskonzert-des-staedtischen-orchester.
  195392.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Fall Hau (Theater Baden-Baden)
-DTSTART;TZID=Europe/Berlin:20230525T200000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230525T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/der-fall-hau-theater-baden-baden-.
- 195507.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/der-fall-hau-theater-baden-baden-.195507.h
- tm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herrn Stumpfes Zieh & Zupf Kapelle - Open Air
 DTSTART;TZID=Europe/Berlin:20230712T200000
 DURATION:P0D
@@ -1065,16 +974,6 @@ LOCATION:
 ORGANIZER:Kulturamt der Stadt Aalen
 URL:https://www.aalen-kultur.de/herrn-stumpfes-zieh-zupf-kapelle-open-air.
  195508.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNESCO-Welterbetag
-DTSTART;TZID=Europe/Berlin:20230604T110000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230604T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/unesco-welterbetag.195676.htm
-LOCATION:Limesmuseum Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/unesco-welterbetag.195676.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonderausstellung im Limesmuseum
@@ -1129,18 +1028,6 @@ LOCATION:Limesmuseum Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/ein-sonntagnachmittag-im-limesmuseum.19569
  1.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Familien-Feriennachmittag in den Pfingstferien
-DTSTART;TZID=Europe/Berlin:20230601T140000
-DURATION:PT2H30M
-RRULE:FREQ=DAILY;UNTIL=20230601T163000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/familien-feriennachmittag-in-den-p
- fingstferien.195693.htm
-LOCATION:Limesmuseum Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/familien-feriennachmittag-in-den-pfingstfe
- rien.195693.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Familien-Feriennachmittag in den Herbstferien
@@ -1302,18 +1189,6 @@ URL:https://www.aalen-kultur.de/tag-der-offenen-tuer-beim-polizeipraesidiu
  m-aalen.195855.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ausstellung: Ein Wiedersehen 
-DTSTART;TZID=Europe/Berlin:20230325T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:http://www.museum-wasseralfingen.de/ausstellung-ein-wiedersehe
- n.195910.htm
-LOCATION:Bürgerhaus Wasseralfingen - Museum
-ORGANIZER:Bezriksamt Wasseralfingen 
-URL:http://www.museum-wasseralfingen.de/ausstellung-ein-wiedersehen.195910
- .htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maddin mit dem neuen Programm "Schöne Sonndach" 
 DTSTART;TZID=Europe/Berlin:20231015T170000
 DURATION:PT6H59M
@@ -1324,127 +1199,6 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:Lions Club Aalen Kocher-Jagst 
 URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aerosoul Blechquintett 
-DTSTART;TZID=Europe/Berlin:20230526T183000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230526T193000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aerosoul-blechquintett.196378.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230524T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230524T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96437.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196437.ht
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G`schichtle vom Aalener Hitzkopf
-DTSTART;TZID=Europe/Berlin:20230526T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230526T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.1
- 96440.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/g`schichtle-vom-aalener-hitzkopf.196440.ht
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230527T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230527T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.196441.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalens-gassen.196441.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230527T210000
-DURATION:PT2H59M
-RRULE:FREQ=DAILY;UNTIL=20230527T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 442.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196442.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubAA-Führung
-DTSTART;TZID=Europe/Berlin:20230528T160000
-DURATION:PT7H59M
-RRULE:FREQ=DAILY;UNTIL=20230528T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/kubaa-fuehrung.196443.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/kubaa-fuehrung.196443.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230531T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230531T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96444.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196444.ht
- m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
-DTSTART;TZID=Europe/Berlin:20230601T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230601T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-run
- dgang.196445.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
- 6445.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230602T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230602T235900Z;INTERVAL=1;BYDAY=FR;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 446.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196446.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230603T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.196447.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalens-gassen.196447.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230603T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 448.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196448.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -1576,18 +1330,6 @@ LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196472.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinderkino: Phantastische Tierwesen und wo sie zu finden sind
-DTSTART;TZID=Europe/Berlin:20230526T150000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230526T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/kinderkino-phantastische-
- tierwesen-und-wo-sie-zu-finden-sind.196511.htm
-LOCATION:Torhaus\, Paul-Ulmschneider-Saal
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/kinderkino-phantastische-tierwese
- n-und-wo-sie-zu-finden-sind.196511.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lies mit mir: Platz da\, ihr Hirsche!
@@ -2378,29 +2120,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197077.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: Modern Dance 
-DTSTART;TZID=Europe/Berlin:20230525T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230525T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-modern-dance.197
- 108.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-modern-dance.197108.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: Open Air-Disco 
-DTSTART;TZID=Europe/Berlin:20230601T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230601T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-open-air-disco.1
- 97109.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-open-air-disco.197109.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rundgang mit dem Nachtwächter
 DTSTART;TZID=Europe/Berlin:20230909T210000
 DURATION:PT2H59M
@@ -3045,16 +2764,6 @@ ORGANIZER:Katholische Kirchengemeinde Ebnat
 URL:https://ebnat.aalen.de/firmung.197440.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seniorentreff mit  Maiandacht
-DTSTART;TZID=Europe/Berlin:20230525T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/seniorentreff-mit-maiandacht.197443.htm
-LOCATION:Katholisches Gemeindezentrum Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/seniorentreff-mit-maiandacht.197443.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fronleichnamsgottesdienst
 DTSTART;TZID=Europe/Berlin:20230608T090000
 DURATION:PT14H59M
@@ -3231,16 +2940,6 @@ URL:https://ebnat.aalen.de/seniorentreff.197490.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anlagenfahrt
-DTSTART;TZID=Europe/Berlin:20230604T120000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230604T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197493.htm
-LOCATION:ESC-Anlage
-ORGANIZER:Ebnater Schättere Club
-URL:https://ebnat.aalen.de/anlagenfahrt.197493.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anlagenfahrt
 DTSTART;TZID=Europe/Berlin:20230702T120000
 DURATION:PT6H
 RRULE:FREQ=DAILY;UNTIL=20230702T180000Z;INTERVAL=1;WKST=MO
@@ -3278,18 +2977,6 @@ DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197497.htm
 LOCATION:ESC-Anlage
 ORGANIZER:Ebnater Schättere Club
 URL:https://ebnat.aalen.de/anlagenfahrt.197497.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ausstellung zum Sonderpreis Baukultur 2022
-DTSTART;TZID=Europe/Berlin:20230505T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230525T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/ausstellung-zum-sonderpreis-baukul
- tur-2022.197506.htm
-LOCATION:Rathaus Aalen
-ORGANIZER:Stadt Aalen
-URL:https://www.aalen-kultur.de/ausstellung-zum-sonderpreis-baukultur-2022
- .197506.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mimirichi - Plastic Fantastic (Clownensemble aus Kiew)
@@ -3436,16 +3123,6 @@ DESCRIPTION:https://ebnat.aalen.de/juki-tag.197573.htm
 LOCATION:Turnhalle Waldhausen
 ORGANIZER:Mittelpunkt-Team
 URL:https://ebnat.aalen.de/juki-tag.197573.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Altpapiersammlung
-DTSTART;TZID=Europe/Berlin:20230527T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230527T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/altpapiersammlung.197574.htm
-LOCATION:Ebnat
-ORGANIZER:Kath. Ministrantengruppe Ebnat
-URL:https://ebnat.aalen.de/altpapiersammlung.197574.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dorffest
@@ -4198,16 +3875,6 @@ ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/radtreff.198611.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pfingstmontag Radtour
-DTSTART;TZID=Europe/Berlin:20230529T090000
-DURATION:PT14H59M
-RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/pfingstmontag-radtour.198612.htm
-LOCATION:
-ORGANIZER:Ski-Club Braunenberg 1971 e. V.
-URL:https://hofen.aalen.de/pfingstmontag-radtour.198612.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nordic-Walking
 DTSTART;TZID=Europe/Berlin:20230810T093000
 DURATION:PT14H29M
@@ -4246,26 +3913,6 @@ DESCRIPTION:https://wasseralfingen.aalen.de/stammtisch.198616.htm
 LOCATION:Gasthaus "Frische Quelle"
 ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/stammtisch.198616.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mitgliederversammlung 
-DTSTART;TZID=Europe/Berlin:20230524T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230524T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/mitgliederversammlung.198617.htm
-LOCATION:Gemeindesaal Hofen
-ORGANIZER:St. Georgsverein
-URL:https://hofen.aalen.de/mitgliederversammlung.198617.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gartenfest
-DTSTART;TZID=Europe/Berlin:20230603T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230603T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/gartenfest.198639.htm
-LOCATION:Hofen
-ORGANIZER:Vdk OV Hofen
-URL:https://hofen.aalen.de/gartenfest.198639.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fronleichnamgottesdienst 
@@ -5051,42 +4698,6 @@ URL:https://waldhausen.aalen.de/kinderfest.199042.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betriebstag der Härtsfeld Museumsbahn
-DTSTART;TZID=Europe/Berlin:20230528T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230528T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
- bahn.199050.htm
-LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
-ORGANIZER:Härtsfeld-Museumsbahn e.V.
-URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
- 050.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betriebstag der Härtsfeld Museumsbahn
-DTSTART;TZID=Europe/Berlin:20230529T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
- bahn.199051.htm
-LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
-ORGANIZER:Härtsfeld-Museumsbahn e.V.
-URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
- 051.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betriebstag der Härtsfeld Museumsbahn
-DTSTART;TZID=Europe/Berlin:20230604T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230604T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
- bahn.199052.htm
-LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
-ORGANIZER:Härtsfeld-Museumsbahn e.V.
-URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
- 052.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betriebstag der Härtsfeld Museumsbahn
 DTSTART;TZID=Europe/Berlin:20230608T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
@@ -5217,18 +4828,6 @@ URL:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199075.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geführte Wanderung auf dem Aalener Panoramaweg 
-DTSTART;TZID=Europe/Berlin:20230529T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230529T235900Z;INTERVAL=1;BYDAY=MO;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalene
- r-panoramaweg.199120.htm
-LOCATION:MTV-Parkplatz\, Stadionweg
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
- maweg.199120.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geführte Wanderung auf dem Aalener Panoramaweg 
 DTSTART;TZID=Europe/Berlin:20230729T140000
 DURATION:PT9H59M
 RRULE:FREQ=DAILY;UNTIL=20230729T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
@@ -5313,18 +4912,6 @@ ORGANIZER:Stadt Aalen
 URL:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199173.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Klimaentscheid trifft Stadtwerke Aalen
-DTSTART;TZID=Europe/Berlin:20230605T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230605T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klimaentscheid-trifft-stadtwerke-a
- alen.199181.htm
-LOCATION:Casino der Stadtwerke Aalen
-ORGANIZER:Initiative Klimaentscheid Aalen
-URL:https://www.aalen-kultur.de/klimaentscheid-trifft-stadtwerke-aalen.199
- 181.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Klimacafé
 DTSTART;TZID=Europe/Berlin:20230617T103000
 DURATION:PT1H30M
@@ -5333,5 +4920,215 @@ DESCRIPTION:https://www.aalen-kultur.de/klimacafe.199182.htm
 LOCATION:UtopiAA
 ORGANIZER:Initiative Klimaentscheid Aalen
 URL:https://www.aalen-kultur.de/klimacafe.199182.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tenniscamp für Kinder und Jugendliche
+DTSTART;TZID=Europe/Berlin:20230731T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230802T235900Z;INTERVAL=1;BYDAY=MO,TU,WE;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/tenniscamp-fuer-kinder-und-jugend
+ liche.199185.htm
+LOCATION:
+ORGANIZER:Tennisclub Fachsenfeld
+URL:https://fachsenfeld.aalen.de/tenniscamp-fuer-kinder-und-jugendliche.19
+ 9185.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LK Turnier 
+DTSTART;TZID=Europe/Berlin:20230818T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230820T235900Z;INTERVAL=1;BYDAY=FR,SA,SU;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/lk-turnier.199186.htm
+LOCATION:TC Fachsenfeld Club
+ORGANIZER:Tennisclub Fachsenfeld
+URL:https://fachsenfeld.aalen.de/lk-turnier.199186.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gartenfest
+DTSTART;TZID=Europe/Berlin:20230805T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230806T235900Z;INTERVAL=1;BYDAY=SA,SU;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/gartenfest.199188.htm
+LOCATION:Vereinsheim
+ORGANIZER:Kleintierzuchtverein Fachsenfeld
+URL:https://fachsenfeld.aalen.de/gartenfest.199188.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gartenfest
+DTSTART;TZID=Europe/Berlin:20230701T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;BYDAY=SA,SU;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/gartenfest.199190.htm
+LOCATION:Musikerheim
+ORGANIZER:Musikverein Fachsenfeld 
+URL:https://fachsenfeld.aalen.de/gartenfest.199190.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dorffest
+DTSTART;TZID=Europe/Berlin:20230707T183000
+DURATION:PT5H29M
+RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/dorffest.199193.htm
+LOCATION:Festwiese
+ORGANIZER:Dorffest GbR
+URL:https://fachsenfeld.aalen.de/dorffest.199193.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ortschaftsrat Sitzung 
+DTSTART;TZID=Europe/Berlin:20230712T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/ortschaftsrat-sitzung.199194.htm
+LOCATION:Rathaus Fachsenfeld
+ORGANIZER:Stadt Aalen
+URL:https://fachsenfeld.aalen.de/ortschaftsrat-sitzung.199194.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ostalb läuft 
+DTSTART;TZID=Europe/Berlin:20230721T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230721T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://fachsenfeld.aalen.de/ostalb-laeuft.199195.htm
+LOCATION:Reinhard-von-Koenig-Schule Fachsenfeld
+ORGANIZER:Ostalbkreis
+URL:https://fachsenfeld.aalen.de/ostalb-laeuft.199195.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerkonzert des Aalener Sinfonieorchesters
+DTSTART;TZID=Europe/Berlin:20230702T180000
+DURATION:PT5H59M
+RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/sommerkonzert-des-aalener-sinfonie
+ orchesters.199204.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Aalener Sinfonieorchester
+URL:https://www.aalen-kultur.de/sommerkonzert-des-aalener-sinfonieorcheste
+ rs.199204.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Literatur-Treff: Benedict Wells - vorgestellt von Tilman Schneider
+DTSTART;TZID=Europe/Berlin:20230704T170000
+DURATION:PT1H
+RRULE:FREQ=DAILY;UNTIL=20230704T180000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/literatur-treff-benedict-
+ wells-vorgestellt-von-tilman-schneider.199348.htm
+LOCATION:Stadtbibliothek Aalen
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/literatur-treff-benedict-wells-vo
+ rgestellt-von-tilman-schneider.199348.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bücherzwerge
+DTSTART;TZID=Europe/Berlin:20230712T093000
+DURATION:PT30M
+RRULE:FREQ=DAILY;UNTIL=20230712T100000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.199349.htm
+LOCATION:Stadtbibliothek Aalen\, 2. OG
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.199349.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bücherzwerge
+DTSTART;TZID=Europe/Berlin:20230712T100000
+DURATION:PT30M
+RRULE:FREQ=DAILY;UNTIL=20230712T103000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.199350.htm
+LOCATION:Stadtbibliothek Aalen\, 2. OG
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.199350.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderkino: Ritter Rost - Eisenhart und voll verbeult
+DTSTART;TZID=Europe/Berlin:20230728T150000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230728T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/kinderkino-ritter-rost-ei
+ senhart-und-voll-verbeult.199352.htm
+LOCATION:Torhaus\, Paul-Ulmschneider-Saal
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/kinderkino-ritter-rost-eisenhart-
+ und-voll-verbeult.199352.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lies mit mir: Ibbe & Knut - Ein Seehund macht Urlaub
+DTSTART;TZID=Europe/Berlin:20230717T151500
+DURATION:PT8H44M
+RRULE:FREQ=DAILY;UNTIL=20230717T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/lies-mit-mir-ibbe-knut-ei
+ n-seehund-macht-urlaub.199355.htm
+LOCATION:Bücherei Unterkochen
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-ibbe-knut-ein-seehun
+ d-macht-urlaub.199355.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bücherzwerge
+DTSTART;TZID=Europe/Berlin:20230809T093000
+DURATION:PT30M
+RRULE:FREQ=DAILY;UNTIL=20230809T100000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.199356.htm
+LOCATION:Stadtbibliothek Aalen\, 2. OG
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.199356.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bücherzwerge
+DTSTART;TZID=Europe/Berlin:20230809T100000
+DURATION:PT30M
+RRULE:FREQ=DAILY;UNTIL=20230809T103000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.199357.htm
+LOCATION:Stadtbibliothek Aalen\, 2. OG
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.199357.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderkino: Ostwind 3 - Aufbruch nach Ora
+DTSTART;TZID=Europe/Berlin:20230825T150000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230825T163000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/kinderkino-ostwind-3-aufb
+ ruch-nach-ora.199360.htm
+LOCATION:Torhaus\, Paul-Ulmschneider-Saal
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/kinderkino-ostwind-3-aufbruch-nac
+ h-ora.199360.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Literaturfrühstück - Antoine de Saint-Exupéry: Fliegergeschicht
+ en
+DTSTART;TZID=Europe/Berlin:20230620T090000
+DURATION:PT14H59M
+RRULE:FREQ=DAILY;UNTIL=20230620T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-anto
+ ine-de-saint-exupery-fliegergeschichten.199362.htm
+LOCATION:Evangelischen Gemeindehaus Albert-Schweitzer-Haus in Unterkochen
+ORGANIZER:
+URL:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-antoine-de-s
+ aint-exupery-fliegergeschichten.199362.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellungseröffnung "Röth-Art"
+DTSTART;TZID=Europe/Berlin:20230621T193000
+DURATION:PT4H29M
+RRULE:FREQ=DAILY;UNTIL=20230621T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ausstellungseroeffnung-roeth-a
+ rt.199372.htm
+LOCATION:Museumsgalerie im Bürgerhaus Wasseralfingen
+ORGANIZER:Bund für Heimatpflege / Stadtverband für Sport + Kultur e.V. W
+ asseralfingen
+URL:https://wasseralfingen.aalen.de/ausstellungseroeffnung-roeth-art.19937
+ 2.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung "Röth-Art"
+DTSTART;TZID=Europe/Berlin:20230623T140000
+DURATION:PT4H
+RRULE:FREQ=WEEKLY;UNTIL=20230820T180000Z;INTERVAL=1;BYDAY=FR,SA,SU;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/ausstellung-roeth-art.199375.h
+ tm
+LOCATION:Museumsgalerie im Bürgerhaus Wasseralfingen
+ORGANIZER:Bund für Heimatpflege / Stadtverband für Sport + Kultur e.V. W
+ asseralfingen
+URL:https://wasseralfingen.aalen.de/ausstellung-roeth-art.199375.htm
 END:VEVENT
 END:VCALENDAR
