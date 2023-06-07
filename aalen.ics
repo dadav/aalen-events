@@ -484,18 +484,6 @@ ORGANIZER:
 URL:https://www.aalen-kultur.de/aalener-weihnachtsland.192952.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chor-Konzert Rock on the Water - Limesthermen Aalen
-DTSTART;TZID=Europe/Berlin:20230606T200000
-DURATION:PT4H
-RRULE:FREQ=DAILY;UNTIL=20230607T000000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/chor-konzert-rock-on-the-water-lim
- esthermen-aalen.192962.htm
-LOCATION:Limes-Thermen
-ORGANIZER:Stadtwerke Aalen GmbH
-URL:https://www.aalen-kultur.de/chor-konzert-rock-on-the-water-limestherme
- n-aalen.192962.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Römische Nacht antik  - Limesthermen Aalen
 DTSTART;TZID=Europe/Berlin:20231021T000100
 DURATION:PT23H58M
@@ -1362,18 +1350,6 @@ DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.196544.htm
 LOCATION:Stadtbibliothek Aalen\, 2. OG
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196544.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Literatur-Treff: Peter Wohlleben - Das geheime Leben der Bäume
-DTSTART;TZID=Europe/Berlin:20230606T170000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230606T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/literatur-treff-peter-woh
- lleben-das-geheime-leben-der-baeume.196545.htm
-LOCATION:Stadtbibliothek Aalen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/literatur-treff-peter-wohlleben-d
- as-geheime-leben-der-baeume.196545.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener Kindertag
