@@ -2728,16 +2728,6 @@ ORGANIZER:Katholische Kirchengemeinde Ebnat
 URL:https://ebnat.aalen.de/firmung.197440.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fronleichnamsgottesdienst
-DTSTART;TZID=Europe/Berlin:20230608T090000
-DURATION:PT14H59M
-RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/fronleichnamsgottesdienst.197458.htm
-LOCATION:Katholische Kirche/Gemeindezentrum/Pfarrgarten
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/fronleichnamsgottesdienst.197458.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seniorentreff
 DTSTART;TZID=Europe/Berlin:20230629T140000
 DURATION:PT9H59M
@@ -3879,16 +3869,6 @@ ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/stammtisch.198616.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fronleichnamgottesdienst 
-DTSTART;TZID=Europe/Berlin:20230608T090000
-DURATION:PT14H59M
-RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/fronleichnamgottesdienst.198640.htm
-LOCATION:Glück-Auf-Halle Hofen
-ORGANIZER:Kath. Kirchengemeinde Hofen
-URL:https://hofen.aalen.de/fronleichnamgottesdienst.198640.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bergfest
 DTSTART;TZID=Europe/Berlin:20230617T160000
 DURATION:PT7H59M
@@ -4603,16 +4583,16 @@ ORGANIZER:Kappelbergschöre MGV Hofen e.V.
 URL:https://hofen.aalen.de/herbstkonzert.198757.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Historisches Schlossfest mit Mittelaltermarkt
-DTSTART;TZID=Europe/Berlin:20230609T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/historisches-schlossfest-mit-m
- ittelaltermarkt.198858.htm
+SUMMARY:5. historisches Schlossfest mit Mittelaltermarkt
+DTSTART;TZID=Europe/Berlin:20230610T140000
+DURATION:PT5H
+RRULE:FREQ=DAILY;UNTIL=20230611T190000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/5-historisches-schlossfest-mit
+ -mittelaltermarkt.198858.htm
 LOCATION:Schloss Wasseralfingen
 ORGANIZER:Bezirksamt Wasseralfingen / Verein Wasseralfinger Schloss e.V.
-URL:https://wasseralfingen.aalen.de/historisches-schlossfest-mit-mittelalt
- ermarkt.198858.htm
+URL:https://wasseralfingen.aalen.de/5-historisches-schlossfest-mit-mittela
+ ltermarkt.198858.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konzert "Des Geyers Schwarzer Haufen"
@@ -4661,18 +4641,6 @@ ORGANIZER:Narrenzunft Waldhausen
 URL:https://waldhausen.aalen.de/kinderfest.199042.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Betriebstag der Härtsfeld Museumsbahn
-DTSTART;TZID=Europe/Berlin:20230608T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
- bahn.199053.htm
-LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
-ORGANIZER:Härtsfeld-Museumsbahn e.V.
-URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
- 053.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adventskonzert »Gaudete – 100 Jahre Chorfreude«
 DTSTART;TZID=Europe/Berlin:20231217T190000
 DURATION:PT4H59M
@@ -4683,18 +4651,6 @@ LOCATION:Wallfahrtskirche Unterkochen
 ORGANIZER:Cappella Nova Unterkochen
 URL:https://unterkochen.aalen.de/adventskonzert--gaudete--100-jahre-chorfr
  eude.199060.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fronleichnam Gottesdienst und Prozession
-DTSTART;TZID=Europe/Berlin:20230608T090000
-DURATION:PT14H59M
-RRULE:FREQ=DAILY;UNTIL=20230608T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/fronleichnam-gottesdienst-und-pro
- zession.199061.htm
-LOCATION:Kath. Kirche Fachsenfeld
-ORGANIZER:Herz-Jesu-Gemeinde
-URL:https://fachsenfeld.aalen.de/fronleichnam-gottesdienst-und-prozession.
- 199061.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dorfpokal Fachsenfeld
