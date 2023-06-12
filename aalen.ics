@@ -317,17 +317,6 @@ URL:https://www.aalen-kultur.de/turnaround-jazz-im-bandhaus-axel-kuehn-tri
  o.191728.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wasseralfinger Schlossfest
-DTSTART;TZID=Europe/Berlin:20230609T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/wasseralfinger-schlossfest.191729.
- htm
-LOCATION:Schloss Wasseralfingen
-ORGANIZER:
-URL:https://www.aalen-kultur.de/wasseralfinger-schlossfest.191729.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kunsthandwerkermarkt im Stadtgarten
 DTSTART;TZID=Europe/Berlin:20230708T000100
 DURATION:PT23H58M
@@ -702,19 +691,6 @@ LOCATION:Evangelisches Gemeindehaus Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/vortrag-mit-prof-dr-muehlhausen-das-katast
  rophenjahr-1923-und-die-rettung-der-demokratie.195126.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ausstellung anlässlich der Baden-Württembergischen Theatertage: 
- Täglich Kunst
-DTSTART;TZID=Europe/Berlin:20230512T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/ausstellung-anlaesslich-der-baden-
- wuerttembergischen-theatertage-taeglich-kunst.195129.htm
-LOCATION:Galerie im Alten Rathaus
-ORGANIZER:Kunstverein Aalen e. V.
-URL:https://www.aalen-kultur.de/ausstellung-anlaesslich-der-baden-wuerttem
- bergischen-theatertage-taeglich-kunst.195129.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ausstellung: Jan Hendrik Pelz und Delschad Numan Khorschid
@@ -3004,16 +2980,6 @@ ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
 URL:https://ebnat.aalen.de/sonnwendfeier.197571.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ausflug „Mosel“
-DTSTART;TZID=Europe/Berlin:20230608T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/ausflug-mosel.197572.htm
-LOCATION:
-ORGANIZER:Landfrauenverein Ebnat
-URL:https://ebnat.aalen.de/ausflug-mosel.197572.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juki-Tag
 DTSTART;TZID=Europe/Berlin:20231104T000100
 DURATION:PT23H58M
@@ -3022,16 +2988,6 @@ DESCRIPTION:https://ebnat.aalen.de/juki-tag.197573.htm
 LOCATION:Turnhalle Waldhausen
 ORGANIZER:Mittelpunkt-Team
 URL:https://ebnat.aalen.de/juki-tag.197573.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dorffest
-DTSTART;TZID=Europe/Berlin:20230611T110000
-DURATION:PT12H59M
-RRULE:FREQ=DAILY;UNTIL=20230611T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/dorffest.197580.htm
-LOCATION:Dorfplatz Ebnat
-ORGANIZER:Dorffestverein Ebnat
-URL:https://ebnat.aalen.de/dorffest.197580.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht
@@ -4516,18 +4472,6 @@ DESCRIPTION:https://hofen.aalen.de/herbstkonzert.198757.htm
 LOCATION:Glück-Auf-Halle Hofen
 ORGANIZER:Kappelbergschöre MGV Hofen e.V. 
 URL:https://hofen.aalen.de/herbstkonzert.198757.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:5. historisches Schlossfest mit Mittelaltermarkt
-DTSTART;TZID=Europe/Berlin:20230610T140000
-DURATION:PT5H
-RRULE:FREQ=DAILY;UNTIL=20230611T190000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/5-historisches-schlossfest-mit
- -mittelaltermarkt.198858.htm
-LOCATION:Schloss Wasseralfingen
-ORGANIZER:Bezirksamt Wasseralfingen / Verein Wasseralfinger Schloss e.V.
-URL:https://wasseralfingen.aalen.de/5-historisches-schlossfest-mit-mittela
- ltermarkt.198858.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival de Música - Junge Philharmonie Ostwürttemberg
