@@ -768,16 +768,6 @@ ORGANIZER:
 URL:https://www.aalen-kultur.de/aalener-jazzfest.195141.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:6. Smart City Fachtag
-DTSTART;TZID=Europe/Berlin:20230613T140000
-DURATION:PT3H
-RRULE:FREQ=DAILY;UNTIL=20230613T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/6-smart-city-fachtag.195142.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Wirtschaftsförderung und Smart City
-URL:https://www.aalen-kultur.de/6-smart-city-fachtag.195142.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smart City Regionalkonferenz Aalen-Heidenheim
 DTSTART;TZID=Europe/Berlin:20230614T000100
 DURATION:PT23H58M
@@ -1032,18 +1022,6 @@ DESCRIPTION:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
 LOCATION:
 ORGANIZER:Weststadtzentrum mit Jugendtreff 
 URL:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
-DTSTART;TZID=Europe/Berlin:20230613T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230613T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-
- photovoltaik.195795.htm
-LOCATION:UtopiAA
-ORGANIZER:Lokale Agenda 21 - Agenda Büro 
-URL:https://www.aalen-kultur.de/klimaentscheid-aalen-runder-tisch-photovol
- taik.195795.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
