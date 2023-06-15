@@ -525,18 +525,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Allg. Mittwochstreff VdK OV Wasseralfingen
-DTSTART;TZID=Europe/Berlin:20230614T143000
-DURATION:PT9H29M
-RRULE:FREQ=DAILY;UNTIL=20230614T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-was
- seralfingen.195062.htm
-LOCATION:Saal der Vereine im Bürgerhaus Wasseralfingen
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/allg-mittwochstreff-vdk-ov-wasseralfin
- gen.195062.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sommerfest
 DTSTART;TZID=Europe/Berlin:20230617T000100
 DURATION:PT23H58M
@@ -766,18 +754,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aalener-jazzfest.195141.htm
 LOCATION:
 ORGANIZER:
 URL:https://www.aalen-kultur.de/aalener-jazzfest.195141.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smart City Regionalkonferenz Aalen-Heidenheim
-DTSTART;TZID=Europe/Berlin:20230614T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230614T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/smart-city-regionalkonferenz-aalen
- -heidenheim.195143.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Wirtschaftsförderung und Smart City
-URL:https://www.aalen-kultur.de/smart-city-regionalkonferenz-aalen-heidenh
- eim.195143.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:50 Jahre Ostalbkreis: "Kultur und Gesellschaft - Bunter Kulturaben
@@ -1131,18 +1107,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230614T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230614T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96465.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196465.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Von Rom zur Reichsstadt
 DTSTART;TZID=Europe/Berlin:20230616T180000
 DURATION:PT5H59M
@@ -1217,26 +1181,6 @@ LOCATION:Bücherei Unterkochen
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-platz-da-ihr-hirsche
  -.196538.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bücherzwerge
-DTSTART;TZID=Europe/Berlin:20230614T093000
-DURATION:PT30M
-RRULE:FREQ=DAILY;UNTIL=20230614T100000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.196543.htm
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196543.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bücherzwerge
-DTSTART;TZID=Europe/Berlin:20230614T100000
-DURATION:PT30M
-RRULE:FREQ=DAILY;UNTIL=20230614T103000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/buecherzwerge.196544.htm
-LOCATION:Stadtbibliothek Aalen\, 2. OG
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/buecherzwerge.196544.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aalener Kindertag
