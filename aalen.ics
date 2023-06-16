@@ -681,18 +681,6 @@ URL:https://www.aalen-kultur.de/vortrag-mit-prof-dr-muehlhausen-das-katast
  rophenjahr-1923-und-die-rettung-der-demokratie.195126.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ausstellung: Jan Hendrik Pelz und Delschad Numan Khorschid
-DTSTART;TZID=Europe/Berlin:20230630T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/ausstellung-jan-hendrik-pelz-und-d
- elschad-numan-khorschid.195130.htm
-LOCATION:Galerie im Alten Rathaus
-ORGANIZER:Kunstverein Aalen e. V.
-URL:https://www.aalen-kultur.de/ausstellung-jan-hendrik-pelz-und-delschad-
- numan-khorschid.195130.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ausstellung: Renèe und Thomas Rapedius
 DTSTART;TZID=Europe/Berlin:20230907T000100
 DURATION:PT23H58M
@@ -724,16 +712,6 @@ DESCRIPTION:https://www.aalen-kultur.de/kunstmarkt.195133.htm
 LOCATION:Galerie im Alten Rathaus
 ORGANIZER:Kunstverein Aalen e. V.
 URL:https://www.aalen-kultur.de/kunstmarkt.195133.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fete de la Musique
-DTSTART;TZID=Europe/Berlin:20230621T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230621T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/fete-de-la-musique.195136.htm
-LOCATION:
-ORGANIZER:Hellfire Concerts
-URL:https://www.aalen-kultur.de/fete-de-la-musique.195136.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Galgenberg-Festival
@@ -2400,17 +2378,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197183.htm
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197183.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: Jazz-Dance 
-DTSTART;TZID=Europe/Berlin:20230615T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230615T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-jazz-dance.19718
- 4.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-jazz-dance.197184.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: Russischer Showtanz 
@@ -4830,5 +4797,25 @@ DESCRIPTION:https://unterkochen.aalen.de/oktoberfest-unterkochen.199526.ht
 LOCATION:Festhalle Unterkochen
 ORGANIZER:FV 08 Unterkochen
 URL:https://unterkochen.aalen.de/oktoberfest-unterkochen.199526.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schwanensee
+DTSTART;TZID=Europe/Berlin:20240216T200000
+DURATION:PT2H30M
+RRULE:FREQ=DAILY;UNTIL=20240216T223000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen.de/schwanensee.199741.htm
+LOCATION:Stadthalle
+ORGANIZER:Highlight Concerts
+URL:https://www.aalen.de/schwanensee.199741.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unterkochener Panorama
+DTSTART;TZID=Europe/Berlin:20230624T210000
+DURATION:PT2H59M
+RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://unterkochen.aalen.de/unterkochener-panorama.199758.htm
+LOCATION:Rathausplatz Unterkochen
+ORGANIZER:Musikverein Unterkochen e.V.
+URL:https://unterkochen.aalen.de/unterkochener-panorama.199758.htm
 END:VEVENT
 END:VCALENDAR
