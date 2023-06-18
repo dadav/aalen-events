@@ -525,16 +525,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sommerfest
-DTSTART;TZID=Europe/Berlin:20230617T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/sommerfest.195063.htm
-LOCATION:Wasseralfingen\, Vereinsgelände Erzhäusle 15
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/sommerfest.195063.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grillstand auf den Wasseralfinger Festtagen\, FV Viktoria Wasseral
  fingen
 DTSTART;TZID=Europe/Berlin:20230623T000100
@@ -812,18 +802,6 @@ ORGANIZER:Stadtarchiv Aalen
 URL:https://www.aalen.de/tagesfahrt-burg-hohenzollern.195194.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Ipf – Frühkeltischer Fürstensitz Wer waren die Kelten?
-DTSTART;TZID=Europe/Berlin:20230617T140000
-DURATION:PT3H
-RRULE:FREQ=DAILY;UNTIL=20230617T170000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/der-ipf--fruehkeltischer-fuerstensitz-wer
- -waren-die-kelten-.195195.htm
-LOCATION:Bopfingen
-ORGANIZER:Stadtarchiv Aalen
-URL:https://www.aalen.de/der-ipf--fruehkeltischer-fuerstensitz-wer-waren-d
- ie-kelten-.195195.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Einweihung des Rudolf Duala Manga Bell-Platzes in Aalen
 DTSTART;TZID=Europe/Berlin:20230702T110000
 DURATION:PT1H
@@ -834,18 +812,6 @@ LOCATION:Rudolf-Duala-Manga-Bell-Platz
 ORGANIZER:Stadt Aalen
 URL:https://www.aalen.de/einweihung-des-rudolf-duala-manga-bell-platzes-in
  -aalen.195196.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tag des offenen Quartiers im Hirschbach 
-DTSTART;TZID=Europe/Berlin:20230617T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tag-des-offenen-quartiers-im-hirsc
- hbach.195280.htm
-LOCATION:
-ORGANIZER:Hirschbachclub Aalen e.V. 
-URL:https://www.aalen-kultur.de/tag-des-offenen-quartiers-im-hirschbach.19
- 5280.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskonzert des Städtischen Orchester
@@ -1083,17 +1049,6 @@ LOCATION:KulturBahnhof Aalen
 ORGANIZER:Lions Club Aalen Kocher-Jagst 
 URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230617T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 470.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196470.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frauen in Aalen
@@ -2497,16 +2452,6 @@ URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Firmung
-DTSTART;TZID=Europe/Berlin:20230617T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/firmung.197440.htm
-LOCATION:Katholische Kirche Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/firmung.197440.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seniorentreff
 DTSTART;TZID=Europe/Berlin:20230629T140000
 DURATION:PT9H59M
@@ -3386,18 +3331,6 @@ ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/ah-konditionstraining.198518.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Familienflohmarkt im Kiga Don Bosco
-DTSTART;TZID=Europe/Berlin:20230617T100000
-DURATION:PT4H
-RRULE:FREQ=DAILY;UNTIL=20230617T140000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/familienflohmarkt-im-kiga-don-
- bosco.198593.htm
-LOCATION:Kiga Don Bosco
-ORGANIZER:Kiga Don Bosco
-URL:https://wasseralfingen.aalen.de/familienflohmarkt-im-kiga-don-bosco.19
- 8593.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ortschaftsratssitzung
 DTSTART;TZID=Europe/Berlin:20230711T173000
 DURATION:PT6H29M
@@ -3605,16 +3538,6 @@ DESCRIPTION:https://wasseralfingen.aalen.de/stammtisch.198616.htm
 LOCATION:Gasthaus "Frische Quelle"
 ORGANIZER:Ski-Club Braunenberg 1971 e.V.
 URL:https://wasseralfingen.aalen.de/stammtisch.198616.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bergfest
-DTSTART;TZID=Europe/Berlin:20230617T160000
-DURATION:PT7H59M
-RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/bergfest.198641.htm
-LOCATION:Barbarastube Hofen
-ORGANIZER:Sportkegelclub "Fortuna" Hofen
-URL:https://hofen.aalen.de/bergfest.198641.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Altpapier-Bringsammlung 
@@ -4466,16 +4389,6 @@ URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Goethe im Park"
-DTSTART;TZID=Europe/Berlin:20230616T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230617T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/goethe-im-park.199162.htm
-LOCATION:Schloss Fachsenfeld
-ORGANIZER:THEATER DER STADT AALEN
-URL:https://fachsenfeld.aalen.de/goethe-im-park.199162.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Goethe im Park"
 DTSTART;TZID=Europe/Berlin:20230630T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
@@ -4524,16 +4437,6 @@ DESCRIPTION:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199
 LOCATION:Schloss Fachsenfeld
 ORGANIZER:Stadt Aalen
 URL:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199173.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klimacafé
-DTSTART;TZID=Europe/Berlin:20230617T103000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230617T120000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klimacafe.199182.htm
-LOCATION:UtopiAA
-ORGANIZER:Initiative Klimaentscheid Aalen
-URL:https://www.aalen-kultur.de/klimacafe.199182.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tenniscamp für Kinder und Jugendliche
