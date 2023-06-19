@@ -158,16 +158,6 @@ URL:https://www.aalen-kultur.de/uci-mountainbike-eliminator-worldcup.19073
  9.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aalener Kinderfest 2023
-DTSTART;TZID=Europe/Berlin:20230618T120000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230618T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalener-kinderfest-2023.191016.htm
-LOCATION:Greut-Festplatz
-ORGANIZER:Stadtjugendring Aalen e. V.
-URL:https://www.aalen-kultur.de/aalener-kinderfest-2023.191016.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kinderspielstadt Ostalbcity
 DTSTART;TZID=Europe/Berlin:20230731T000100
 DURATION:PT23H58M
@@ -400,16 +390,6 @@ DESCRIPTION:https://www.aalen-kultur.de/schultanzbegegnung-2023.192939.htm
 LOCATION:Stadthalle
 ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/schultanzbegegnung-2023.192939.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CoKo Festival
-DTSTART;TZID=Europe/Berlin:20230617T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230618T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/coko-festival.192943.htm
-LOCATION:Parkplatz Union Areal 
-ORGANIZER:Isabel Württemberger UG 
-URL:https://www.aalen-kultur.de/coko-festival.192943.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sommeraktion ACA
@@ -934,16 +914,6 @@ ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/nordic-walking.195713.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike and walk the West 
-DTSTART;TZID=Europe/Berlin:20230618T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230618T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
-LOCATION:
-ORGANIZER:Weststadtzentrum mit Jugendtreff 
-URL:https://www.aalen-kultur.de/bike-and-walk-the-west.195732.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Klimaentscheid Aalen - Runder Tisch Photovoltaik 
 DTSTART;TZID=Europe/Berlin:20230711T180000
 DURATION:PT2H
@@ -1051,16 +1021,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frauen in Aalen
-DTSTART;TZID=Europe/Berlin:20230618T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230618T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/frauen-in-aalen.196471.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/frauen-in-aalen.196471.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
 DTSTART;TZID=Europe/Berlin:20230621T200000
 DURATION:PT3H59M
@@ -1071,29 +1031,6 @@ LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196472.ht
  m
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lies mit mir: Platz da\, ihr Hirsche!
-DTSTART;TZID=Europe/Berlin:20230619T151500
-DURATION:PT8H44M
-RRULE:FREQ=DAILY;UNTIL=20230619T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/lies-mit-mir-platz-da-ihr
- -hirsche-.196538.htm
-LOCATION:Bücherei Unterkochen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/lies-mit-mir-platz-da-ihr-hirsche
- -.196538.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalener Kindertag
-DTSTART;TZID=Europe/Berlin:20230618T120000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230618T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/aalener-kindertag.196550.
- htm
-LOCATION:Greutplatz\, Ulrich-Pfeifle-Halle
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/aalener-kindertag.196550.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinderkino: Pettersson und Findus - kleiner Quälgeist\, große Fr
@@ -2791,16 +2728,6 @@ DESCRIPTION:https://ebnat.aalen.de/juki-tag.197573.htm
 LOCATION:Turnhalle Waldhausen
 ORGANIZER:Mittelpunkt-Team
 URL:https://ebnat.aalen.de/juki-tag.197573.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Andacht
-DTSTART;TZID=Europe/Berlin:20230618T150000
-DURATION:PT8H59M
-RRULE:FREQ=DAILY;UNTIL=20230618T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/andacht.197581.htm
-LOCATION:Maria Eich
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/andacht.197581.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allerheiligen-Gottesdienst
@@ -4678,5 +4605,15 @@ DESCRIPTION:https://unterkochen.aalen.de/unterkochener-panorama.199758.htm
 LOCATION:Rathausplatz Unterkochen
 ORGANIZER:Musikverein Unterkochen e.V.
 URL:https://unterkochen.aalen.de/unterkochener-panorama.199758.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reife Leistung
+DTSTART;TZID=Europe/Berlin:20230717T200000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230717T220000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/reife-leistung.199802.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/reife-leistung.199802.htm
 END:VEVENT
 END:VCALENDAR
