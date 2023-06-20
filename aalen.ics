@@ -465,16 +465,6 @@ URL:https://www.aalen-kultur.de/roemische-nacht-antik-limesthermen-aalen.1
  92963.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Unterkochener Panorama
-DTSTART;TZID=Europe/Berlin:20230624T210000
-DURATION:PT2H59M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://unterkochen.aalen.de/unterkochener-panorama.194959.htm
-LOCATION:Rathausplatz Unterkochen
-ORGANIZER:Musikverein Unterkochen e. V.
-URL:https://unterkochen.aalen.de/unterkochener-panorama.194959.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gartenfest
 DTSTART;TZID=Europe/Berlin:20230728T000100
 DURATION:PT23H58M
