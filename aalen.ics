@@ -362,14 +362,24 @@ ORGANIZER:Deutsches Rotes Kreuz - Kreisverband Aalen e.V.
 URL:https://www.aalen-kultur.de/suedtiroler-weinfest.192081.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Double A Festival
+SUMMARY:Double-A-Festival
 DTSTART;TZID=Europe/Berlin:20230722T110000
 DURATION:PT12H59M
 RRULE:FREQ=DAILY;UNTIL=20230722T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/double-a-festival.192082.htm
-LOCATION:
-ORGANIZER:
+LOCATION:Bohlschulplatz
+ORGANIZER:Double-A e.V.
 URL:https://www.aalen-kultur.de/double-a-festival.192082.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAA-Festival
+DTSTART;TZID=Europe/Berlin:20230729T120000
+DURATION:PT10H
+RRULE:FREQ=DAILY;UNTIL=20230729T220000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/solaa-festival.192935.htm
+LOCATION:Union-Areal
+ORGANIZER:
+URL:https://www.aalen-kultur.de/solaa-festival.192935.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Martinsfeier 2023
@@ -4528,19 +4538,6 @@ URL:https://www.stadtbibliothek-aalen.de/kinderkino-ostwind-3-aufbruch-nac
  h-ora.199360.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Literaturfrühstück - Antoine de Saint-Exupéry: Fliegergeschicht
- en
-DTSTART;TZID=Europe/Berlin:20230620T090000
-DURATION:PT14H59M
-RRULE:FREQ=DAILY;UNTIL=20230620T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-anto
- ine-de-saint-exupery-fliegergeschichten.199362.htm
-LOCATION:Evangelischen Gemeindehaus Albert-Schweitzer-Haus in Unterkochen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/literaturfruehstueck-antoine-de-s
- aint-exupery-fliegergeschichten.199362.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ausstellungseröffnung "Röth-Art"
 DTSTART;TZID=Europe/Berlin:20230621T193000
 DURATION:PT4H29M
@@ -4605,5 +4602,29 @@ DESCRIPTION:https://www.aalen-kultur.de/reife-leistung.199802.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/reife-leistung.199802.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebstag der Härtsfeld Museumsbahn
+DTSTART;TZID=Europe/Berlin:20230625T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
+ bahn.199940.htm
+LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
+ORGANIZER:Härtsfeld-Museumsbahn e.V.
+URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
+ 940.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebstag der Härtsfeld Museumsbahn
+DTSTART;TZID=Europe/Berlin:20230702T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
+ bahn.199953.htm
+LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
+ORGANIZER:Härtsfeld-Museumsbahn e.V.
+URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
+ 953.htm
 END:VEVENT
 END:VCALENDAR
