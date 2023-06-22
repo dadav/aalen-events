@@ -1021,18 +1021,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230621T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230621T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96472.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196472.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kinderkino: Pettersson und Findus - kleiner Quälgeist\, große Fr
  eundschaft
 DTSTART;TZID=Europe/Berlin:20230630T150000
@@ -1121,27 +1109,6 @@ DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196582.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230701T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.196583.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalens-gassen.196583.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230701T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 584.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196584.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -4228,16 +4195,6 @@ URL:https://fachsenfeld.aalen.de/altpapiersammlung.199064.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begegnungscafé
-DTSTART;TZID=Europe/Berlin:20230621T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230621T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/begegnungscafe.199070.htm
-LOCATION:Katholisches Gemeindehaus
-ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
-URL:https://fachsenfeld.aalen.de/begegnungscafe.199070.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Begegnungscafé
 DTSTART;TZID=Europe/Berlin:20230706T140000
 DURATION:PT9H59M
 RRULE:FREQ=DAILY;UNTIL=20230706T235900Z;INTERVAL=1;WKST=MO
@@ -4538,19 +4495,6 @@ URL:https://www.stadtbibliothek-aalen.de/kinderkino-ostwind-3-aufbruch-nac
  h-ora.199360.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ausstellungseröffnung "Röth-Art"
-DTSTART;TZID=Europe/Berlin:20230621T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230621T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/ausstellungseroeffnung-roeth-a
- rt.199372.htm
-LOCATION:Museumsgalerie im Bürgerhaus Wasseralfingen
-ORGANIZER:Bund für Heimatpflege / Stadtverband für Sport + Kultur e.V. W
- asseralfingen
-URL:https://wasseralfingen.aalen.de/ausstellungseroeffnung-roeth-art.19937
- 2.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ausstellung "Röth-Art"
 DTSTART;TZID=Europe/Berlin:20230623T140000
 DURATION:PT4H
@@ -4626,5 +4570,61 @@ LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
 ORGANIZER:Härtsfeld-Museumsbahn e.V.
 URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
  953.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vortragsveranstaltung "Hexenverfolgung in der Fürstpropstei Ellwa
+ ngen"
+DTSTART;TZID=Europe/Berlin:20230703T193000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230703T210000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenver
+ folgung-in-der-fuerstpropstei-ellwangen.200011.htm
+LOCATION:Bürgerhaus Wasseralfingen - Bürgersaal
+ORGANIZER:Organisationsteam des historischen Festes mit mittelalterlichem 
+ Markt in und um das Schloss Wasseralfingen / Bezirksamt Wasseralfingen
+URL:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenverfolgung-
+ in-der-fuerstpropstei-ellwangen.200011.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:jaamarkt
+DTSTART;TZID=Europe/Berlin:20230708T120000
+DURATION:PT5H
+RRULE:FREQ=DAILY;UNTIL=20230709T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/jaamarkt.200025.htm
+LOCATION:Stadtgarten 
+ORGANIZER:
+URL:https://www.aalen-kultur.de/jaamarkt.200025.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All about music
+DTSTART;TZID=Europe/Berlin:20230713T180000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230713T193000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/all-about-music.200027.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/all-about-music.200027.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oliver! MUSICAL VON LIONEL BART 
+DTSTART;TZID=Europe/Berlin:20230722T190000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230722T210000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/oliver-musical-von-lionel-bart.200
+ 028.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/oliver-musical-von-lionel-bart.200028.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oliver! MUSICAL VON LIONEL BART 
+DTSTART;TZID=Europe/Berlin:20230723T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230724T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/oliver-musical-von-lionel-bart.200
+ 029.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/oliver-musical-von-lionel-bart.200029.htm
 END:VEVENT
 END:VCALENDAR
