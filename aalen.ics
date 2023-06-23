@@ -25,16 +25,6 @@ URL:https://www.aalen-kultur.de/lost-in-the-stars-das-kurt-weill-programm-
  frankfurter-jazz-trio-und-eva-mayerhofer.186336.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Stage im KUBAA
-DTSTART;TZID=Europe/Berlin:20230622T194500
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230622T194500Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/open-stage-im-kubaa.188884.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/open-stage-im-kubaa.188884.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open stage im KUBAA
 DTSTART;TZID=Europe/Berlin:20231116T194500
 DURATION:P0D
@@ -317,17 +307,6 @@ LOCATION:Stadtgarten
 ORGANIZER:
 URL:https://www.aalen-kultur.de/kunsthandwerkermarkt-im-stadtgarten.191730
  .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Accelerando - Klavierduo Stenzl
-DTSTART;TZID=Europe/Berlin:20230622T193000
-DURATION:PT4H29M
-RRULE:FREQ=DAILY;UNTIL=20230622T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/accelerando-klavierduo-stenzl.1920
- 78.htm
-LOCATION:Schloss Kapfenburg
-ORGANIZER:Schloss Kapfenburg
-URL:https://www.aalen-kultur.de/accelerando-klavierduo-stenzl.192078.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Accelerando - Wildes Holz
@@ -2206,18 +2185,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197183.htm
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197183.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: Russischer Showtanz 
-DTSTART;TZID=Europe/Berlin:20230622T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230622T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-russischer-showt
- anz.197185.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-russischer-showtanz.1971
- 85.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: Square Dance 
@@ -4216,16 +4183,6 @@ URL:https://fachsenfeld.aalen.de/begegnungscafe-sommerfest-seelsorgeeinhei
  t.199072.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elterncafé
-DTSTART;TZID=Europe/Berlin:20230622T143000
-DURATION:PT9H29M
-RRULE:FREQ=DAILY;UNTIL=20230622T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/elterncafe.199073.htm
-LOCATION:Katholisches Gemeindehaus
-ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
-URL:https://fachsenfeld.aalen.de/elterncafe.199073.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sonntagstreff für Frauen 
 DTSTART;TZID=Europe/Berlin:20230625T140000
 DURATION:PT9H59M
@@ -4586,7 +4543,7 @@ URL:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenverfolgung-
  in-der-fuerstpropstei-ellwangen.200011.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:jaamarkt
+SUMMARY:JAAMARKT
 DTSTART;TZID=Europe/Berlin:20230708T120000
 DURATION:PT5H
 RRULE:FREQ=DAILY;UNTIL=20230709T170000Z;INTERVAL=1;WKST=MO
