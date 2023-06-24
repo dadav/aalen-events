@@ -1013,17 +1013,6 @@ URL:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und-findus-
  kleiner-quaelgeist-grosse-freundschaft.196552.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230623T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230623T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 574.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196574.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalens Gassen
 DTSTART;TZID=Europe/Berlin:20230624T170000
 DURATION:PT6H59M
