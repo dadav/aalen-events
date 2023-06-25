@@ -547,26 +547,26 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leistungsabzeichen der Feuerwehren des Ostalbkreises\, FFW Wassera
  lfingen/Hofen
-DTSTART;TZID=Europe/Berlin:20230707T150000
-DURATION:PT8H59M
-RRULE:FREQ=DAILY;UNTIL=20230707T235900Z;INTERVAL=1;WKST=MO
+DTSTART;TZID=Europe/Berlin:20230707T130000
+DURATION:PT9H
+RRULE:FREQ=DAILY;UNTIL=20230708T220000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwe
  hren-des-ostalbkreises-ffw-wasseralfingen-hofen.195070.htm
-LOCATION:Wache Wasseralfingen
-ORGANIZER:
+LOCATION:Feuerwehrgerätehaus Wasseralfingen/Hofen
+ORGANIZER:Feuerwehr Aalen, Abteilung Wasseralfingen/Hofen
 URL:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwehren-des
  -ostalbkreises-ffw-wasseralfingen-hofen.195070.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leistungsabzeichen der Feuerwehren des Ostalbkreises\, FFW Wassera
  lfingen/Hofen
-DTSTART;TZID=Europe/Berlin:20230708T070000
-DURATION:PT16H59M
-RRULE:FREQ=DAILY;UNTIL=20230708T235900Z;INTERVAL=1;WKST=MO
+DTSTART;TZID=Europe/Berlin:20230708T080000
+DURATION:PT14H
+RRULE:FREQ=DAILY;UNTIL=20230708T220000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwe
  hren-des-ostalbkreises-ffw-wasseralfingen-hofen.195071.htm
-LOCATION:Wache Wasseralfingen
-ORGANIZER:
+LOCATION:Feuerwehrgerätehaus Wasseralfingen/Hofen
+ORGANIZER:Feuerwehr Aalen, Abteilung Wasseralfingen/Hofen
 URL:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwehren-des
  -ostalbkreises-ffw-wasseralfingen-hofen.195071.htm
 END:VEVENT
@@ -1011,27 +1011,6 @@ LOCATION:Torhaus\, Paul-Ulmschneider-Saal
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und-findus-
  kleiner-quaelgeist-grosse-freundschaft.196552.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalens Gassen
-DTSTART;TZID=Europe/Berlin:20230624T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.196576.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalens-gassen.196576.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230624T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;BYDAY=SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 577.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196577.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KubAA-Führung
@@ -1541,18 +1520,6 @@ LOCATION:Stadtkirche Ellwangen
 ORGANIZER:Aalener Kammerchor
 URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
  ilaeum.196839.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20230624T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehr
- iges-jubilaeum.196840.htm
-LOCATION:Salvatorkirche Aalen
-ORGANIZER:Aalener Kammerchor
-URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
- ilaeum.196840.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AALEN Festival Orchester - Helden?                                
@@ -2621,16 +2588,6 @@ DESCRIPTION:https://ebnat.aalen.de/waldweihnacht.197554.htm
 LOCATION:Waldkapelle Maria Eich
 ORGANIZER:Musikverein Ebnat
 URL:https://ebnat.aalen.de/waldweihnacht.197554.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonnwendfeier
-DTSTART;TZID=Europe/Berlin:20230624T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/sonnwendfeier.197570.htm
-LOCATION:Naturschutzzentrum Ebnat
-ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
-URL:https://ebnat.aalen.de/sonnwendfeier.197570.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonnwendfeier
@@ -4472,16 +4429,6 @@ DESCRIPTION:https://www.aalen.de/schwanensee.199741.htm
 LOCATION:Stadthalle
 ORGANIZER:Highlight Concerts
 URL:https://www.aalen.de/schwanensee.199741.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unterkochener Panorama
-DTSTART;TZID=Europe/Berlin:20230624T210000
-DURATION:PT2H59M
-RRULE:FREQ=DAILY;UNTIL=20230624T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://unterkochen.aalen.de/unterkochener-panorama.199758.htm
-LOCATION:Rathausplatz Unterkochen
-ORGANIZER:Musikverein Unterkochen e.V.
-URL:https://unterkochen.aalen.de/unterkochener-panorama.199758.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reife Leistung
