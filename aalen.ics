@@ -102,18 +102,6 @@ ORGANIZER:Amt für Kultur und Tourismus
 URL:https://www.aalen-kultur.de/internationales-fest-2023.190477.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:50. Wasseralfinger Festtage
-DTSTART;TZID=Europe/Berlin:20230623T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/50-wasseralfinger-festtage.190
- 479.htm
-LOCATION:Wasseralfingen Zentrum
-ORGANIZER:Stadtverband für Sport + Kultur e.V. und Bezirksamt Wasseralfin
- gen
-URL:https://wasseralfingen.aalen.de/50-wasseralfinger-festtage.190479.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reichsstädter Tage 2023
 DTSTART;TZID=Europe/Berlin:20230908T000100
 DURATION:PT23H58M
@@ -484,43 +472,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grillstand auf den Wasseralfinger Festtagen\, FV Viktoria Wasseral
- fingen
-DTSTART;TZID=Europe/Berlin:20230623T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/grillstand-auf-den-wasseralfin
- ger-festtagen-fv-viktoria-wasseralfingen.195065.htm
-LOCATION:
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/grillstand-auf-den-wasseralfinger-fest
- tagen-fv-viktoria-wasseralfingen.195065.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frühschoppenkonzert bei den Wasseralfinger Festtagen
-DTSTART;TZID=Europe/Berlin:20230625T110000
-DURATION:PT12H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/fruehschoppenkonzert-bei-den-w
- asseralfinger-festtagen.195066.htm
-LOCATION:Stefansplatz
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/fruehschoppenkonzert-bei-den-wasseralf
- inger-festtagen.195066.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abendserenade bei den Wasseralfinger Festtagen
-DTSTART;TZID=Europe/Berlin:20230625T220000
-DURATION:PT1H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/abendserenade-bei-den-wasseral
- finger-festtagen.195067.htm
-LOCATION:Stefansplatz
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/abendserenade-bei-den-wasseralfinger-f
- esttagen.195067.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Altpapier-Bringsammlung Karl-Kessler-Schule (Förderverein)
 DTSTART;TZID=Europe/Berlin:20230630T000100
 DURATION:PT23H58M
@@ -545,30 +496,17 @@ URL:https://wasseralfingen.aalen.de/radtour-aalener-sportallianz-e-v-skiab
  teilung.195069.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leistungsabzeichen der Feuerwehren des Ostalbkreises\, FFW Wassera
- lfingen/Hofen
+SUMMARY:Leistungsabzeichen der Feuerwehren des Ostalbkreises in Wasseralfi
+ ngen
 DTSTART;TZID=Europe/Berlin:20230707T130000
 DURATION:PT9H
 RRULE:FREQ=DAILY;UNTIL=20230708T220000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwe
- hren-des-ostalbkreises-ffw-wasseralfingen-hofen.195070.htm
+ hren-des-ostalbkreises-in-wasseralfingen.195070.htm
 LOCATION:Feuerwehrgerätehaus Wasseralfingen/Hofen
 ORGANIZER:Feuerwehr Aalen, Abteilung Wasseralfingen/Hofen
 URL:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwehren-des
- -ostalbkreises-ffw-wasseralfingen-hofen.195070.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leistungsabzeichen der Feuerwehren des Ostalbkreises\, FFW Wassera
- lfingen/Hofen
-DTSTART;TZID=Europe/Berlin:20230708T080000
-DURATION:PT14H
-RRULE:FREQ=DAILY;UNTIL=20230708T220000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwe
- hren-des-ostalbkreises-ffw-wasseralfingen-hofen.195071.htm
-LOCATION:Feuerwehrgerätehaus Wasseralfingen/Hofen
-ORGANIZER:Feuerwehr Aalen, Abteilung Wasseralfingen/Hofen
-URL:https://wasseralfingen.aalen.de/leistungsabzeichen-der-feuerwehren-des
- -ostalbkreises-ffw-wasseralfingen-hofen.195071.htm
+ -ostalbkreises-in-wasseralfingen.195070.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waldfest
@@ -1011,16 +949,6 @@ LOCATION:Torhaus\, Paul-Ulmschneider-Saal
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und-findus-
  kleiner-quaelgeist-grosse-freundschaft.196552.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KubAA-Führung
-DTSTART;TZID=Europe/Berlin:20230625T160000
-DURATION:PT7H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;BYDAY=SU;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/kubaa-fuehrung.196578.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/kubaa-fuehrung.196578.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stadtgeschichten zur Guten Nacht
@@ -1508,18 +1436,6 @@ DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196701.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aalener Kammerchor feiert 40-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20230625T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehr
- iges-jubilaeum.196839.htm
-LOCATION:Stadtkirche Ellwangen
-ORGANIZER:Aalener Kammerchor
-URL:https://www.aalen-kultur.de/aalener-kammerchor-feiert-40-jaehriges-jub
- ilaeum.196839.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AALEN Festival Orchester - Helden?                                
@@ -2590,16 +2506,6 @@ ORGANIZER:Musikverein Ebnat
 URL:https://ebnat.aalen.de/waldweihnacht.197554.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sonnwendfeier
-DTSTART;TZID=Europe/Berlin:20230625T110000
-DURATION:PT12H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/sonnwendfeier.197571.htm
-LOCATION:Naturschutzzentrum Ebnat
-ORGANIZER:Naturschutzgruppe Vorderes Härtsfeld
-URL:https://ebnat.aalen.de/sonnwendfeier.197571.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Juki-Tag
 DTSTART;TZID=Europe/Berlin:20231104T000100
 DURATION:PT23H58M
@@ -3377,26 +3283,6 @@ ORGANIZER:Kath. Kirchengemeinde Hofen
 URL:https://hofen.aalen.de/fusswallfahrt.198644.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Radball Pokalturnier 
-DTSTART;TZID=Europe/Berlin:20230624T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/radball-pokalturnier.198646.htm
-LOCATION:Glück-Auf-Halle Hofen
-ORGANIZER:RKV Hofen
-URL:https://hofen.aalen.de/radball-pokalturnier.198646.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hitzkuchenradtour
-DTSTART;TZID=Europe/Berlin:20230625T090000
-DURATION:PT14H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/hitzkuchenradtour.198648.htm
-LOCATION:Parkplatz Talschule
-ORGANIZER:RKV Hofen
-URL:https://hofen.aalen.de/hitzkuchenradtour.198648.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2-Tages Radtour
 DTSTART;TZID=Europe/Berlin:20230715T000100
 DURATION:PT23H58M
@@ -4130,17 +4016,6 @@ URL:https://fachsenfeld.aalen.de/begegnungscafe-sommerfest-seelsorgeeinhei
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonntagstreff für Frauen 
-DTSTART;TZID=Europe/Berlin:20230625T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199074.
- htm
-LOCATION:Olga-von-König-Haus
-ORGANIZER:Evangelische Kirchengemeinde Fachsenfeld
-URL:https://fachsenfeld.aalen.de/sonntagstreff-fuer-frauen.199074.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonntagstreff für Frauen 
 DTSTART;TZID=Europe/Berlin:20230723T120000
 DURATION:PT11H59M
 RRULE:FREQ=DAILY;UNTIL=20230723T235900Z;INTERVAL=1;WKST=MO
@@ -4442,18 +4317,6 @@ URL:https://www.aalen-kultur.de/reife-leistung.199802.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betriebstag der Härtsfeld Museumsbahn
-DTSTART;TZID=Europe/Berlin:20230625T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230625T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
- bahn.199940.htm
-LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
-ORGANIZER:Härtsfeld-Museumsbahn e.V.
-URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
- 940.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betriebstag der Härtsfeld Museumsbahn
 DTSTART;TZID=Europe/Berlin:20230702T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
@@ -4473,8 +4336,8 @@ RRULE:FREQ=DAILY;UNTIL=20230703T210000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenver
  folgung-in-der-fuerstpropstei-ellwangen.200011.htm
 LOCATION:Bürgerhaus Wasseralfingen - Bürgersaal
-ORGANIZER:Organisationsteam des historischen Festes mit mittelalterlichem 
- Markt in und um das Schloss Wasseralfingen / Bezirksamt Wasseralfingen
+ORGANIZER:Organisationsteam des Schlossfestes und der Verein Wasseralfinge
+ r Schloß e.V.
 URL:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenverfolgung-
  in-der-fuerstpropstei-ellwangen.200011.htm
 END:VEVENT
@@ -4487,16 +4350,6 @@ DESCRIPTION:https://www.aalen-kultur.de/jaamarkt.200025.htm
 LOCATION:Stadtgarten 
 ORGANIZER:
 URL:https://www.aalen-kultur.de/jaamarkt.200025.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All about music
-DTSTART;TZID=Europe/Berlin:20230713T180000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230713T193000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/all-about-music.200027.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/all-about-music.200027.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oliver! MUSICAL VON LIONEL BART 
@@ -4513,11 +4366,44 @@ BEGIN:VEVENT
 SUMMARY:Oliver! MUSICAL VON LIONEL BART 
 DTSTART;TZID=Europe/Berlin:20230723T190000
 DURATION:PT4H59M
-RRULE:FREQ=DAILY;UNTIL=20230724T235900Z;INTERVAL=1;WKST=MO
+RRULE:FREQ=DAILY;UNTIL=20230723T235900Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/oliver-musical-von-lionel-bart.200
  029.htm
 LOCATION:Stadthalle Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/oliver-musical-von-lionel-bart.200029.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonderführung zur Ausstellung „Victoria – Der römische Sieg 
+ und seine Garanten“
+DTSTART;TZID=Europe/Berlin:20230802T150000
+DURATION:PT8H59M
+RRULE:FREQ=DAILY;UNTIL=20230802T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/sonderfuehrung-zur-ausstellung-vic
+ toria--der-roemische-sieg-und-seine-garanten.200082.htm
+LOCATION:Limesmuseum Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/sonderfuehrung-zur-ausstellung-victoria--d
+ er-roemische-sieg-und-seine-garanten.200082.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All about music
+DTSTART;TZID=Europe/Berlin:20230713T180000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230713T193000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/all-about-music.200088.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/all-about-music.200088.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klassenvorspiel Klavier
+DTSTART;TZID=Europe/Berlin:20230701T180000
+DURATION:PT1H
+RRULE:FREQ=DAILY;UNTIL=20230701T190000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/klassenvorspiel-klavier.200089.htm
+LOCATION:KulturBahnhof Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/klassenvorspiel-klavier.200089.htm
 END:VEVENT
 END:VCALENDAR
