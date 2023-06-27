@@ -3273,16 +3273,6 @@ ORGANIZER:Ortschaftsverwaltung Hofen
 URL:https://hofen.aalen.de/ortschaftsratssitzung.198643.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fußwallfahrt
-DTSTART;TZID=Europe/Berlin:20230626T060000
-DURATION:PT17H59M
-RRULE:FREQ=DAILY;UNTIL=20230626T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://hofen.aalen.de/fusswallfahrt.198644.htm
-LOCATION:Waldhausen
-ORGANIZER:Kath. Kirchengemeinde Hofen
-URL:https://hofen.aalen.de/fusswallfahrt.198644.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2-Tages Radtour
 DTSTART;TZID=Europe/Berlin:20230715T000100
 DURATION:PT23H58M
