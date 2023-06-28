@@ -2412,16 +2412,6 @@ URL:https://www.aalen-kultur.de/mimirichi-plastic-fantastic-clownensemble-
  aus-kiew-.197511.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Halbtagesfahrt 
-DTSTART;TZID=Europe/Berlin:20230627T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230627T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/halbtagesfahrt.197513.htm
-LOCATION:
-ORGANIZER:VdK OV Unterkochen-Ebnat
-URL:https://ebnat.aalen.de/halbtagesfahrt.197513.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wanderung mit anschließendem Vortrag
 DTSTART;TZID=Europe/Berlin:20230828T000100
 DURATION:PT23H58M
