@@ -147,17 +147,6 @@ ORGANIZER:
 URL:https://www.aalen-kultur.de/kinderspielstadt-ostalbcity.191017.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Schuldiktate von C.F.D. Schubart
-DTSTART;TZID=Europe/Berlin:20230920T190000
-DURATION:P0D
-RRULE:FREQ=DAILY;UNTIL=20230920T190000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/schuldiktate-von-c-f-d-schubart.19
- 1200.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:Kulturamt der Stadt Aalen
-URL:https://www.aalen-kultur.de/schuldiktate-von-c-f-d-schubart.191200.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schubarts Volkslieder
 DTSTART;TZID=Europe/Berlin:20231013T190000
 DURATION:P0D
@@ -949,18 +938,6 @@ LOCATION:Torhaus\, Paul-Ulmschneider-Saal
 ORGANIZER:
 URL:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und-findus-
  kleiner-quaelgeist-grosse-freundschaft.196552.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230628T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230628T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96579.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196579.ht
- m
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:G`schichtle vom Aalener Hitzkopf
@@ -4287,8 +4264,8 @@ URL:https://www.aalen.de/schwanensee.199741.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reife Leistung
-DTSTART;TZID=Europe/Berlin:20230717T200000
-DURATION:PT2H
+DTSTART;TZID=Europe/Berlin:20230717T190000
+DURATION:PT3H
 RRULE:FREQ=DAILY;UNTIL=20230717T220000Z;INTERVAL=1;WKST=MO
 DESCRIPTION:https://www.aalen-kultur.de/reife-leistung.199802.htm
 LOCATION:KulturBahnhof Aalen
