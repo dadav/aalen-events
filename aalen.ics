@@ -927,19 +927,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kinderkino: Pettersson und Findus - kleiner Quälgeist\, große Fr
- eundschaft
-DTSTART;TZID=Europe/Berlin:20230630T150000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230630T163000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und
- -findus-kleiner-quaelgeist-grosse-freundschaft.196552.htm
-LOCATION:Torhaus\, Paul-Ulmschneider-Saal
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/kinderkino-pettersson-und-findus-
- kleiner-quaelgeist-grosse-freundschaft.196552.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:G`schichtle vom Aalener Hitzkopf
 DTSTART;TZID=Europe/Berlin:20230630T180000
 DURATION:PT5H59M
@@ -2036,17 +2023,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197183.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: Square Dance 
-DTSTART;TZID=Europe/Berlin:20230629T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230629T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197
- 186.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-square-dance.197186.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: SchulTanzBegegnung 
 DTSTART;TZID=Europe/Berlin:20230706T180000
 DURATION:PT2H
@@ -2170,16 +2146,6 @@ LOCATION:Stadtgarten
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/tanz-im-park-2023-salsa-und-bachata.197390
  .htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seniorentreff
-DTSTART;TZID=Europe/Berlin:20230629T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230629T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/seniorentreff.197461.htm
-LOCATION:Katholisches Gemeindezentrum Ebnat
-ORGANIZER:Katholische Kirchengemeinde Ebnat
-URL:https://ebnat.aalen.de/seniorentreff.197461.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andacht
@@ -2967,18 +2933,6 @@ DESCRIPTION:https://www.aalen-kultur.de/konzert-mit-ensemble-πk.198416.ht
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/konzert-mit-ensemble-πk.198416.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vortrag: Überlebt die Demokratie die künstliche Intelligenz?
-DTSTART;TZID=Europe/Berlin:20230629T180000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230629T193000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/vortrag-ueberlebt-die-demokratie-d
- ie-kuenstliche-intelligenz-.198486.htm
-LOCATION:Hochschule Aalen
-ORGANIZER:Hochschule Aalen und keb Bildungswerk Ostalbkreis
-URL:https://www.aalen-kultur.de/vortrag-ueberlebt-die-demokratie-die-kuens
- tliche-intelligenz-.198486.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stammtisch
@@ -4362,5 +4316,16 @@ DESCRIPTION:https://www.aalen-kultur.de/klassenvorspiel-klavier.200089.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/klassenvorspiel-klavier.200089.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert Classic Brass
+DTSTART;TZID=Europe/Berlin:20230715T190000
+DURATION:PT4H59M
+RRULE:FREQ=DAILY;UNTIL=20230715T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:http://www.museum-wasseralfingen.de/konzert-classic-brass.2002
+ 40.htm
+LOCATION:Magdalenenkirche
+ORGANIZER:Evangelische Kirchengemeinde Wasseralfingen-Hüttlingen
+URL:http://www.museum-wasseralfingen.de/konzert-classic-brass.200240.htm
 END:VEVENT
 END:VCALENDAR
