@@ -461,18 +461,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Altpapier-Bringsammlung Karl-Kessler-Schule (Förderverein)
-DTSTART;TZID=Europe/Berlin:20230630T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/altpapier-bringsammlung-karl-k
- essler-schule-foerderverein-.195068.htm
-LOCATION:Containerstandort: Parkplatz Talschule
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/altpapier-bringsammlung-karl-kessler-s
- chule-foerderverein-.195068.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radtour Aalener Sportallianz e.V.\, Skiabteilung
 DTSTART;TZID=Europe/Berlin:20230702T000100
 DURATION:PT23H58M
@@ -3849,16 +3837,6 @@ URL:https://www.aalen.de/adventskonzert--gaudete--100-jahre-chorfreude.199
  019.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kinderfest
-DTSTART;TZID=Europe/Berlin:20230701T110000
-DURATION:PT12H59M
-RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://waldhausen.aalen.de/kinderfest.199042.htm
-LOCATION:Grundschule Waldhausen
-ORGANIZER:Narrenzunft Waldhausen
-URL:https://waldhausen.aalen.de/kinderfest.199042.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adventskonzert »Gaudete – 100 Jahre Chorfreude«
 DTSTART;TZID=Europe/Berlin:20231217T190000
 DURATION:PT4H59M
@@ -3936,16 +3914,6 @@ LOCATION:Wanderparkplatz am Ende der Langertstraße
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/gefuehrte-wanderung-auf-dem-aalener-panora
  maweg.199129.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"Goethe im Park"
-DTSTART;TZID=Europe/Berlin:20230630T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230701T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/goethe-im-park.199169.htm
-LOCATION:Schloss Fachsenfeld
-ORGANIZER:THEATER DER STADT AALEN
-URL:https://fachsenfeld.aalen.de/goethe-im-park.199169.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schloss-Serenade
@@ -4283,16 +4251,6 @@ DESCRIPTION:https://www.aalen-kultur.de/all-about-music.200088.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/all-about-music.200088.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Klassenvorspiel Klavier
-DTSTART;TZID=Europe/Berlin:20230701T180000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230701T190000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/klassenvorspiel-klavier.200089.htm
-LOCATION:KulturBahnhof Aalen
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/klassenvorspiel-klavier.200089.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Konzert Classic Brass
