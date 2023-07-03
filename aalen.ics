@@ -91,17 +91,6 @@ URL:https://www.aalen-kultur.de/kulturwochen-2024-delattre-dance-company.1
  90438.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Internationales Fest 2023
-DTSTART;TZID=Europe/Berlin:20230701T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/internationales-fest-2023.190477.h
- tm
-LOCATION:Innenstadt von Aalen
-ORGANIZER:Amt für Kultur und Tourismus
-URL:https://www.aalen-kultur.de/internationales-fest-2023.190477.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reichsstädter Tage 2023
 DTSTART;TZID=Europe/Berlin:20230908T000100
 DURATION:PT23H58M
@@ -461,18 +450,6 @@ ORGANIZER:Musikverein Unterkochen e. V.
 URL:https://unterkochen.aalen.de/festmesse.194962.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Radtour Aalener Sportallianz e.V.\, Skiabteilung
-DTSTART;TZID=Europe/Berlin:20230702T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/radtour-aalener-sportallianz-e
- -v-skiabteilung.195069.htm
-LOCATION:
-ORGANIZER:
-URL:https://wasseralfingen.aalen.de/radtour-aalener-sportallianz-e-v-skiab
- teilung.195069.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leistungsabzeichen der Feuerwehren des Ostalbkreises in Wasseralfi
  ngen
 DTSTART;TZID=Europe/Berlin:20230707T130000
@@ -674,18 +651,6 @@ DESCRIPTION:https://www.aalen.de/tagesfahrt-burg-hohenzollern.195194.htm
 LOCATION:Burg Hohenzollern
 ORGANIZER:Stadtarchiv Aalen
 URL:https://www.aalen.de/tagesfahrt-burg-hohenzollern.195194.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Einweihung des Rudolf Duala Manga Bell-Platzes in Aalen
-DTSTART;TZID=Europe/Berlin:20230702T110000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230702T120000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen.de/einweihung-des-rudolf-duala-manga-bell-pl
- atzes-in-aalen.195196.htm
-LOCATION:Rudolf-Duala-Manga-Bell-Platz
-ORGANIZER:Stadt Aalen
-URL:https://www.aalen.de/einweihung-des-rudolf-duala-manga-bell-platzes-in
- -aalen.195196.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adventskonzert des Städtischen Orchester
@@ -2269,16 +2234,6 @@ URL:https://ebnat.aalen.de/seniorentreff.197490.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anlagenfahrt
-DTSTART;TZID=Europe/Berlin:20230702T120000
-DURATION:PT6H
-RRULE:FREQ=DAILY;UNTIL=20230702T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://ebnat.aalen.de/anlagenfahrt.197494.htm
-LOCATION:ESC-Anlage
-ORGANIZER:Ebnater Schättere Club
-URL:https://ebnat.aalen.de/anlagenfahrt.197494.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anlagenfahrt
 DTSTART;TZID=Europe/Berlin:20230806T120000
 DURATION:PT6H
 RRULE:FREQ=DAILY;UNTIL=20230806T180000Z;INTERVAL=1;WKST=MO
@@ -2771,7 +2726,7 @@ ORGANIZER:Ski-Club Braunenberg 1971 e. V.
 URL:https://hofen.aalen.de/radtreff-abschluss.197937.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doppelausstellung: Jan Hendrik Pelz & Delschad Numan Khorschid 
+SUMMARY:Doppelausstellung: Jan-Hendrik Pelz & Delschad Numan Khorschid 
 DTSTART;TZID=Europe/Berlin:20230620T000100
 DURATION:PT23H58M
 RRULE:FREQ=DAILY;UNTIL=20230730T235900Z;INTERVAL=1;WKST=MO
@@ -3946,17 +3901,6 @@ ORGANIZER:
 URL:https://fachsenfeld.aalen.de/fachsenfelder-tag.199172.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stumpfes Zieh und Zupfkapelle
-DTSTART;TZID=Europe/Berlin:20230712T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230712T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199
- 173.htm
-LOCATION:Schloss Fachsenfeld
-ORGANIZER:Stadt Aalen
-URL:https://fachsenfeld.aalen.de/stumpfes-zieh-und-zupfkapelle.199173.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tenniscamp für Kinder und Jugendliche
 DTSTART;TZID=Europe/Berlin:20230731T000100
 DURATION:PT23H58M
@@ -3989,16 +3933,6 @@ ORGANIZER:Kleintierzuchtverein Fachsenfeld
 URL:https://fachsenfeld.aalen.de/gartenfest.199188.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gartenfest
-DTSTART;TZID=Europe/Berlin:20230701T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;BYDAY=SA,SU;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/gartenfest.199190.htm
-LOCATION:Musikerheim
-ORGANIZER:Musikverein Fachsenfeld 
-URL:https://fachsenfeld.aalen.de/gartenfest.199190.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dorffest
 DTSTART;TZID=Europe/Berlin:20230707T183000
 DURATION:PT5H29M
@@ -4027,18 +3961,6 @@ DESCRIPTION:https://fachsenfeld.aalen.de/ostalb-laeuft.199195.htm
 LOCATION:Reinhard-von-Koenig-Schule Fachsenfeld
 ORGANIZER:Ostalbkreis
 URL:https://fachsenfeld.aalen.de/ostalb-laeuft.199195.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sommerkonzert des Aalener Sinfonieorchesters
-DTSTART;TZID=Europe/Berlin:20230702T180000
-DURATION:PT5H59M
-RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/sommerkonzert-des-aalener-sinfonie
- orchesters.199204.htm
-LOCATION:Stadthalle Aalen
-ORGANIZER:Aalener Sinfonieorchester
-URL:https://www.aalen-kultur.de/sommerkonzert-des-aalener-sinfonieorcheste
- rs.199204.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Literatur-Treff: Benedict Wells - vorgestellt von Tilman Schneider
@@ -4170,18 +4092,6 @@ DESCRIPTION:https://www.aalen-kultur.de/reife-leistung.199802.htm
 LOCATION:KulturBahnhof Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/reife-leistung.199802.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betriebstag der Härtsfeld Museumsbahn
-DTSTART;TZID=Europe/Berlin:20230702T000100
-DURATION:PT23H58M
-RRULE:FREQ=DAILY;UNTIL=20230702T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museums
- bahn.199953.htm
-LOCATION:Bahnstrecke der Härtsfeld Museumsbahn
-ORGANIZER:Härtsfeld-Museumsbahn e.V.
-URL:https://www.aalen-kultur.de/betriebstag-der-haertsfeld-museumsbahn.199
- 953.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vortragsveranstaltung "Hexenverfolgung in der Fürstpropstei Ellwa
