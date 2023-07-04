@@ -4094,20 +4094,6 @@ ORGANIZER:None
 URL:https://www.aalen-kultur.de/reife-leistung.199802.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vortragsveranstaltung "Hexenverfolgung in der Fürstpropstei Ellwa
- ngen"
-DTSTART;TZID=Europe/Berlin:20230703T193000
-DURATION:PT1H30M
-RRULE:FREQ=DAILY;UNTIL=20230703T210000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenver
- folgung-in-der-fuerstpropstei-ellwangen.200011.htm
-LOCATION:Bürgerhaus Wasseralfingen - Bürgersaal
-ORGANIZER:Organisationsteam des Schlossfestes und der Verein Wasseralfinge
- r Schloß e.V.
-URL:https://wasseralfingen.aalen.de/vortragsveranstaltung-hexenverfolgung-
- in-der-fuerstpropstei-ellwangen.200011.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JAAMARKT
 DTSTART;TZID=Europe/Berlin:20230708T120000
 DURATION:PT5H
@@ -4172,5 +4158,65 @@ DESCRIPTION:http://www.museum-wasseralfingen.de/konzert-classic-brass.2002
 LOCATION:Magdalenenkirche
 ORGANIZER:Evangelische Kirchengemeinde Wasseralfingen-Hüttlingen
 URL:http://www.museum-wasseralfingen.de/konzert-classic-brass.200240.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norddeutsches Requiem – eine fotografische Lesung mit Jan Lederb
+ ogen
+DTSTART;TZID=Europe/Berlin:20230714T190000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230714T210000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/norddeutsches-requiem--eine-fo
+ tografische-lesung-mit-jan-lederbogen.200354.htm
+LOCATION:Bürgerhaus Wasseralfingen - Bürgersaal
+ORGANIZER:Bund für Heimatpflege Wasseralfingen e.V. / Bezirksamt Wasseral
+ fingen
+URL:https://wasseralfingen.aalen.de/norddeutsches-requiem--eine-fotografis
+ che-lesung-mit-jan-lederbogen.200354.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ausstellung Schwarz auf Weiß - Kunst aus dem Bestand der Stadt Aa
+ len
+DTSTART;TZID=Europe/Berlin:20230809T000100
+DURATION:PT23H58M
+RRULE:FREQ=DAILY;UNTIL=20230903T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/ausstellung-schwarz-auf-weiss-kuns
+ t-aus-dem-bestand-der-stadt-aalen.200390.htm
+LOCATION:Galerie im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/ausstellung-schwarz-auf-weiss-kunst-aus-de
+ m-bestand-der-stadt-aalen.200390.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kunst trifft Musik: Live-Painting 
+DTSTART;TZID=Europe/Berlin:20230804T201500
+DURATION:PT3H44M
+RRULE:FREQ=DAILY;UNTIL=20230804T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/kunst-trifft-musik-live-painting.2
+ 00391.htm
+LOCATION:Galerie im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/kunst-trifft-musik-live-painting.200391.ht
+ m
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop „After Work Malen“ 
+DTSTART;TZID=Europe/Berlin:20230804T180000
+DURATION:PT2H
+RRULE:FREQ=DAILY;UNTIL=20230804T200000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/workshop-after-work-malen.200392.h
+ tm
+LOCATION:Galerie im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/workshop-after-work-malen.200392.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinder-Malworkshop
+DTSTART;TZID=Europe/Berlin:20230805T100000
+DURATION:PT1H30M
+RRULE:FREQ=DAILY;UNTIL=20230805T113000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/kinder-malworkshop.200394.htm
+LOCATION:Galerie im Rathaus Aalen
+ORGANIZER:None
+URL:https://www.aalen-kultur.de/kinder-malworkshop.200394.htm
 END:VEVENT
 END:VCALENDAR
