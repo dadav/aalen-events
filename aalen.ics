@@ -3963,18 +3963,6 @@ ORGANIZER:Ostalbkreis
 URL:https://fachsenfeld.aalen.de/ostalb-laeuft.199195.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Literatur-Treff: Benedict Wells - vorgestellt von Tilman Schneider
-DTSTART;TZID=Europe/Berlin:20230704T170000
-DURATION:PT1H
-RRULE:FREQ=DAILY;UNTIL=20230704T180000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.stadtbibliothek-aalen.de/literatur-treff-benedict-
- wells-vorgestellt-von-tilman-schneider.199348.htm
-LOCATION:Stadtbibliothek Aalen
-ORGANIZER:
-URL:https://www.stadtbibliothek-aalen.de/literatur-treff-benedict-wells-vo
- rgestellt-von-tilman-schneider.199348.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bücherzwerge
 DTSTART;TZID=Europe/Berlin:20230712T093000
 DURATION:PT30M
