@@ -880,18 +880,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stadtgeschichten zur Guten Nacht
-DTSTART;TZID=Europe/Berlin:20230705T200000
-DURATION:PT3H59M
-RRULE:FREQ=DAILY;UNTIL=20230705T235900Z;INTERVAL=1;BYDAY=WE;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.1
- 96585.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/stadtgeschichten-zur-guten-nacht.196585.ht
- m
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
 DTSTART;TZID=Europe/Berlin:20230706T170000
 DURATION:PT6H59M
@@ -4206,5 +4194,17 @@ DESCRIPTION:https://www.aalen-kultur.de/kinder-malworkshop.200394.htm
 LOCATION:Galerie im Rathaus Aalen
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/kinder-malworkshop.200394.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Addnfahrer: „S' Lem is koa Nudlsubbn“
+DTSTART;TZID=Europe/Berlin:20230916T200000
+DURATION:PT3H59M
+RRULE:FREQ=DAILY;UNTIL=20230916T235900Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://www.aalen-kultur.de/addnfahrer-s-lem-is-koa-nudlsubbn.
+ 200454.htm
+LOCATION:Stadthalle Aalen
+ORGANIZER:Konzertbüro Augsburg GmbH
+URL:https://www.aalen-kultur.de/addnfahrer-s-lem-is-koa-nudlsubbn.200454.h
+ tm
 END:VEVENT
 END:VCALENDAR
