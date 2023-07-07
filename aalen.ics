@@ -880,18 +880,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aalen mit Genuss - Kulinarischer Rundgang
-DTSTART;TZID=Europe/Berlin:20230706T170000
-DURATION:PT6H59M
-RRULE:FREQ=DAILY;UNTIL=20230706T235900Z;INTERVAL=1;BYDAY=TH;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-run
- dgang.196587.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/aalen-mit-genuss-kulinarischer-rundgang.19
- 6587.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rundgang mit dem Nachtwächter
 DTSTART;TZID=Europe/Berlin:20230707T213000
 DURATION:PT2H29M
@@ -1939,18 +1927,6 @@ DESCRIPTION:https://www.aalen-kultur.de/aalens-gassen.197183.htm
 LOCATION:
 ORGANIZER:None
 URL:https://www.aalen-kultur.de/aalens-gassen.197183.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tanz im Park 2023: SchulTanzBegegnung 
-DTSTART;TZID=Europe/Berlin:20230706T180000
-DURATION:PT2H
-RRULE:FREQ=DAILY;UNTIL=20230706T200000Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/tanz-im-park-2023-schultanzbegegnu
- ng.197187.htm
-LOCATION:Stadtgarten 
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/tanz-im-park-2023-schultanzbegegnung.19718
- 7.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tanz im Park 2023: Hip & Drop - Orientalischer Tanz 
@@ -3802,16 +3778,6 @@ ORGANIZER:Kleintierzuchtverein
 URL:https://fachsenfeld.aalen.de/altpapiersammlung.199064.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Begegnungscafé
-DTSTART;TZID=Europe/Berlin:20230706T140000
-DURATION:PT9H59M
-RRULE:FREQ=DAILY;UNTIL=20230706T235900Z;INTERVAL=1;WKST=MO
-DESCRIPTION:https://fachsenfeld.aalen.de/begegnungscafe.199071.htm
-LOCATION:Olga-von-König-Haus
-ORGANIZER:Kath. Kirchengemeinde Fachsenfeld
-URL:https://fachsenfeld.aalen.de/begegnungscafe.199071.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Begegnungscafé/ Sommerfest Seelsorgeeinheit
 DTSTART;TZID=Europe/Berlin:20230719T000100
 DURATION:PT23H58M
@@ -4206,5 +4172,29 @@ LOCATION:Stadthalle Aalen
 ORGANIZER:Konzertbüro Augsburg GmbH
 URL:https://www.aalen-kultur.de/addnfahrer-s-lem-is-koa-nudlsubbn.200454.h
  tm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sommerfest mit Einweihung
+DTSTART;TZID=Europe/Berlin:20230715T180000
+DURATION:-PT1H
+RRULE:FREQ=DAILY;UNTIL=20230716T170000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/sommerfest-mit-einweihung.2005
+ 23.htm
+LOCATION:neues Ensemble aus Magdalenenkirche\, Kita mit Gemeindesaal und 
+ „altem Pfarrhaus“
+ORGANIZER:Evangelische Kirchengemeinde Wasseralfingen-Hüttlingen
+URL:https://wasseralfingen.aalen.de/sommerfest-mit-einweihung.200523.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLASSIC BRASS - »Music For Your Soul«
+DTSTART;TZID=Europe/Berlin:20230715T190000
+DURATION:PT2H30M
+RRULE:FREQ=DAILY;UNTIL=20230715T213000Z;INTERVAL=1;WKST=MO
+DESCRIPTION:https://wasseralfingen.aalen.de/classic-brass--music-for-your-
+ soul.200525.htm
+LOCATION:Magdalenenkirche Wasseralfingen
+ORGANIZER:Evangelische Kirchengemeinde Wasseralfingen-Hüttlingen
+URL:https://wasseralfingen.aalen.de/classic-brass--music-for-your-soul.200
+ 525.htm
 END:VEVENT
 END:VCALENDAR
