@@ -46,7 +46,9 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
             post_path.parent.mkdir(exist_ok=True, parents=True)
 
             with open(post_path, "wt") as p:
-                p.write(f"title: {title}\ndescription: {url}\n")
+                p.write(
+                    f"---\ntitle: '{title}'\nauthor: '{organiser}'\ncategories:\n - '{category}'\ndate: {event_date}\n---"
+                )
 
 
 def main() -> int:
