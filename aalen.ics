@@ -880,17 +880,6 @@ URL:https://www.aalen-kultur.de/maddin-mit-dem-neuen-programm-schoene-sonn
  dach.195970.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rundgang mit dem Nachtwächter
-DTSTART;TZID=Europe/Berlin:20230707T213000
-DURATION:PT2H29M
-RRULE:FREQ=DAILY;UNTIL=20230707T235900Z;INTERVAL=1;BYDAY=FR,SA;WKST=MO
-DESCRIPTION:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196
- 588.htm
-LOCATION:
-ORGANIZER:None
-URL:https://www.aalen-kultur.de/rundgang-mit-dem-nachtwaechter.196588.htm
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aalens Gassen
 DTSTART;TZID=Europe/Berlin:20230715T170000
 DURATION:PT6H59M
