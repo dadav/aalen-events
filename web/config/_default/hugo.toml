@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'de'
+DefaultContentLanguage = 'de'
+title = 'Aalen Events'
+buildFuture = true
+theme = 'clarity'

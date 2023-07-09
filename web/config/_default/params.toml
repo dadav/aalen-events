@@ -1,0 +1,17 @@
+# enable search
+enableSearch = true
+
+# Logo image
+logo = "logos/logo.png"
+
+# center logo on navbar
+centerLogo = false # Set to "true" for centering or "false" for left aligned.
+
+# directory(s) where your articles are located
+mainSections = ["events"] # see config details here https://gohugo.io/functions/where/#mainsections
+
+[plausible_analytics]
+enable = false # to enable plausible analytics set to true.
+
+[matomo_analytics]
+enable = false # To enable matomo analytics change to `true`.

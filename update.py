@@ -29,12 +29,16 @@ def fetch_events_json() -> dict:
 def create_posts(output: Path, data: Dict, overwrite: bool = False):
     for item in sorted(data, key=lambda i: i["id"]):
         event_dates = rrulestr(item["rule"])
-        title = item["title"]
+        title = item["title"].replace("'", '"')
         url = item["url"]
         location = item["location"]
-        image = item["image"]["thumb_1230px"] if item["image"] else None
-        category = item["category"]["title"] if item["category"] else None
+        image = item["image"]["thumb_600px"] if item["image"] else "images/platzhalter.png"
+        category = item["category"]["title"] if item["category"] else "Keine"
         organiser = item["organiser"]
+        featured = item["highlight"] or item["topevent"]
+        canceled = item["canceled"]
+        starttime = item["timeStart"] if item["timeValid"] else "00:00"
+        endtime = item["timeEnd"] if item["timeValid"] else "23:59"
 
         for event_date in event_dates:
             post_path = (
@@ -47,7 +51,7 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
 
             with open(post_path, "wt") as p:
                 p.write(
-                    f"---\ntitle: '{title}'\nauthor: '{organiser}'\ncategories:\n - '{category}'\ndate: {event_date}\n---"
+                    f"---\ntitle: '{title}'\nauthor: '{organiser}'\nthumbnail: '{image}'\ncategories:\n  - '{category}'\ndate: {event_date.isoformat()}\nfeatured: {featured}\ncanceled: {canceled}\nlocation: '{location}'\nstarttime: '{starttime}'\nendtime: '{endtime}'\n---\n{url}\nBeginn: {starttime}\n Ende: {endtime}"
                 )
 
 
