@@ -14,8 +14,19 @@
   </span>
   {{- $scratch.Set "writeSeparator" true }}
   {{- end }}
+  {{ $time_diff := lang.NumFmt 2 (.Date.Sub now).Hours }}
+  {{ $time_unit := "Stunden" }}
+  {{- if gt $time_diff 24 }}
+  {{ $time_diff = lang.NumFmt 2 (div (.Date.Sub now).Hours 24) }}
+  {{ $time_unit = "Tagen" }}
+  {{- end }}
   {{ $days_until := div (.Date.Sub now).Hours 24 }}
-  <span class="post_time">{{ if ($scratch.Get "writeSeparator") }} · {{ end }}in {{ $days_until }} Tagen</span>
+  <span>{{ partial "sprite" (dict "icon" "clock") }}</span>
+  <span class="post_time">{{ if ($scratch.Get "writeSeparator") }} · {{ end }}
+    {{ .Params.starttime }} ~ {{ .Params.endtime }}</span>
+  {{- $scratch.Set "writeSeparator" true }}
+  <span class="post_time">{{ if ($scratch.Get "writeSeparator") }} · {{ end }}beginnt in
+    ({{ $time_diff }} {{ $time_unit }})</span>
   {{- $scratch.Set "writeSeparator" true }}
   {{- with .Params.tags -}}
   <span>

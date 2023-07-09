@@ -1,6 +1,6 @@
 {{ $pages := where (where .Pages "Type" "events").ByDate "Params.date" ">=" now }}
 {{ if .IsHome }}
-{{ $pages = (where site.RegularPages "Type" "events").ByDate }}
+{{ $pages = where (where site.RegularPages "Type" "events").ByDate "Params.Date" ">=" now }}
 {{ end }}
 
 {{ if eq site.Params.pinFeatured true }}

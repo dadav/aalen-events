@@ -1,3 +1,4 @@
 *.py[co]
 __cache__
 venv
+web/content/events
