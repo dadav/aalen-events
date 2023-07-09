@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
-languageCode = 'de'
+languageCode = 'de-DE'
 DefaultContentLanguage = 'de'
 title = 'Aalen Events'
 buildFuture = true

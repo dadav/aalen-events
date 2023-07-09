@@ -1,7 +1,7 @@
 ---
 title: 'Krämermarkt/Jacobimarkt'
 author: ''
-thumbnail: 'images/platzhalter.png'
+thumbnail: '/images/platzhalter.png'
 categories:
   - 'Markt'
 date: 2023-07-10T00:01:00+00:00
