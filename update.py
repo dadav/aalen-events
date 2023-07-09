@@ -50,9 +50,23 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
             post_path.parent.mkdir(exist_ok=True, parents=True)
 
             with open(post_path, "wt") as p:
-                p.write(
-                    f"---\ntitle: '{title}'\nauthor: '{organiser}'\nthumbnail: '{image}'\ncategories:\n  - '{category}'\ndate: {event_date.isoformat()}\nfeatured: {featured}\ncanceled: {canceled}\nlocation: '{location}'\nstarttime: '{starttime}'\nendtime: '{endtime}'\n---\n{url}\nBeginn: {starttime}\n Ende: {endtime}"
+                event_txt = (
+                    "---\n"
+                    f"title: '{title}'\n"
+                    f"author: '{organiser}'\n"
+                    f"thumbnail: '{image}'\n"
+                    "categories:\n"
+                    f"  - '{category}'\n"
+                    f"date: {event_date.isoformat()}\n"
+                    f"featured: {featured}\n"
+                    f"canceled: {canceled}\n"
+                    f"location: '{location}'\n"
+                    f"starttime: '{starttime}'\n"
+                    f"endtime: '{endtime}'\n"
+                    "---\n"
                 )
+
+                p.write(event_txt)
 
 
 def main() -> int:
