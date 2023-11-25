@@ -29,13 +29,13 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
     for item in sorted(data, key=lambda i: i["id"]):
         event_dates = rrulestr(item["rule"])
         title = item["title"].replace("'", '"')
-        url = item["url"] or ""
+        url = item["url"] if item["url"] else ""
         location = item["location"]
         image = item["image"]["thumb_600px"] if item["image"] else "/images/platzhalter.png"
         category = item["category"]["title"] if item["category"] else "Keine"
-        organiser = item["organiser"] or ""
+        organiser = item["organiser"] if item["organiser"] else ""
         featured = item["highlight"] or item["topevent"]
-        canceled = item["canceled"] or ""
+        canceled = item["canceled"] if item["canceled"] else ""
         starttime = item["timeStart"] if item["timeValid"] else "00:00"
         endtime = item["timeEnd"] if item["timeValid"] else "23:59"
 
