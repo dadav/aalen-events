@@ -3,7 +3,6 @@
 import sys
 import requests
 from typing import Dict
-from datetime import timedelta
 from dateutil.rrule import rrulestr
 from pathlib import Path
 from slugify import slugify
@@ -78,7 +77,7 @@ def main() -> int:
     output = Path(sys.argv[1])
     output.mkdir(exist_ok=True, parents=True)
 
-    posts = create_posts(output, fetch_events_json())
+    create_posts(output, fetch_events_json())
 
     return ExitCodes.OK
 
