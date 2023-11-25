@@ -48,6 +48,8 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
 
             post_path.parent.mkdir(exist_ok=True, parents=True)
 
+            content = f"[Mehr Details]({url})"
+
             with open(post_path, "wt") as p:
                 event_txt = (
                     "---\n"
@@ -64,6 +66,7 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
                     f"endtime: '{endtime}'\n"
                     f"expireDate: '{endtime}'\n"
                     "---\n"
+                    f"{content}"
                 )
 
                 p.write(event_txt)
