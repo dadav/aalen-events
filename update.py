@@ -62,6 +62,7 @@ def create_posts(output: Path, data: Dict, overwrite: bool = False):
                     f"location: '{location}'\n"
                     f"starttime: '{starttime}'\n"
                     f"endtime: '{endtime}'\n"
+                    f"expireDate: '{endtime}'\n"
                     "---\n"
                 )
 
