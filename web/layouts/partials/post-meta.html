@@ -1,21 +1,28 @@
 {{- $showShare := ne (.Param "showshare") false }} {{- $showDate := ne (.Param
-"showdate") false }} {{- $showReadTime := eq (.Param "showreadtime") true }} {{-
-$showPostMeta := or ($showShare) ($showDate) ($showReadTime) (isset .Params
-"tags") }} {{- $scratch := newScratch }} {{- $scratch.Set "writeSeparator" false
-}} {{- if $showPostMeta }}
+"showdate") false }} {{- $showLocation := ne (.Param "showlocation") false }}
+{{- $showReadTime := eq (.Param "showreadtime") true }} {{- $showPostMeta := or
+($showShare) ($showDate) ($showLocation) ($showReadTime) (isset .Params "tags")
+}} {{- $scratch := newScratch }} {{- $scratch.Set "writeSeparator" false }} {{-
+if $showPostMeta }}
 <div class="post_meta">
   {{- end }} {{- if $showDate }}
   <span>{{ partial "sprite" (dict "icon" "calendar") }}</span>
   <span class="post_date">
     {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.dateFormat) -}}
   </span>
-  {{- $scratch.Set "writeSeparator" true }} {{- end }}
+  {{- $scratch.Set "writeSeparator" true }}
   <span>{{ partial "sprite" (dict "icon" "clock") }}</span>
   <span class="post_time"
     >{{ if ($scratch.Get "writeSeparator") }} · {{ end }} {{ .Params.starttime
     }} ~ {{ .Params.endtime }}</span
   >
-  {{- $scratch.Set "writeSeparator" true }} {{- with .Params.tags -}}
+  {{- if and ($showLocation) (isset .Params "location") }} {{- $scratch.Set
+  "writeSeparator" true }}
+  <span class="post_time"
+    >{{ if ($scratch.Get "writeSeparator") }} · {{ end }}Veranstaltungsort: {{
+    .Params.location }}</span
+  >
+  {{- end }} {{- $scratch.Set "writeSeparator" true }} {{- with .Params.tags -}}
   <span>
     {{- if ($scratch.Get "writeSeparator") }}&nbsp;· {{ end }} {{- range . }}
     {{- $tag := urlize . -}}
